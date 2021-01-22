@@ -1,9 +1,8 @@
 ---
 layout: single
 author_profile: true
+title: Willkommen auf meiner Seite.
 ---
-
-## Willkommen auf meiner Seite.
 
 Wie geht es dir?
 
