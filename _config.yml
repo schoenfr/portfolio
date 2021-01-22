@@ -81,8 +81,7 @@ defaults:
   portfolio:
     output: true
     permalink: /:collection/:path/
-   
-defaults:
+  
   # _portfolio
   - scope:
       path: ""
