@@ -12,6 +12,9 @@ gallery:
   - url: /assets/images/foto03.jpg
     image_path: assets/images/foto03.jpg
     alt: "placeholder image 3"
+header:
+  image: /assets/images/image-filename.jpg
+
 ---
 # Fitness Booster - How to Motivate People to Improve Their Fitness
 The following project was a case study that was provided by the Interaction Design Foundation to apply and integrate the knowledge we gained through taking their course "Design Thinking: The Beginner's Guide".
