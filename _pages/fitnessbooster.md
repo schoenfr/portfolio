@@ -13,7 +13,7 @@ gallery:
     image_path: assets/images/foto03.jpg
     alt: "placeholder image 3"
 header:
-  image: /assets/images/image-filename.jpg
+  image: /assets/images/FitTest.jpg
 
 ---
 # Fitness Booster - How to Motivate People to Improve Their Fitness
