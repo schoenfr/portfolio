@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Home"
-layout: home
+layout: splash
 ---
 
 ## Willkommen auf meiner Seite.
