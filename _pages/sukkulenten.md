@@ -13,7 +13,7 @@ gallery:
     image_path: assets/images/foto03.jpg
     alt: "placeholder image 3"
 header:
-  image: /assets/images/sukkulententitel.jpg
+  image: /assets/images/sukkulententitelbild.jpg
 
 ---
 # Usability Testing: Kakteen und Sukkulenten
