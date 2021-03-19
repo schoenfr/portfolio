@@ -27,6 +27,3 @@ The project brief was very short and also just optional. The task was to create 
 ## First Steps
 To Analyse the project brief and get an idea of it's content seemed essential to me. I wanted to get an better idea of the problem that lay behind the task to create an smartphone app also in context of contemporary problems like the Corona-Pendemic and its direct consequences like for example more remote work, homeschooling and taking care of children, less contact to ohers, closed sport clubs, etc.
 
-## Document Your Works in Progress
-Remember to document each step of the project as much as you can. Since the exercises build on one another, you’ll find it a huge help when you document your progress through photos, illustrations and notes. It’s also easier to tell an engaging story throughout your case study if you have photos and illustrations of your works in progress. If you’re going to include this case study in your portfolio, you should carefully craft and document it in order to highlight your skills, work processes and results. Remember, you have to make your documentation so enticing that an employer would love to schedule an interview with you.
-
