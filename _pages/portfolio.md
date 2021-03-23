@@ -1,7 +1,7 @@
 ---
 permalink: /projects/
 title: Portfolio
-layout: collection
+layout: splash
 collection: portfolio
 entries_layout: list
 classes: wide
