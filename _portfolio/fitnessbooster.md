@@ -14,8 +14,9 @@ gallery:
     alt: "placeholder image 3"
 header:
   image: /assets/images/FitTest.JPG
-
+toc: true
 ---
+
 # Fitness Booster: kollaborativ Trainieren und Neues entdecken
 ## Das Problem:
 Der Beginn der Corona-Pandemie führte zu Einschränkungen in vielen Lebensbereichen und führte auch dazu, dass die einem zuvor selbstverständlich erschienenen analogen Sport-Angebote schließen mussten und später auch nur kurzzeitig und mit einigen Beschränkungen öffnen durften. 
