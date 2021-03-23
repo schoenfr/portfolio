@@ -18,6 +18,7 @@ header:
 ---
 # Usability Testing: Deutscher Onlineshop für Kakteen und andere Sukkulenten
 Der Online-Anbieter für Kakteen und andere Sukkulenten hat zwar einen sehr umfangreichen Bestand an verschiedenen Sukkulenten vorzuweisen, für Sukkulenten-Laien und Pflanzenneulinge sind die Suchfunktionen der Webseite jedoch überfordernd. Dadurch erscheint der Onlineshop als eine Art Fachhandel für Sukkulentenkenner:innen und durch das Konzept werden potentielle Neukunden, die sich als Hobbypflanzenbesitzer:innen bezeichnen würden, abgeschreckt. Um den Problemen, die mit der Suche und Information zu Kakteen und anderen Sukkulenten auf der Seite einhergehen, wurden Usability Tests mit insgesamt acht Testkandidaten durchgeführt. 
+
 Konkrete Knackpunkte bei der Suche, Schwierigkeiten und versteckte Möglichkeiten des Webshops wurden identifiziert und konkrete Ansätze, die zur Erleichterung der Suche und dem Stöbern des Gesamtangebots, wurden in einem Bericht aufgezeigt. Als UX Designerin habe ich dieses Projekt im Rahmen des UX-Kurses "Usability Testing" von der Interaction Design Foundation gemacht. 
 
 ## Project Brief
