@@ -3,7 +3,6 @@ permalink: /projects/
 title: Portfolio
 layout: collection
 collection: portfolio
-entries_layout: grid
+entries_layout: list
 classes: wide
-entries_layout: grid
 ---
