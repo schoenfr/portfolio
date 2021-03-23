@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Sukkulenten"
-permalink: /sukkulenten/
+title: "Glutenfrei"
+permalink: /glutenfree/
 gallery:
   - url: /assets/images/foto01.jpg
     image_path: assets/images/foto01.jpg
@@ -16,7 +16,7 @@ header:
   image: /assets/images/sukkulententitelbild.jpg
 
 ---
-# Usability Testing: Kakteen und Sukkulenten
+# Ideation: Glutenfrei
 The following project was a case study that was provided by the Interaction Design Foundation to apply and integrate the knowledge we gained through taking their course "Design Thinking: The Beginner's Guide".
 
 ## Project Brief
