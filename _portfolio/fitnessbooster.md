@@ -14,9 +14,6 @@ gallery:
     alt: "placeholder image 3"
 header:
   image: /assets/images/FitTest.JPG
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
 ---
 
 # Fitness Booster: kollaborativ Trainieren und Neues entdecken
