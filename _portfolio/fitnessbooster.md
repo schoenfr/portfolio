@@ -26,7 +26,7 @@ To Analyse the project brief and get an idea of it's content seemed essential to
 The project brief was very short and also just optional. The task was to create a smartphone app which will help people to improve their fitness. The target group were described as people who want to exercise more, but just dont get around to do it for various reasons.
 
 <div style="text-align: center">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/hallo.jpg?raw=true" width="1000" />
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbuserinteviews.png?raw=true" width="1500" />
 </div>
 
 Text
