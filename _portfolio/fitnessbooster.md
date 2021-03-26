@@ -31,12 +31,12 @@ The project brief was very short and also just optional. The task was to create 
 
 Text
 
-## Fancy Überschrift für Hauptteil 1: Climax
+## User Interviews: Auswertung und Personas
 
 Beispieltext
 
 <div style="text-align: center">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbaffinitydiagram.jpg?raw=true" width="1500" />
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbempathise.png?raw=true" width="1500" />
 </div>
 Text
 
