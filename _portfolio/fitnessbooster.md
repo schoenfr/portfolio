@@ -25,7 +25,9 @@ Ich habe dieses Projekt im Rahmen des UX Design Kurses „Design Thinking: The B
 To Analyse the project brief and get an idea of it's content seemed essential to me. I wanted to get an better idea of the problem that lay behind the task to create an smartphone app also in context of contemporary problems like the Corona-Pendemic and its direct consequences like for example more remote work, homeschooling and taking care of children, less contact to ohers, closed sport clubs, etc.
 The project brief was very short and also just optional. The task was to create a smartphone app which will help people to improve their fitness. The target group were described as people who want to exercise more, but just dont get around to do it for various reasons.
 
-![Alt-Text](https://github.com/mbosselmann/portfolio/blob/master/assets/images/hallo.jpg?raw=true)
+<p align="center">
+ <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/hallo.jpg?raw=true" width="1000" >
+</p>
 
 Text
 
