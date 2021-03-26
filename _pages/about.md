@@ -1,8 +1,7 @@
 ---
 permalink: /about/
 layout: splash
-title: "About"
-title: null
+title:
 excerpt: Hallo! Ich bin Mareike Boßelmann.
 header:
   overlay_color: "#5e616c"
