@@ -13,7 +13,7 @@ gallery:
     image_path: assets/images/foto03.jpg
     alt: "placeholder image 3"
 header:
-  image: /assets/images/FitTest.JPG
+  image: /assets/images/fitnessheader.jpg
 ---
 
 # Fitness Booster: kollaborativ Trainieren und Neues entdecken
