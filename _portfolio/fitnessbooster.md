@@ -44,8 +44,9 @@ Text
 
 Beispieltext 
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
-
+<div style="text-align: center">
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbempathise.png?raw=true" width="1500" />
+</div>
 Text
 
 ## Schluss
