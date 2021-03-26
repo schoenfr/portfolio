@@ -1,8 +1,10 @@
 main:
-  - title: "Home"
+  - title: "Start"
     url: /
-  - title: "About"
+  - title: "Über mich"
     url: /about/
   - title: "Portfolio"
     url: /projects/
+  - title: "Kontakt"
+    url: /kontakt/
     
