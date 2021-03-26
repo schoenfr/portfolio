@@ -1,8 +1,8 @@
 ---
 permalink: /about/
 layout: splash
-title:
-excerpt: Hallo! Ich bin Mareike Boßelmann.
+title: "Hallo! Ich bin Mareike Boßelmann."
+excerpt: Will ich noch was hinzufügen?
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/about.png
