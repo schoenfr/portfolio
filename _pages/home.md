@@ -5,4 +5,5 @@ layout: splash
 ---
 
 ## Willkommen auf meiner Seite.
-Schön, dass du da bist.
+
+Mein Name ist Mareike Boßelmann und ich zeige Ihnen hier mein Portfolio.
