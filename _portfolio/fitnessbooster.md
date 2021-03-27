@@ -18,8 +18,8 @@ bina_storyboard_gallery:
     image_path: assets/images/fbbinastoryboard.png
     alt: "Storyboard Bina"
 mitch_storyboard_gallery:
-  - url: assets/images/fbmitchstoryboard.png
-    image_path: assets/images/fbmitchstoryboard.png
+  - url: assets/images/fbmitchstoryboard.jpg
+    image_path: assets/images/fbmitchstoryboard.jpg
     alt: "Storyboard Mitch"
 header:
   image: /assets/images/fitnessheader.jpg
