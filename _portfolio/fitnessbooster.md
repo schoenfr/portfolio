@@ -6,7 +6,7 @@ gallery:
   - url: assets/images/personaalltag.jpg?raw=true
     image_path: assets/images/personaalltag.jpg
     alt: "Persona 1: Bina"
-  - url: assets/images/personagelegenheit.png?raw=true
+  - url: assets/images/personagelegenheit.png
     image_path: assets/images/personagelegenheit.png
     alt: "Persona 2: Mitch"
   
