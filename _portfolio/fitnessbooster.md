@@ -2,7 +2,7 @@
 layout: splash
 title: "Fitness Booster"
 permalink: /fitnessbooster/
-gallery:
+persona_gallery:
   - url: assets/images/personaalltag.jpg
     image_path: assets/images/personaalltag.jpg
     alt: "Persona 1: Bina"
@@ -25,7 +25,7 @@ To Analyse the project brief and get an idea of it's content seemed essential to
 The project brief was very short and also just optional. The task was to create a smartphone app which will help people to improve their fitness. The target group were described as people who want to exercise more, but just dont get around to do it for various reasons.
 
 <div style="text-align: center">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbuserinteviews.png?raw=true" width="1500" />
+ 
 </div>
 
 Text
@@ -35,7 +35,8 @@ Text
 Beispieltext
 
 <div style="text-align: center">
-  {% include gallery caption="Bina und Mitch." %}
+    {% include gallery id="persona_gallery" caption="Bina und Mitch." %}
+    {: .notice--warning}
 </div>
 
 Text
