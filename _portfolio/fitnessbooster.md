@@ -14,10 +14,11 @@ header:
   image: /assets/images/fitnessheader.jpg
 ---
 
-# Fitness Booster: Individuell und gemeinschaftlich Sport machen
+# Fitness Booster: Abwechslungsreich Sport machen
 Der Beginn der Corona-Pandemie führte dazu, dass die einem zuvor selbstverständlich erschienenen analogen Sport-Angebote schließen mussten und auch später nur kurzzeitig und mit einigen Beschränkungen öffnen durften. Die qualitative Befragung der Zielgruppe aus 5 Personen ergab, dass ihre Motivation Sport zu machen durch ein vielseitiges und sowohl gemeinschaftliches als auch individuelles Angebot gefördert werden kann. Im Rahmen dieses Projekts wurde ein erster Entwurf einer App entwickelt, in der mehrere Trainer:innen aus verschiedenen Sport-Bereichen ein abwechslungsreiches Sportprogramm aus Videos-on-Demand und Livestreaming-Angeboten für ihre Nutzer:innen anbieten.
 
-Ich habe dieses Projekt im Rahmen des UX Design Kurses „Design Thinking: The Beginner’s Guide“ der Interaction Design Foundation umgesetzt und stand dabei nicht nur in einem regen Austausch mit der Zielgruppe für das Projekt, sondern auch mit einem Senior Software Engineer, mit dem ich mich über die technische Möglichkeit der technischen Umsetzung diesern App und die Konzeption des MVP diskutierte.
+Ich habe dieses Projekt im Rahmen des **UX Design Kurses „Design Thinking: The Beginner’s Guide“** der **Interaction Design Foundation** umgesetzt und stand dabei nicht nur in einem regen Austausch mit der Zielgruppe für das Projekt, sondern auch mit einem Senior Software Engineer, mit dem ich mich über die technische Möglichkeit der technischen Umsetzung diesern App und die Konzeption des MVP diskutierte.
+{: .notice--warning}
 
 ## User Interviews: Vorbereitung und Durchführung
 To Analyse the project brief and get an idea of it's content seemed essential to me. I wanted to get an better idea of the problem that lay behind the task to create an smartphone app also in context of contemporary problems like the Corona-Pendemic and its direct consequences like for example more remote work, homeschooling and taking care of children, less contact to ohers, closed sport clubs, etc.
