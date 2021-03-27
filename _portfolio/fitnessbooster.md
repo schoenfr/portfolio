@@ -44,17 +44,12 @@ Text
 
 Beispieltext 
 
-<div style="text-align: center">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbempathise.png?raw=true" width="1500" />
-</div>
 Text
 
 ## Schluss
 
 The Final Product & Results and Impact
 
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 **Reflections** What is your main challenge in the project, and how have you handled it? What are some lessons you’ve learnt through the project? Has the project changed your outlook as a designer? What are your next steps for the project?
 {: .notice--warning}
