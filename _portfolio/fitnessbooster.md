@@ -36,7 +36,6 @@ Beispieltext
 
 <div style="text-align: center">
     {% include gallery id="persona_gallery" caption="Bina und Mitch." %}
-    {: .notice--warning}
 </div>
 
 Text
