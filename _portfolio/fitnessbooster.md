@@ -3,14 +3,14 @@ layout: splash
 title: "Fitness Booster"
 permalink: /fitnessbooster/
 affinity_gallery:
-  - url: assets/images/fbaffinitygiagram.jpg
-    image_path: assets/fbaffinitygiagram.jpg
+  - url: assets/images/fbaffinitydiagram.jpg
+    image_path: assets/fbaffinitydiagram.jpg
     alt: "Affinity Diagram"
-  - url: assets/images/fbaffinitygiagramdetail01.jpg
-    image_path: assets/images/fbaffinitygiagramdetail01.jpg
+  - url: assets/images/fbaffinitydiagramdetail01.jpg
+    image_path: assets/images/fbaffinitydiagramdetail01.jpg
     alt: "Affinity Diagram: Detail"
-  - url: assets/images/fbaffinitygiagramdetail02.jpg
-    image_path: assets/images/fbaffinitygiagramdetail03.jpg
+  - url: assets/images/fbaffinitydiagramdetail02.jpg
+    image_path: assets/images/fbaffinitydiagramdetail03.jpg
     alt: "Affinity Diagram: Detail"
 persona_gallery:
   - url: assets/images/personaalltag.jpg
