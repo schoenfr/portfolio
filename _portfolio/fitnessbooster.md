@@ -4,7 +4,7 @@ title: "Fitness Booster"
 permalink: /fitnessbooster/
 affinity_gallery:
   - url: assets/images/fbaffinitydiagram.jpg
-    image_path: assets/fbaffinitydiagram.jpg
+    image_path: assets/images/fbaffinitydiagram.jpg
     alt: "Affinity Diagram"
   - url: assets/images/fbaffinitydiagramdetail01.jpg
     image_path: assets/images/fbaffinitydiagramdetail01.jpg
@@ -31,6 +31,30 @@ mitch_storyboard_gallery:
   - url: assets/images/fbmitchstoryboard.jpg
     image_path: assets/images/fbmitchstoryboard.jpg
     alt: "Storyboard Mitch"
+prototype_gallery:
+  - url: assets/images/paperprototype02k.png
+    image_path: assets/images/paperprototype02k.png
+    alt: "Paper Prototype"
+prototype-detail_gallery:
+  - url: assets/images/paperprototype02k.png
+    image_path: assets/images/paperprototype02k.png
+    alt: "Affinity Diagram"
+  - url: assets/images/paperprototype02k.png
+    image_path: assets/images/paperprototype02k.png
+    alt: "Affinity Diagram: Detail"
+  - url: assets/images/paperprototype02k.png
+    image_path: assets/images/paperprototype02k.png
+    alt: "Affinity Diagram: Detail"
+prototype-detail2_gallery:
+  - url: assets/images/paperprototype01k.png
+    image_path: assets/images/paperprototype01k.png
+    alt: "Affinity Diagram"
+  - url: assets/images/paperprototype01k.png
+    image_path: assets/images/paperprototype01k.png
+    alt: "Affinity Diagram: Detail"
+  - url: assets/images/paperprototype01k.png
+    image_path: assets/images/paperprototype01k.png
+    alt: "Affinity Diagram: Detail"
 header:
   image: /assets/images/fitnessheader.jpg
 ---
@@ -69,7 +93,15 @@ Text
   
 ## Prototyp: Erster Entwurf der App als Paper Prototype
 
+{% include gallery id="prototype_gallery" caption="Paper Prototype" %}
+
 Text
+
+{% include gallery id="prototype-detail_gallery" caption="Paper Prototype" %}
+
+Text
+
+{% include gallery id="prototype-detail2_gallery" caption="Paper Prototype" %}
 
 ## Schluss
 
