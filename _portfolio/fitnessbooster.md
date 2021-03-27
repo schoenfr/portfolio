@@ -51,7 +51,7 @@ Beispieltext
 <div style="text-align: center">
     {% include gallery id="persona_gallery" caption="Bina und Mitch." %}
 </div>
-
+  
 Text
 
 ## Define & Ideate: Wie kann ich meinen Usern ein abwechslungsreiches Sportangebot bieten?
@@ -61,13 +61,13 @@ Beispieltext
 <div style="text-align: center">
     {% include gallery id="define_ideate_gallery" caption="Ergebnisse aus den Define- und Ideate-Sessions" %}
 </div>
-
+  
 Text
 
 <div style="text-align: center">
     {% include gallery id="defidea_details_gallery" caption="Detailansicht der Ergebnisse aus den Define- und Ideate-Sessions" %}
 </div>
-
+  
 ## Prototyp: Erster Entwurf der App als Paper Prototype
 
 Text
