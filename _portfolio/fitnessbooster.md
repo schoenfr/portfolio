@@ -3,10 +3,10 @@ layout: splash
 title: "Fitness Booster"
 permalink: /fitnessbooster/
 gallery:
-  - url: /assets/images/personalltag.jpg
+  - url: https://github.com/mbosselmann/portfolio/blob/master/assets/images/personaalltag.jpg?raw=true
     image_path: assets/images/personaalltag.jpg
     alt: "Persona 1: Bina"
-  - url: /assets/images/personagelegenheit.png
+  - url: https://github.com/mbosselmann/portfolio/blob/master/assets/images/personagelegenheit.png?raw=true
     image_path: assets/images/personagelegenheit.png
     alt: "Persona 2: Mitch"
   
