@@ -3,15 +3,13 @@ layout: splash
 title: "Fitness Booster"
 permalink: /fitnessbooster/
 gallery:
-  - url: /assets/images/foto01.jpg
-    image_path: assets/images/foto01.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/foto02.jpg
-    image_path: assets/images/foto02.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/foto03.jpg
-    image_path: assets/images/foto03.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/personalltag.jpg
+    image_path: assets/images/personaalltag.jpg
+    alt: "Persona 1: Bina"
+  - url: /assets/images/personagelegenheit.png
+    image_path: assets/images/personagelegenheit.png
+    alt: "Persona 2: Mitch"
+  
 header:
   image: /assets/images/fitnessheader.jpg
 ---
@@ -36,8 +34,9 @@ Text
 Beispieltext
 
 <div style="text-align: center">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbempathise.png?raw=true" width="1500" />
+  {% include gallery caption="Bina und Mitch." %}
 </div>
+
 Text
 
 ## Fancy Überschrift für Hauptteil 1: Falling Action
