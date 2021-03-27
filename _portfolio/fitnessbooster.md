@@ -3,7 +3,7 @@ layout: splash
 title: "Fitness Booster"
 permalink: /fitnessbooster/
 gallery:
-  - url: assets/images/personaalltag.jpg?raw=true
+  - url: assets/images/personaalltag.jpg
     image_path: assets/images/personaalltag.jpg
     alt: "Persona 1: Bina"
   - url: assets/images/personagelegenheit.png
