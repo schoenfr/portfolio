@@ -35,17 +35,11 @@ Ich habe dieses Projekt im Rahmen des **UX Design Kurses „Design Thinking: The
 To Analyse the project brief and get an idea of it's content seemed essential to me. I wanted to get an better idea of the problem that lay behind the task to create an smartphone app also in context of contemporary problems like the Corona-Pendemic and its direct consequences like for example more remote work, homeschooling and taking care of children, less contact to ohers, closed sport clubs, etc.
 The project brief was very short and also just optional. The task was to create a smartphone app which will help people to improve their fitness. The target group were described as people who want to exercise more, but just dont get around to do it for various reasons.
 
-<div style="text-align: center">
- 
-</div>
-
 Text
 
 Beispieltext
 
-<div style="text-align: center">
-    {% include gallery id="persona_gallery" caption="Bina und Mitch." %}
-</div>
+{% include gallery id="persona_gallery" caption="Bina und Mitch." %}
   
 Text
 
@@ -53,21 +47,15 @@ Text
 
 Beispieltext 
 
-<div style="text-align: center">
-    {% include gallery id="define_ideate_gallery" caption="Ergebnisse aus den Define- und Ideate-Sessions" %}
-</div>
+
+{% include gallery id="define_ideate_gallery" caption="Ergebnisse aus den Define- und Ideate-Sessions" %}
   
 Text
 
-<div style="text-align: center">
-    {% include gallery id="bina_storyboard_gallery" caption="Storyboard mit Bina in der Hauptrolle" %}
-</div>
+{% include gallery id="bina_storyboard_gallery" caption="Storyboard mit Bina in der Hauptrolle" %}
+{% include gallery id="mitch_storyboard_gallery" caption="Storyboard mit Mitch in der Hauptrolle" %}
   
 ## Prototyp: Erster Entwurf der App als Paper Prototype
-
-<div style="text-align: center">
-    {% include gallery id="mitch_storyboard_gallery" caption="Storyboard mit Mitch in der Hauptrolle" %}
-</div>
 
 Text
 
