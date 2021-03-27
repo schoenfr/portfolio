@@ -9,7 +9,23 @@ persona_gallery:
   - url: assets/images/personagelegenheit.png
     image_path: assets/images/personagelegenheit.png
     alt: "Persona 2: Mitch"
-  
+define_ideate_gallery:
+  - url: assets/images/fbdefineideation.jpg
+    image_path: assets/images/fbdefineideation.jpg
+    alt: "Überblick"
+defidea_details_gallery:
+  - url: assets/images/fbempathise.png
+    image_path: assets/images/fbempathise.png
+    alt: "Empathise mit Bina und Mitch"
+  - url: assets/images/fbhowmightwe.png
+    image_path: assets/images/fbhowmightwe.png
+    alt: "How Might We"
+  - url: assets/images/fbwpi.png
+    image_path: assets/images/fbwpi.png
+    alt: "Worst Possible Ideas"
+  - url: assets/images/fbchallenge.png
+    image_path: assets/images/fbchallenge.png
+    alt: "Challenge Assumptions"
 header:
   image: /assets/images/fitnessheader.jpg
 ---
@@ -42,7 +58,15 @@ Text
 
 Beispieltext 
 
+<div style="text-align: center">
+    {% include gallery id="define_ideate_gallery" caption="Ergebnisse aus den Define- und Ideate-Sessions" %}
+</div>
+
 Text
+
+<div style="text-align: center">
+    {% include gallery id="defidea_details_gallery" caption="Detailansicht der Ergebnisse aus den Define- und Ideate-Sessions" %}
+</div>
 
 ## Prototyp: Erster Entwurf der App als Paper Prototype
 
