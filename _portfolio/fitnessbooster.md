@@ -13,19 +13,14 @@ define_ideate_gallery:
   - url: assets/images/fbdefineideation.jpg
     image_path: assets/images/fbdefineideation.jpg
     alt: "Überblick"
-defidea_details_gallery:
-  - url: assets/images/fbempathise.png
-    image_path: assets/images/fbempathise.png
-    alt: "Empathise mit Bina und Mitch"
-  - url: assets/images/fbhowmightwe.png
-    image_path: assets/images/fbhowmightwe.png
-    alt: "How Might We"
-  - url: assets/images/fbwpi.png
-    image_path: assets/images/fbwpi.png
-    alt: "Worst Possible Ideas"
-  - url: assets/images/fbchallenge.png
-    image_path: assets/images/fbchallenge.png
-    alt: "Challenge Assumptions"
+bina_storyboard_gallery:
+  - url: assets/images/fbbinastoryboard.png
+    image_path: assets/images/fbbinastoryboard.png
+    alt: "Storyboard Bina"
+mitch_storyboard_gallery:
+  - url: assets/images/fbmitchstoryboard.png
+    image_path: assets/images/fbmitchstoryboard.png
+    alt: "Storyboard Mitch"
 header:
   image: /assets/images/fitnessheader.jpg
 ---
@@ -65,10 +60,14 @@ Beispieltext
 Text
 
 <div style="text-align: center">
-    {% include gallery id="defidea_details_gallery" caption="Detailansicht der Ergebnisse aus den Define- und Ideate-Sessions" %}
+    {% include gallery id="bina_storyboard_gallery" caption="Storyboard mit Bina in der Hauptrolle" %}
 </div>
   
 ## Prototyp: Erster Entwurf der App als Paper Prototype
+
+<div style="text-align: center">
+    {% include gallery id="mitch_storyboard_gallery" caption="Storyboard mit Mitch in der Hauptrolle" %}
+</div>
 
 Text
 
