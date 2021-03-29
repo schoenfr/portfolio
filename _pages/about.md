@@ -9,6 +9,7 @@ zertifikate:
   - url: https://www.udemy.com/certificate/UC-fecf4e1c-315d-41b6-98a6-b4dfcb1484f5
     image_path: assets/images/udemyuxdesignsketching.jpg
     alt: "Udemy Ux Design Sketching"
+    target: "_blank"
   - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/950c716a-fa49-4ee8-aeb0-f24191ee8bb2
     image_path: assets/images/idxfuxbeginner.jfif
     alt: "User Experience: The Beginner's Guide"
