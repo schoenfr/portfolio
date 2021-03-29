@@ -6,19 +6,19 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/about.png
 zertifikate:
-  - url: https://www.udemy.com/certificate/UC-fecf4e1c-315d-41b6-98a6-b4dfcb1484f5/
+  - url: https://www.udemy.com/certificate/UC-fecf4e1c-315d-41b6-98a6-b4dfcb1484f5"target="_blank
     image_path: assets/images/udemyuxdesignsketching.jpg
     alt: "Udemy Ux Design Sketching"
-  - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/950c716a-fa49-4ee8-aeb0-f24191ee8bb2
+  - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/950c716a-fa49-4ee8-aeb0-f24191ee8bb2"target="_blank
     image_path: assets/images/idxfuxbeginner.jfif
     alt: "User Experience: The Beginner's Guide"
-  - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/d0a425c0-72e8-424a-a393-3c2a008359b1
+  - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/d0a425c0-72e8-424a-a393-3c2a008359b1"target="_blank
     image_path: assets/images/idxfuxportfolio.jfif
     alt: "How to Create a UX Portfolio"
-  - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/313f43bd-fd91-4fb8-b3b5-2b649d704c06
+  - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/313f43bd-fd91-4fb8-b3b5-2b649d704c06"target="_blank
     image_path: assets/images/idxfuxdt.jfif
     alt: "Design Thinking: The Beginner's Guide"
-  - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/d35c481a-fb73-4ebc-8b5e-4a6670122d02?certificateType=course
+  - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/d35c481a-fb73-4ebc-8b5e-4a6670122d02?certificateType=course"target="_blank
     image_path: assets/images/idxfuxdesign.jfif
     alt: "Become a UX Designer from Scratch"
 ---
