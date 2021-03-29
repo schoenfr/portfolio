@@ -57,6 +57,7 @@ prototype-detail2_gallery:
     alt: "Affinity Diagram: Detail"
 header:
   image: /assets/images/fitnessheader.jpg
+  teaser: /assets/images/fbteaser.jpg
 ---
 
 # Fitness Booster: Abwechslungsreich Sport machen
