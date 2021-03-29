@@ -51,6 +51,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-target-blank
   
 collections:
   portfolio:
@@ -79,3 +80,6 @@ defaults:
     values:
       layout: splash
       author_profile: false
+
+target-blank:
+    css_class: ext-link
