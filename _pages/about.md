@@ -5,7 +5,6 @@ title: "Mareike Boßelmann"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/about.png
-excerpt: >
 zertifikate:
   - url: assets/images/udemyuxdesignsketching.jpg
     image_path: assets/images/udemyuxdesignsketching.jpg
