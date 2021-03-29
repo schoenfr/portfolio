@@ -81,5 +81,3 @@ defaults:
       layout: splash
       author_profile: false
 
-target-blank:
-    css_class: ext-link
