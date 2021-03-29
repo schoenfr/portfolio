@@ -14,7 +14,7 @@ gallery:
     alt: "placeholder image 3"
 header:
   image: /assets/images/sukkulententitelbild.jpg
-
+  teaser: /assets/images/utteaser.jpg
 ---
 # Usability Testing: Deutscher Onlineshop für Kakteen und andere Sukkulenten
 Der Online-Anbieter für Kakteen und andere Sukkulenten hat zwar einen sehr umfangreichen Bestand an verschiedenen Sukkulenten vorzuweisen, für Sukkulenten-Laien und Pflanzenneulinge sind die Suchfunktionen der Webseite jedoch überfordernd. Dadurch erscheint der Onlineshop als eine Art Fachhandel für Sukkulentenkenner:innen und durch das Konzept werden potentielle Neukunden, die sich als Hobbypflanzenbesitzer:innen bezeichnen würden, abgeschreckt. Um den Problemen, die mit der Suche und Information zu Kakteen und anderen Sukkulenten auf der Seite einhergehen, wurden Usability Tests mit insgesamt acht Testkandidaten durchgeführt. 
