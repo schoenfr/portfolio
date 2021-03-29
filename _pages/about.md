@@ -7,13 +7,18 @@ header:
   overlay_image: /assets/images/about.png
 excerpt: >
 ---
-
+<div>
 <img align="right" width="300" src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/bild1klein.JPG?raw=true">
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hallo!
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Mein Name ist Mareike Boßelmann und ich bin eine Quereinsteigerin im UX Design. Bereits während meiner Promotion im Fach Kunstgeschichte habe ich begonnen mich dafür zu interessieren und nach der Abgabe meiner Dissertation im November 2020 damit begonnen mir Kompetenzen und Inhalte durch Weiterbildungsangebote für diesen Bereich anzueignen. Nun möchte ich mehr Erfahrungen in der Praxis sammeln und suche nach der passenden Einstiegsmöglichkeit.
 
-<img align="center" width="1500" src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/about01.png?raw=true">
-<img align="center" width="1500" src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/about02.png?raw=true">
+[Button für Lebenslauf]
+</div>
 
+**Welche Komptenzen bringe ich mit?**
+
+**Welche Motivation habe ich?**
+
+**Was ist mein Ziel?**
