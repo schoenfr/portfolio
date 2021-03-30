@@ -27,8 +27,7 @@ zertifikate:
     alt: "Become a UX Designer from Scratch"
     target: "_blank"
 ---
-
-<img align="right" src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/bild1kleiner.jpg?raw=true">
+![image-right](/assets/images/bild1kleiner.jpg){: .align-right}
 
 # Hallo!
 
