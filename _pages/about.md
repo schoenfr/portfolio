@@ -28,7 +28,8 @@ zertifikate:
     target: "_blank"
 ---
 
-<img align="right" width="300" src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/bild1klein.JPG?raw=true">
+{% include figure image_path="/assets/images/bild01kleiner.jpg" alt="Lichtbild: Mareike Boßelmann" %}
+{: .align-right}
 
 # Hallo!
 
