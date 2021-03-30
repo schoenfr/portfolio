@@ -2,9 +2,6 @@
 permalink: /about/
 layout: splash
 title: "Mareike Boßelmann"
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/about.png
 zertifikate:
   - url: https://www.udemy.com/certificate/UC-fecf4e1c-315d-41b6-98a6-b4dfcb1484f5
     image_path: assets/images/udemyuxdesignsketching.jpg
