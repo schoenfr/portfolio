@@ -10,7 +10,7 @@ affinity_gallery:
     image_path: assets/images/fbaffinitydiagramdetail01.jpg
     alt: "Affinity Diagram: Detail"
   - url: assets/images/fbaffinitydiagramdetail02.jpg
-    image_path: assets/images/fbaffinitydiagramdetail03.jpg
+    image_path: assets/images/fbaffinitydiagramdetail02.jpg
     alt: "Affinity Diagram: Detail"
 persona_gallery:
   - url: assets/images/personaalltag.jpg
