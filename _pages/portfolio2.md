@@ -1,24 +1,22 @@
 ---
 permalink: /projects/
 title: Portfolio
-layout: collection
-collection: portfolio
-entries_layout: list
+layout: splash
+feature_row:
+  - image_path: /assets/images/fbteaser.jpg
+    alt: "Fitness Booster"
+    title: "Fitness Booster. Abwechslungsreich Sport treiben"
+    excerpt: "Entwurf für eine App mit abwechslungsreichem Sport-Angebot."
+    url: "/portfolio/fitnessbooster/"
+    btn_label: "Lesen Sie mehr"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/utteaser.jpg
+    alt: "Usability Testing: Online Shop für Sukkulenten"
+    title: "Usability Testing: Online Shop für Sukkulenten"
+    excerpt: "Durchgeführter Funktionalitätstest eines deutschen Onlineshops für Kakteen und andere Sukkulenten."
+    url: "/portfolio/sukkulenten/"
+    btn_label: "Mehr lesen..."
+    btn_class: "btn--inverse"
 ---
 
-ABC
-
-<ul class="project-list m-all t-all d-all ld-all xld-all">
-<li class="light m2 t2-t7 d2-d9 ld2-ld9 xld2-xld9">
-      	   	<div class="m-all t-all d3-d8 ld3-ld9 xld3-xld8">
-      	       <div class="project-thumb t4-t5">
-      	          	<img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbteaser.jpg?raw=true" alt="Fitness Booster">
-      	      	</div>
-      	      	<div class="project-desc m-padinfull t-all">
-      	           <h2>Fitness Booster</h2>
-      	           <p>Bes thing ever.</p>
-		           <a href="/fitnessbooster/" class="micro">Mehr ...</a>
-      	       </div>
-      	    </div>
-</li>
-</ul>
+{% include feature_row %}
