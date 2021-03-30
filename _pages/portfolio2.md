@@ -7,14 +7,14 @@ feature_row:
     alt: "Fitness Booster"
     title: "Fitness Booster"
     excerpt: ""
-    url: "/portfolio/fitnessbooster/"
+    url: "/fitnessbooster/"
     btn_label: "Lesen Sie mehr"
     btn_class: "btn--inverse"
   - image_path: /assets/images/utteaser.jpg
     alt: "Usability Testing: Online Shop für Sukkulenten"
     title: "Usability Testing: Online Shop für Sukkulenten"
     excerpt: ""
-    url: "/portfolio/sukkulenten/"
+    url: "/sukkulenten/"
     btn_label: "Mehr lesen..."
     btn_class: "btn--inverse"
 ---
