@@ -19,6 +19,8 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-<div><p> </p></div>
+### 
 
 {% include feature_row id="feature_row" type="left" %}
+
+###
