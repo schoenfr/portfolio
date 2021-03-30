@@ -19,6 +19,6 @@ feature_row:
     btn_class: "btn--inverse"
 ---
 
-### Meine Projekte
+## Meine Projekte
 
 {% include feature_row id="feature_row" type="left" %}
