@@ -28,7 +28,7 @@ zertifikate:
     target: "_blank"
 ---
 
-{% include figure image_path="/assets/images/bild01kleiner.jpg" alt="Lichtbild: Mareike Boßelmann" %}
+{% include figure image_path="/assets/images/bild1kleiner.jpg" alt="Lichtbild: Mareike Boßelmann" %}
 {: .align-right}
 
 # Hallo!
