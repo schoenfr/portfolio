@@ -12,8 +12,8 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/utteaser.jpg
     alt: "Usability Testing: Online Shop für Sukkulenten"
-    title: "Online Shop für Sukkulenten"
-    excerpt: "Usability Testing eines Webshops"
+    title: "Testing eines Webshops"
+    excerpt: "Usability Testing eines Onlineshops für Kakteen und andere Sukkulenten."
     url: "/sukkulenten/"
     btn_label: "Mehr lesen..."
     btn_class: "btn--inverse"
