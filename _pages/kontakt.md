@@ -4,6 +4,6 @@ layout: splash
 title: "Kontakt"
 ---
 
-## Kontakt: 
+### Kontakt: 
 
 HMTMTM
