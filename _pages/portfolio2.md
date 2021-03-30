@@ -21,5 +21,7 @@ feature_row:
 
 <div><p> </p></div>
 <div><p> </p></div>
+<div><p> </p></div>
+<div><p> </p></div>
 
 {% include feature_row id="feature_row" type="left" %}
