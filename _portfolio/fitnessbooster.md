@@ -67,11 +67,11 @@ Ich habe dieses Projekt im Rahmen des **UX Design Kurses „Design Thinking: The
 {: .notice--primary}
 
 ## User Interviews: Welche Bedürfnisse hat meine Zielgruppe?
-Die ersten Schritte bestanden darin Personen zu rekrutieren, die zu einem User Interview bereit waren, den Fragebogen vorzubereiten und außerdem Aufgaben zu entwickeln, die die Personen nach dem User Interview bearbeiten sollten. 
+Die ersten Schritte bestanden darin Personen zu rekrutieren, die zu einem User Interview bereit waren, den Fragebogen vorzubereiten und außerdem Aufgaben zu entwickeln, die die Personen nach dem User Interview bearbeiten sollten. In den User Interviews sollten die Sport-Bedürfnisse und das Sport-Verhalten der User erfragt werden, um von dieser Basis ausgehend eine geeignete Fitness App zu entwickeln. Hierbi stand auch die Frage im Raum, was die Apps Neues gegenüber den bereits vorhandenen digitalen Sport-Angeboten präsentieren könnte, damit diese auch gerne von der Zielgruppe genutzt wird.
 
 
-To Analyse the project brief and get an idea of it's content seemed essential to me. I wanted to get an better idea of the problem that lay behind the task to create an smartphone app also in context of contemporary problems like the Corona-Pendemic and its direct consequences like for example more remote work, homeschooling and taking care of children, less contact to ohers, closed sport clubs, etc.
-The project brief was very short and also just optional. The task was to create a smartphone app which will help people to improve their fitness. The target group were described as people who want to exercise more, but just dont get around to do it for various reasons.
+
+Insgesamt wurden 5 Personen befragt, die alle gemein hatten, dass sie aktuell oder bis zu einem bestimmten Zeitpunkt in ihrem Leben bereits erfolgreich Sport gemacht haben. Alle waren zum Zeitpunkt der Befragung berufstätig und besaßen einen akademischen Bildungshintergrund. Aufgrund der Kontaktbeschränkungen während der Corona-Pandemie fanden die User Interviews online über Zoom statt. Die Aufgaben, die den Personen nach dem Ende des Interviews mitgegeben wurden, hatten ebenfalls zum Ziel, dass sich die 
 
 {% include gallery id="affinity_gallery" caption="Affinity Diagram" %}
 
