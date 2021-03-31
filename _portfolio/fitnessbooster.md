@@ -64,7 +64,7 @@ header:
 Der Beginn der Corona-Pandemie führte dazu, dass die einem zuvor selbstverständlich erschienenen analogen Sport-Angebote schließen mussten und auch später nur kurzzeitig und mit einigen Beschränkungen öffnen durften. Die qualitative Befragung der Zielgruppe aus 5 Personen ergab, dass ihre Motivation Sport zu machen durch ein vielseitiges und sowohl gemeinschaftliches als auch individuelles Angebot gefördert werden kann. Im Rahmen dieses Projekts wurde ein erster Entwurf einer App entwickelt, in der mehrere Trainer:innen aus verschiedenen Sport-Bereichen ein abwechslungsreiches Sportprogramm aus Videos-on-Demand und Livestreaming-Angeboten für ihre Nutzer:innen anbieten.
 
 Ich habe dieses Projekt im Rahmen des **UX Design Kurses „Design Thinking: The Beginner’s Guide“** der **Interaction Design Foundation** umgesetzt und als praktisches Anwendungsbeispiel genutzt, um die Methoden des Design Thinking auszuprobieren. Als Aufgabe vorgegeben war es eine Fitness App für ein Smartphone zu entwerfen.
-{: .notice--warning}
+{: .notice--primary}
 
 ## User Interviews: Welche Bedürfnisse hat meine Zielgruppe?
 Die ersten Schritte bestanden darin Personen zu rekrutieren, die zu einem User Interview bereit waren, den Fragebogen vorzubereiten und außerdem Aufgaben zu entwickeln, die die Personen nach dem User Interview bearbeiten sollten. 
@@ -113,6 +113,6 @@ The Final Product & Results and Impact
 
 
 **Reflections** What is your main challenge in the project, and how have you handled it? What are some lessons you’ve learnt through the project? Has the project changed your outlook as a designer? What are your next steps for the project?
-{: .notice--warning}
+{: .notice--primary}
 
 Am Ende Hinweis, dass dieses Projekt im Rahmen eines UX-Kurses der IxDF entstanden ist.
