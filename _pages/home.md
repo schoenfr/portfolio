@@ -9,6 +9,10 @@ layout: splash
 
 ### Herzlich Willkommen!
 
-Mein Name ist **Mareike Boßelmann** und ich möchte **UX Designer** werden. Unter **Über mich** erläutere ich ausführlicher meinen Werdegang, meine Motivation und meine Kompetenzen. Erste Projekte, die ich umgesetzt habe, sind unter **Portfolio** einzusehen.
+Mein Name ist **Mareike Boßelmann** und ich möchte **UX Designer** werden. 
+
+Unter **Über mich** erläutere ich ausführlicher meinen Werdegang, meine Motivation und meine Kompetenzen. 
+
+Erste Projekte, die ich umgesetzt habe, sind unter **Portfolio** einzusehen.
 
 
