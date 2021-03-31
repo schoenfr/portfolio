@@ -7,7 +7,7 @@ user_interview_gallery:
     image_path: assets/images/fbfragen.png
     alt: "User Interview: Fragebogen"
   - url: assets/images/fbaufgaben.png
-    image_path: assets/images/fbaffinitydiagramdetail01.png
+    image_path: assets/images/fbaufgaben.png
     alt: "User Interview: Aufgaben"
 affinity_gallery:
   - url: assets/images/fbaffinitydiagram.jpg
@@ -82,7 +82,10 @@ Insgesamt wurden 5 Personen befragt, die alle gemein hatten, dass sie aktuell od
 
 {% include gallery id="affinity_gallery" caption="Affinity Diagram" %}
 
-Text
+Die Auswertung der User Interviews und Aufgaben erfolgt in verschiedenen Schritten. Zunächst wurden die Aussagen und Angaben der befragten Personen in einem Affinity Diagramm gesammelt. Hierbei wurden die Notizen zu den jeweiligen Interviews nach verschiedenen Themen angeordnet, die sich mit verschiedenen Aspekten von Fitness beschäftigt haben. Unter dem einsatz eines Miro-Boards wurden die Inhalte auf Notizzetteln gesammelt, gruppiert, verschoben und nach Farben sortiert (jede Farbe stand hierbei für einen anderen User). Erkenntnisse: ZZ
+
+**Learning:** Zu diesem Zeitpunkt war ich mir nicht sicher, ob es wichtig sein wird mich an die Aussagen der einzelnen User zu erinnern, weswegen ich verschiedenen Farben für die jeweiligen User festlegte. Um in der komplexen Sammlung mich für den weiteren Verlauf zurechtzufinden, hat es mir persönlich sehr geholfen. Dennoch reichte das Affinity Diagram nicht aus, um die Erkenntnisse direkt auf die Define- und Ideation-Methoden anzuwenden. Deswegen entschied ich mich dafür zunächst Personas von meiner Zielgruppe zu entwickeln.
+{: .notice--primary}
 
 Beispieltext
 
