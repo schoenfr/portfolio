@@ -70,7 +70,7 @@ header:
 # Fitness Booster: Abwechslungsreich Sport machen
 Der Beginn der Corona-Pandemie führte dazu, dass die einem zuvor selbstverständlich erschienenen analogen Sport-Angebote schließen mussten und auch später nur kurzzeitig und mit einigen Beschränkungen öffnen durften. Die qualitative Befragung der Zielgruppe aus 5 Personen ergab, dass ihre Motivation Sport zu machen durch ein vielseitiges und sowohl gemeinschaftliches als auch individuelles Angebot gefördert werden kann. Im Rahmen dieses Projekts wurde ein erster Entwurf einer App entwickelt, in der mehrere Trainer:innen aus verschiedenen Sport-Bereichen ein abwechslungsreiches Sportprogramm aus Videos-on-Demand und Livestreaming-Angeboten für ihre Nutzer:innen anbieten.
 
-Ich habe dieses Projekt im Rahmen des **UX Design Kurses „Design Thinking: The Beginner’s Guide“** der **Interaction Design Foundation** umgesetzt und als praktisches Anwendungsbeispiel genutzt, um die Methoden des Design Thinking auszuprobieren. Als Aufgabe vorgegeben war es eine Fitness App für ein Smartphone zu entwerfen.
+Ich habe dieses Projekt im Rahmen des **UX Design Kurses „Design Thinking: The Beginner’s Guide“** der **Interaction Design Foundation** umgesetzt und als praktisches Anwendungsbeispiel genutzt, um die Methoden des Design Thinking auszuprobieren. Als Aufgabe vorgegeben war es eine Fitness App für ein Smartphone zu entwerfen. TEST
 {: .notice--primary}
 
 ## User Interviews: Welche Bedürfnisse hat meine Zielgruppe?
@@ -84,7 +84,7 @@ Insgesamt wurden 5 Personen befragt, die alle gemein hatten, dass sie aktuell od
 
 Die Auswertung der User Interviews und Aufgaben erfolgt in verschiedenen Schritten. Zunächst wurden die Aussagen und Angaben der befragten Personen in einem Affinity Diagramm gesammelt. Hierbei wurden die Notizen zu den jeweiligen Interviews nach verschiedenen Themen angeordnet, die sich mit verschiedenen Aspekten von Fitness beschäftigt haben. Unter dem einsatz eines Miro-Boards wurden die Inhalte auf Notizzetteln gesammelt, gruppiert, verschoben und nach Farben sortiert (jede Farbe stand hierbei für einen anderen User). Erkenntnisse: ZZ
 
-**Learning:** Zu diesem Zeitpunkt war ich mir nicht sicher, ob es wichtig sein wird mich an die Aussagen der einzelnen User zu erinnern, weswegen ich verschiedenen Farben für die jeweiligen User festlegte. Um in der komplexen Sammlung mich für den weiteren Verlauf zurechtzufinden, hat es mir persönlich sehr geholfen. Dennoch reichte das Affinity Diagram nicht aus, um die Erkenntnisse direkt auf die Define- und Ideation-Methoden anzuwenden. Deswegen entschied ich mich dafür zunächst Personas von meiner Zielgruppe zu entwickeln.
+**Learning:** Zu diesem Zeitpunkt war ich mir nicht sicher, ob es wichtig sein wird mich an die Aussagen der einzelnen User zu erinnern, weswegen ich verschiedenen Farben für die jeweiligen User festlegte. Um in der komplexen Sammlung mich für den weiteren Verlauf zurechtzufinden, hat es mir persönlich sehr geholfen. Dennoch reichte das Affinity Diagram nicht aus, um die Erkenntnisse direkt auf die Define- und Ideation-Methoden anzuwenden. Deswegen entschied ich mich dafür zunächst Personas von meiner Zielgruppe zu entwickeln. TEST
 {: .notice--primary}
 
 Beispieltext
@@ -122,7 +122,7 @@ Text
 The Final Product & Results and Impact
 
 
-**Reflections** What is your main challenge in the project, and how have you handled it? What are some lessons you’ve learnt through the project? Has the project changed your outlook as a designer? What are your next steps for the project?
+**Reflections** What is your main challenge in the project, and how have you handled it? What are some lessons you’ve learnt through the project? Has the project changed your outlook as a designer? What are your next steps for the project? TEST
 {: .notice--primary}
 
 Am Ende Hinweis, dass dieses Projekt im Rahmen eines UX-Kurses der IxDF entstanden ist.
