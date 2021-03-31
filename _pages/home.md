@@ -4,7 +4,7 @@ title: "Start"
 layout: splash
 ---
 
-<figure style="width: 300px" class="align-right">
+<figure style="width: 500px" class="align-right">
   <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/bildmitblau.png?raw=true" alt="">
 </figure>
 
