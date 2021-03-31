@@ -9,14 +9,14 @@ feature_row:
     excerpt: "Entwurf für eine Fitness App mit abwechslungsreichem Sport-Angebot."
     url: "/fitnessbooster/"
     btn_label: "Zum Projekt"
-    btn_class: "btn--warning"
+    btn_class: "btn--primary"
   - image_path: /assets/images/utteaser.jpg
     alt: "Usability Testing: Online Shop für Sukkulenten"
     title: "Testing eines Webshops"
     excerpt: "Usability Testing eines Onlineshops für Kakteen und andere Sukkulenten."
     url: "/sukkulenten/"
     btn_label: "Zum Projekt"
-    btn_class: "btn--success"
+    btn_class: "btn--primary"
 ---
 
 <div> <p> </p> </div>
