@@ -3,8 +3,8 @@ permalink: /
 title: "Start"
 layout: splash
 ---
-<figure style="width: 500px" class="align-right">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/bildmitblauneu.png?raw=true" alt="">
+<figure class="align-right">
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/homebild.png?raw=true" alt="">
 </figure>
 
 ### Herzlich Willkommen!
