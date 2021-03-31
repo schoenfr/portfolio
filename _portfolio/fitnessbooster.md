@@ -2,6 +2,13 @@
 layout: splash
 title: "Fitness Booster"
 permalink: /fitnessbooster/
+user_interview_gallery:
+  - url: assets/images/fbfragen.png
+    image_path: assets/images/fbfragen.png
+    alt: "User Interview: Fragebogen"
+  - url: assets/images/fbaufgaben.png
+    image_path: assets/images/fbaffinitydiagramdetail01.png
+    alt: "User Interview: Aufgaben"
 affinity_gallery:
   - url: assets/images/fbaffinitydiagram.jpg
     image_path: assets/images/fbaffinitydiagram.jpg
@@ -69,7 +76,7 @@ Ich habe dieses Projekt im Rahmen des **UX Design Kurses „Design Thinking: The
 ## User Interviews: Welche Bedürfnisse hat meine Zielgruppe?
 Die ersten Schritte bestanden darin Personen zu rekrutieren, die zu einem User Interview bereit waren, den Fragebogen vorzubereiten und außerdem Aufgaben zu entwickeln, die die Personen nach dem User Interview bearbeiten sollten. In den User Interviews sollten die Sport-Bedürfnisse und das Sport-Verhalten der User erfragt werden, um von dieser Basis ausgehend eine geeignete Fitness App zu entwickeln. Hierbi stand auch die Frage im Raum, was die Apps Neues gegenüber den bereits vorhandenen digitalen Sport-Angeboten präsentieren könnte, damit diese auch gerne von der Zielgruppe genutzt wird.
 
-
+{% include gallery id="user_interview_gallery" caption="User Interviews: Fragebogen und Aufgaben" %}
 
 Insgesamt wurden 5 Personen befragt, die alle gemein hatten, dass sie aktuell oder bis zu einem bestimmten Zeitpunkt in ihrem Leben bereits erfolgreich Sport gemacht haben. Alle waren zum Zeitpunkt der Befragung berufstätig und besaßen einen akademischen Bildungshintergrund. Aufgrund der Kontaktbeschränkungen während der Corona-Pandemie fanden die User Interviews online über Zoom statt. Die Aufgaben, die den Personen nach dem Ende des Interviews mitgegeben wurden, hatten ebenfalls zum Ziel, dass sich die 
 
