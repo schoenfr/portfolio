@@ -4,6 +4,10 @@ title: "Start"
 layout: splash
 ---
 
+<figure style="width: 300px" class="align-right">
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/bildmitblau.png?raw=true" alt="">
+</figure>
+
 ### Willkommen auf meiner Seite.
 
 Mein Name ist Mareike Boßelmann und ich zeige Ihnen hier mein Portfolio.
