@@ -6,6 +6,9 @@ user_interview_gallery:
   - url: assets/images/fbfragen.png
     image_path: assets/images/fbfragen.png
     alt: "User Interview: Fragebogen"
+  - url: assets/images/fbuinotizen.png
+    image_path: assets/images/fbuinotizen.png
+    alt: "User Interview: Notizen"
   - url: assets/images/fbaufgaben.png
     image_path: assets/images/fbaufgaben.png
     alt: "User Interview: Aufgaben"
