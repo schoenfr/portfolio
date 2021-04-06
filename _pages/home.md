@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Start"
-layout: splash
+layout: single
 ---
 
 <figure class="align-right">
