@@ -1,10 +1,10 @@
 ---
 permalink: /kontakt/
-layout: splash
+layout: single
 title: "Kontakt"
 ---
 
-<figure class="align-right">
+<figure class="align-center">
   <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/kontakt.jpg?raw=true" alt="">
 </figure>
 
