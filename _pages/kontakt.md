@@ -12,5 +12,5 @@ Schaapkamp 5
 mareike.bosselmann@gmx.de
 
 <figure class="align-center">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/kontakt.jpg?raw=true" alt="">
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/kontakt2.jpg?raw=true" alt="">
 </figure>
