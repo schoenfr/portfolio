@@ -6,8 +6,6 @@ layout: single
 
 Mein Name ist **Mareike Boßelmann** und mein Ziel ist es **UX Designerin** zu werden. 
 
-Unter **Über mich** erläutere ich meinen **Hintergrund**, meine **Motivation** und meine **Kompetenzen**.
+Unter [**Über mich**](https://mbosselmann.github.io/portfolio/about/) erläutere ich meinen **Hintergrund**, meine **Motivation** und meine **Kompetenzen**.
 
-**Erste Projekte**, die ich umgesetzt habe, sind unter **Portfolio** einzusehen.
-
-Test Test Test Test Teeeeest Test
+[**Erste Projekte**](https://mbosselmann.github.io/portfolio/projects/), die ich umgesetzt habe, sind unter **Portfolio** einzusehen.
