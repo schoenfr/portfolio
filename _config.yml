@@ -25,6 +25,7 @@ masthead_title: "Mareike Boßelmann"
 
 # Build settings
 markdown: kramdown
+auto_ids: false
 remote_theme: mbosselmann/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
