@@ -4,9 +4,7 @@ title: "Herzlich Willkommen!"
 layout: single
 ---
 
-### Ich bin Mareike Boßelmann
-
-und mein Ziel ist es **UX Designerin** zu werden. 
+Mein Name ist **Mareike Boßelmann** und mein Ziel ist es **UX Designerin** zu werden. 
 
 Unter **Über mich** erläutere ich meinen **Hintergrund**, meine **Motivation** und meine **Kompetenzen**.
 
