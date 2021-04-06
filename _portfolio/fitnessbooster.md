@@ -96,16 +96,12 @@ Die befragten Personen hatten alle gemein, dass sie ein generelles Interesse an 
 
 {% include gallery id="affinity_gallery" caption="Affinity Diagram" %}
 
-Die Auswertung der User Interviews und Aufgaben erfolgt in verschiedenen Schritten. Zunächst wurden die Aussagen und Angaben der befragten Personen in einem Affinity Diagramm gesammelt. Hierbei wurden die Notizen zu den jeweiligen Interviews nach verschiedenen Themen angeordnet, die sich mit verschiedenen Aspekten von Fitness beschäftigt haben. Unter dem einsatz eines Miro-Boards wurden die Inhalte auf Notizzetteln gesammelt, gruppiert, verschoben und nach Farben sortiert (jede Farbe stand hierbei für einen anderen User). Erkenntnisse: ZZ
+Die Insights zur Zielgruppe wurden anschließend dazu genutzt, um zwei Personas zu entwickeln. 
 
-**Learning:** Zu diesem Zeitpunkt war ich mir nicht sicher, ob es wichtig sein wird mich an die Aussagen der einzelnen User zu erinnern, weswegen ich verschiedenen Farben für die jeweiligen User festlegte. Um in der komplexen Sammlung mich für den weiteren Verlauf zurechtzufinden, hat es mir persönlich sehr geholfen. Dennoch reichte das Affinity Diagram nicht aus, um die Erkenntnisse direkt auf die Define- und Ideation-Methoden anzuwenden. Deswegen entschied ich mich dafür zunächst Personas von meiner Zielgruppe zu entwickeln. TEST
-{: .notice--primary}
-
-Beispieltext
-
-{% include gallery id="persona_gallery" caption="Bina und Mitch." %}
+{% include gallery id="persona_gallery" %}
   
-Text
+**Learning:** TEST
+{: .notice--primary}
 
 ## Define & Ideate: Wie kann ich meinen Usern ein abwechslungsreiches Sportangebot bieten?
 
@@ -118,6 +114,9 @@ Text
 
 {% include gallery id="bina_storyboard_gallery" caption="Storyboard mit Bina in der Hauptrolle" %}
 {% include gallery id="mitch_storyboard_gallery" caption="Storyboard mit Mitch in der Hauptrolle" %}
+
+**Learning:** TEST
+{: .notice--primary}
   
 ## Prototyp: Erster Entwurf der App als Paper Prototype
 
@@ -130,6 +129,9 @@ Text
 Text
 
 {% include gallery id="prototype-detail2_gallery" caption="Paper Prototype" %}
+
+**Learning:** TEST
+{: .notice--primary}
 
 ## Schluss
 
