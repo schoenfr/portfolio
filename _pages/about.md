@@ -29,7 +29,7 @@ zertifikate:
     target: "_blank"
 ---
 <figure class="align-right">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/aboutbildneu.png?raw=true" alt="">
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/aboutbildsw.png?raw=true" alt="">
 </figure> 
 
 
