@@ -8,7 +8,7 @@ title: "Kontakt"
   <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/kontakt.jpg?raw=true" alt="">
 </figure>
 
-### Kontakt: 
+### Kontakt 
 
 Mareike Boßelmann  
 Schaapkamp 5  
