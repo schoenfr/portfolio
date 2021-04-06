@@ -23,6 +23,10 @@ zertifikate:
     image_path: assets/images/idxfuxdesign.jfif
     alt: "Become a UX Designer from Scratch"
     target: "_blank"
+  - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/7f9d4423-fbdf-4fce-a398-592fe9f73204
+    image_path: assets/images/idxfusability.jfif
+    alt: "Conducting Usability Testing"
+    target: "_blank"
 ---
 <figure style="width: 300px" class="align-right">
   <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/uebermichbild.png?raw=true" alt="">
