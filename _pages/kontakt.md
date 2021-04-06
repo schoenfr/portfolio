@@ -10,4 +10,9 @@ title: "Kontakt"
 
 ### Kontakt: 
 
-HMTMTM
+Mareike Boßelmann  
+Schaapkamp 5  
+22927 Großhansdorf
+
+0178 33 11 076  
+mareike.bosselmann@gmx.de
