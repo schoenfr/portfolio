@@ -83,9 +83,10 @@ Zunächst wurden eine **Zielgruppe aus fünf Personen** für die User Interviews
 
 Die befragten Personen hatten alle gemein, dass sie ein generelles Interesse an Sport und Bewegung hatten, schon häufiger sportlich aktiv gewesen sind oder eine Zeit lang viel Sport gemacht hatten. Außerdem hatten sie bereits in ihrem Leben viele verschiedene Sportarten ausprobiert. Alle besaßen einen oder mehrere Hochschulabschlüsse und waren zum Zeitpunkt der Befragung berufstätig. Die Auswertung der User Interviews und Antworten auf die Aufgaben erfolgte in mehreren Schritten. Der erste war die Erstellung eines Affinity Diagram, indem die Aussagen der befragten User gesammelt und zu verschiedenen Themenkomplexen wie "Motivation", "Verständnis von Fitness" oder "Trainingsort" kategorisiert wurden. Die wichtigsten Erkenntnisse zur Zielgruppe waren hierbei:
 
-* HHH
-* HHHHH
-* HHHHHH
+* Das Sport-Angebot sollte in den Alltag integrierbar sein, weil nur so regelmäßig Sport gemacht wird. Auch wenn dies allen befragten Personen bewusst war, sah nicht jeder Sport unbedingt als Teil seines Alltags.
+* Die Zielgruppe gab an, dass sie tendenziell kaum bis gar keinen Druck von außen verspürt, Sport zu treiben. Alle waren sich aber bewusst, dass sportliche Aktivitäten zur eigenen Gesundheit, Prävention von Krankheiten und zur allgemeinen Leistungsfähigkeit einen entscheidenden Beitrag leisten können. Dieses Wissen führte für die User jedoch nicht automatisch dazu dauerhaft mehr Sport zu treiben. 
+* Stattdessen beschrieben drei von fünf Personen eine Form von intrinsischer Motivation: Ohne regelmäßige sportliche Aktivitäten fühlten sie sich rastlos und versürten ein Bedürfnis nach mehr Bewegung und Sport.
+* Gesellschaftliche Vorstellungen über das Aussehen eines "normalen" Körpers und dem Druck diesem Erscheinungsbild durch Sport nachzukommen, wurde von drei Personen beim Thema der "Gewichtsreduktion" angesprochen. Sport dient für sie in diesem Sinne auch dazu, das eigene Körpergewicht zu regulieren und 
 * HHHHHH
 * HZHZ
 
