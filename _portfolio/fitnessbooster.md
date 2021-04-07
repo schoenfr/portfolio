@@ -142,3 +142,11 @@ The Final Product & Results and Impact
 {: .notice--primary}
 
 Am Ende Hinweis, dass dieses Projekt im Rahmen eines UX-Kurses der IxDF entstanden ist.
+
+<script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  backgroundColor: 'rgb(255, 82, 82)',
+  textColor: '#fff'
+})</script>
+
