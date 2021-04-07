@@ -114,10 +114,27 @@ Als erste Schritte zur Lösung dieses Problems wurden für jede Persona eine Emp
 
 {% include gallery id="concept_gallery" %}
 
+Als nächstes stellte sich die Frage, wie sich Abwechslung in eine Fitness App integrieren lässt, zu welchen Zeitpunkten der User mit der App interagiert und welche anderen Bedürfnisse des Users dabei erfüllt sein mussten, damit die Fitness App auch benutzt werden kann. Kernfragen, die durch eine "How Might We"-Session herauskamen waren:
+
+* Wie können wir durch eine App mehr Abwechslung bieten?
+* Wie können wir dazu anregen, dass dieses Angebot auch genutzt wird?
+* Wie können wir das Sportangebot individuell nach den Erfahrungen der User anpassen?
+* Wie können wir dafür sorgen, dass die User neue Sport-Angebote auch wirklich ausprobieren?
+
+Mit der Worst Possible Ideas-Methode wurden weitere Aspekte, die für die App relevant waren herausgearbeitet. Hierbei entstanden erste Ideen, die für die Konzeption der App genutzt wurden:
+
+* Die Integration einer Einschätzung zum eigenen Fitness-Level und zur Erfahrung mit verschiedenen Sportarten.
+* Eine Bewertungsfunktion der Sport-Angebote, um so eine bestmögliche Auswahl an Trainings anbieten zu können.
+* Aurchiv-Funktion zum Speichern und Kategorisieren von Sport-Angeboten.
+* Sharing-Funktion, um sich mit Freunden über die Angebote austauschen zu können und ggf. gemeinsam Sport zu machen.
+* Integration einer Auswahl regionaler Sport-Angebote vor Ort, die besucht werden können.
+
+
+
+{% include gallery id="storyboard_gallery" %}
 
 Gleichzeitig war es wichtig immer dann trainieren zu können, wenn man in seinem Alltag Zeit dafür hatte.
 
-{% include gallery id="storyboard_gallery" %}
 
 **Learning:** TEST
 {: .notice--primary}
