@@ -96,7 +96,7 @@ Die befragten Personen hatten alle gemein, dass sie ein generelles Interesse an 
 
 {% include gallery id="affinity_gallery" caption="Affinity Diagram" %}
 
-Die Insights zur Zielgruppe wurden anschließend dazu genutzt, um zwei Personas zu entwickeln. 
+Die Erkenntnisse über die Zielgruppe wurden anschließend dazu genutzt, um zwei Personas zu entwickeln. Die Zielgruppe erschien dabei zu heterogen als das eine Persona ausgereicht hätte, um diese adäquat abzubilden. Zudem konnte ein Spektrum an Usern des Produkts über die beiden Personas "Bina" und "Mitch" abgedeckt werden, das sowohl die fleißige Sportlerin beschreibt, die von einem eigenen Antrieb heraus gerne Sport macht, als auch die Gelegenheitssportlerin, die mehr auf äußere Anreize setzt, um körperlich aktiv zu werden.
 
 {% include gallery id="persona_gallery" %}
   
