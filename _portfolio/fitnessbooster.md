@@ -29,9 +29,6 @@ concept_gallery:
   - url: assets/images/badideaschallengestory.png
     image_path: assets/images/badideaschallengestory.png
     alt: "Bad Ideas, Challenge Assumptions, Storyboards"
-  - url: assets/images/fbmitchstoryboard.jpg
-    image_path: assets/images/fbmitchstoryboard.jpg
-    alt: "Storyboard: Mitch"
 persona_gallery:
   - url: assets/images/personaalltag.jpg
     image_path: assets/images/personaalltag.jpg
