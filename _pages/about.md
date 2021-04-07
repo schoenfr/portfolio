@@ -28,7 +28,7 @@ zertifikate:
     alt: "Conducting Usability Testing"
     target: "_blank"
 ---
-<figure class="align-right">
+<figure style="width: 300 px" class="align-right">
   <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/startbild.png?raw=true" alt="">
 </figure> 
 
