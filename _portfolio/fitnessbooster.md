@@ -29,16 +29,6 @@ persona_gallery:
   - url: assets/images/personagelegenheit.png
     image_path: assets/images/personagelegenheit.png
     alt: "Persona 2: Mitch"
-define_ideate_gallery:
-  - url: assets/images/empovhmw.png
-    image_path: assets/images/empovhmw.png
-    alt: "Empathy Map, Point of View, How Might We"
-  - url: assets/images/badideaschallengestory.png
-    image_path: assets/images/badideaschallengestory.png
-    alt: "Bad Ideas, Challenge Assumptions & Storyboards"
-   - url: assets/images/fbmitchstoryboard.jpg
-    image_path: assets/images/fbmitchstoryboard.jpg
-    alt: "Storyboard Mitch"
 prototype_gallery:
   - url: assets/images/paperprototype02k.png
     image_path: assets/images/paperprototype02k.png
@@ -109,9 +99,6 @@ Ziel der nächstenPhase war es zu überlegen, ein Konzept für die Fitness-App z
 Als erste Schritte zur Lösung dieses Problems wurden für jede Persona eine Empathy Map erstellt und ein Point of View formuliert.
 Und dann
 
-
-{% include gallery id="define_ideate_gallery" caption="Ergebnisse aus den Define- und Ideate-Sessions" %}
-  
 Text
 
 **Learning:** TEST
