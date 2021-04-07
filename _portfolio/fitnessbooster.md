@@ -115,8 +115,9 @@ Als erste Schritte zur Lösung dieses Problems wurden für jede Persona eine Emp
 {% include gallery id="concept_gallery" %}
 
 
-
 Gleichzeitig war es wichtig immer dann trainieren zu können, wenn man in seinem Alltag Zeit dafür hatte.
+
+{% include gallery id="storyboard_gallery" %}
 
 **Learning:** TEST
 {: .notice--primary}
