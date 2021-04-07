@@ -107,6 +107,7 @@ Die Erkenntnisse über die Zielgruppe wurden anschließend dazu genutzt, um zwei
 Ziel der nächstenPhase war es zu überlegen, ein Konzept für die Fitness-App zu erarbeiten. Zentral war dabei die Frage nach dem Zweck, da es unzählige Möglichkeiten gibt, die Zielgruppe in ihrem Sport-Verhalten zu unterstützen: Sollte die App beispielsweise individuelle Trainingspläne erstellen, zur Dokumentation der eigenen Trainingserfolge dienen oder ein Vernetzungsangebot mit anderen Sportlern bieten? Diese Ideen konnte ichbereits durch die Ergebnisse der nutzerzentrierten Bedarfsanalyse verwerfen konnte, da die User möglichst wenig eigene Informationen zu einer App beitragen wollten und auch die Interaktion mit unbekannten Sportlern für sie nicht von Bedeutung war. Dennoch konnte ich daraus nicht ableiten, welche Konzept für eine Fitness-App nun interessant für meine Zielgruppe wäre.
 
 Als erste Schritte zur Lösung dieses Problems wurden für jede Persona eine Empathy Map erstellt und ein Point of View formuliert.
+Und dann
 
 
 {% include gallery id="define_ideate_gallery" caption="Ergebnisse aus den Define- und Ideate-Sessions" %}
