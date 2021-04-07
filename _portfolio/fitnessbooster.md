@@ -30,9 +30,12 @@ persona_gallery:
     image_path: assets/images/personagelegenheit.png
     alt: "Persona 2: Mitch"
 define_ideate_gallery:
-  - url: assets/images/fbdefineideation.jpg
-    image_path: assets/images/fbdefineideation.jpg
-    alt: "Überblick"
+  - url: assets/images/empovhmw.png
+    image_path: assets/images/empovhmw.png
+    alt: "Empathy Map, Point of View, How Might We"
+  - url: assets/images/badideaschallengestory.png
+    image_path: assets/images/badideaschallengestory.png
+    alt: "Bad Ideas, Challenge Assumptions & Storyboards"
    - url: assets/images/fbmitchstoryboard.jpg
     image_path: assets/images/fbmitchstoryboard.jpg
     alt: "Storyboard Mitch"
