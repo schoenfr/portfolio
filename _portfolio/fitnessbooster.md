@@ -26,9 +26,9 @@ concept_gallery:
   - url: assets/images/empovhmw.png
     image_path: assets/images/empovhmw.png
     alt: "Empathy Map, Point of View und How Might We"
-  - url: assets/images/badideaschallengestory.png
-    image_path: assets/images/badideaschallengestory.png
-    alt: "Bad Ideas, Challenge Assumptions, Storyboards"
+  - url: assets/images/badideaschallenge.png
+    image_path: assets/images/badideaschallenge.png
+    alt: "Bad Ideas, Challenge Assumptions"
 storyboard_gallery:
   - url: assets/images/binastoryboard.png
     image_path: assets/images/binastoryboard.png
