@@ -33,12 +33,7 @@ define_ideate_gallery:
   - url: assets/images/fbdefineideation.jpg
     image_path: assets/images/fbdefineideation.jpg
     alt: "Überblick"
-bina_storyboard_gallery:
-  - url: assets/images/fbbinastoryboard.png
-    image_path: assets/images/fbbinastoryboard.png
-    alt: "Storyboard Bina"
-mitch_storyboard_gallery:
-  - url: assets/images/fbmitchstoryboard.jpg
+   - url: assets/images/fbmitchstoryboard.jpg
     image_path: assets/images/fbmitchstoryboard.jpg
     alt: "Storyboard Mitch"
 prototype_gallery:
@@ -114,9 +109,6 @@ Als erste Schritte zur Lösung dieses Problems wurden für jede Persona eine Emp
 {% include gallery id="define_ideate_gallery" caption="Ergebnisse aus den Define- und Ideate-Sessions" %}
   
 Text
-
-{% include gallery id="bina_storyboard_gallery" caption="Storyboard mit Bina in der Hauptrolle" %}
-{% include gallery id="mitch_storyboard_gallery" caption="Storyboard mit Mitch in der Hauptrolle" %}
 
 **Learning:** TEST
 {: .notice--primary}
