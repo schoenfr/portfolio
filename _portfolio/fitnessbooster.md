@@ -140,12 +140,3 @@ The Final Product & Results and Impact
 
 **Reflections** What is your main challenge in the project, and how have you handled it? What are some lessons you’ve learnt through the project? Has the project changed your outlook as a designer? What are your next steps for the project? TEST
 {: .notice--primary}
-
-Am Ende Hinweis, dass dieses Projekt im Rahmen eines UX-Kurses der IxDF entstanden ist.
-
-<script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
-<script>addBackToTop({
-  backgroundColor: '#5da0a2',
-  innerHTML: '<svg viewBox="0 0 24 24"><path d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"/></svg>',
-  textColor: '#d4e7e7'
-})</script>
