@@ -22,6 +22,16 @@ affinity_gallery:
   - url: assets/images/fbaffinitydiagramdetail02.jpg
     image_path: assets/images/fbaffinitydiagramdetail02.jpg
     alt: "Affinity Diagram: Detail"
+concept_gallery:
+  - url: assets/images/empovhmw.png
+    image_path: assets/images/empovhmw.png
+    alt: "Empathy Map, Point of View und How Might We"
+  - url: assets/images/badideaschallengestory.png
+    image_path: assets/images/badideaschallengestory.png
+    alt: "Bad Ideas, Challenge Assumptions, Storyboards"
+  - url: assets/images/fbmitchstoryboard.jpg
+    image_path: assets/images/fbmitchstoryboard.jpg
+    alt: "Storyboard: Mitch"
 persona_gallery:
   - url: assets/images/personaalltag.jpg
     image_path: assets/images/personaalltag.jpg
