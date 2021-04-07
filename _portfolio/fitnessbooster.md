@@ -29,6 +29,13 @@ concept_gallery:
   - url: assets/images/badideaschallengestory.png
     image_path: assets/images/badideaschallengestory.png
     alt: "Bad Ideas, Challenge Assumptions, Storyboards"
+storyboard_gallery:
+  - url: assets/images/binastoryboard.png
+    image_path: assets/images/binastoryboard.png
+    alt: "Storyboard: Bina"
+  - url: assets/images/mitchstoryboard.png
+    image_path: assets/images/mitchstoryboard.png
+    alt: "Storyboard: Mitch"
 persona_gallery:
   - url: assets/images/personaalltag.jpg
     image_path: assets/images/personaalltag.jpg
@@ -103,12 +110,13 @@ Die Erkenntnisse über die Zielgruppe wurden anschließend dazu genutzt, um zwei
 ## Konzept der Fitness-App
 Ziel der nächstenPhase war es zu überlegen, ein Konzept für die Fitness-App zu erarbeiten. Zentral war dabei die Frage nach dem Zweck, da es unzählige Möglichkeiten gibt, die Zielgruppe in ihrem Sport-Verhalten zu unterstützen: Sollte die App beispielsweise individuelle Trainingspläne erstellen, zur Dokumentation der eigenen Trainingserfolge dienen oder ein Vernetzungsangebot mit anderen Sportlern bieten? Diese Ideen konnte ichbereits durch die Ergebnisse der nutzerzentrierten Bedarfsanalyse verwerfen konnte, da die User möglichst wenig eigene Informationen zu einer App beitragen wollten und auch die Interaktion mit unbekannten Sportlern für sie nicht von Bedeutung war. Dennoch konnte ich daraus nicht ableiten, welche Konzept für eine Fitness-App nun interessant für meine Zielgruppe wäre.
 
-Als erste Schritte zur Lösung dieses Problems wurden für jede Persona eine Empathy Map erstellt und ein Point of View formuliert.
-Und dann
+Als erste Schritte zur Lösung dieses Problems wurden für jede Persona eine Empathy Map erstellt und ein Point of View formuliert. Dadurch wurde deutlich, dass beide Personas trotz ihrer großen Unterschiede ein Bedürfnis haben, dass sie miteinander verbindet. Hierbei handelt es sich um das Bedürfnis nach Abwechslung beim Sport. Verschiedene Trainings, andere oder neue Übungen wurden von den Usern als motivierender Faktor beschrieben. 
 
 {% include gallery id="concept_gallery" %}
 
-Text
+
+
+Gleichzeitig war es wichtig immer dann trainieren zu können, wenn man in seinem Alltag Zeit dafür hatte.
 
 **Learning:** TEST
 {: .notice--primary}
