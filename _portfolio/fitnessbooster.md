@@ -110,18 +110,18 @@ Die Erkenntnisse über die Zielgruppe wurden anschließend dazu genutzt, um zwei
 ## Konzept der Fitness-App
 Ziel der nächstenPhase war es zu überlegen, ein Konzept für die Fitness-App zu erarbeiten. Zentral war dabei die Frage nach dem Zweck, da es unzählige Möglichkeiten gibt, die Zielgruppe in ihrem Sport-Verhalten zu unterstützen: Sollte die App beispielsweise individuelle Trainingspläne erstellen, zur Dokumentation der eigenen Trainingserfolge dienen oder ein Vernetzungsangebot mit anderen Sportlern bieten? Diese Ideen konnte ichbereits durch die Ergebnisse der nutzerzentrierten Bedarfsanalyse verwerfen konnte, da die User möglichst wenig eigene Informationen zu einer App beitragen wollten und auch die Interaktion mit unbekannten Sportlern für sie nicht von Bedeutung war. Dennoch konnte ich daraus nicht ableiten, welche Konzept für eine Fitness-App nun interessant für meine Zielgruppe wäre.
 
-Als erste Schritte zur Lösung dieses Problems wurden für jede Persona eine Empathy Map erstellt und ein Point of View formuliert. Dadurch wurde deutlich, dass beide Personas trotz ihrer großen Unterschiede ein Bedürfnis haben, dass sie miteinander verbindet. Hierbei handelt es sich um das Bedürfnis nach Abwechslung beim Sport. Verschiedene Trainings, andere oder neue Übungen wurden von den Usern als motivierender Faktor beschrieben. 
+Als erste Schritte zur Lösung dieses Problems wurden für jede Persona eine Empathy Map erstellt und ein Point of View formuliert. Dadurch wurde deutlich, dass beide Personas trotz ihrer großen Unterschiede ein Bedürfnis haben, dass sie miteinander verbindet. Hierbei handelt es sich um das Bedürfnis nach **Abwechslung** beim Sport. Verschiedene Trainings, andere oder neue Übungen wurden von den Usern als motivierender Faktor beschrieben. 
 
 {% include gallery id="concept_gallery" %}
 
-Als nächstes stellte sich die Frage, wie sich Abwechslung in eine Fitness App integrieren lässt, zu welchen Zeitpunkten der User mit der App interagiert und welche anderen Bedürfnisse des Users dabei erfüllt sein mussten, damit die Fitness App auch benutzt werden kann. Kernfragen, die durch eine "How Might We"-Session herauskamen waren:
+Als nächstes stellte sich die Frage, wie sich Abwechslung in eine Fitness App integrieren lässt, zu welchen Zeitpunkten der User mit der App interagiert und welche anderen Bedürfnisse des Users dabei erfüllt sein mussten, damit die Fitness App auch benutzt werden kann. Weitere Kernfragen, die durch eine **"How Might We"**-Session herauskamen waren:
 
 * Wie können wir durch eine App mehr Abwechslung bieten?
 * Wie können wir dazu anregen, dass dieses Angebot auch genutzt wird?
 * Wie können wir das Sportangebot individuell nach den Erfahrungen der User anpassen?
 * Wie können wir dafür sorgen, dass die User neue Sport-Angebote auch wirklich ausprobieren?
 
-Mit der Worst Possible Ideas-Methode wurden weitere Aspekte, die für die App relevant waren herausgearbeitet. Hierbei entstanden erste Ideen, die für die Konzeption der App genutzt wurden:
+Mit der **Worst Possible Ideas-Methode** wurden weitere Aspekte, die für die App relevant waren herausgearbeitet. Hierbei entstanden erste Ideen, die für die Konzeption der App genutzt wurden:
 
 * Die Integration einer Einschätzung zum eigenen Fitness-Level und zur Erfahrung mit verschiedenen Sportarten.
 * Eine Bewertungsfunktion der Sport-Angebote, um so eine bestmögliche Auswahl an Trainings anbieten zu können.
@@ -129,7 +129,18 @@ Mit der Worst Possible Ideas-Methode wurden weitere Aspekte, die für die App re
 * Sharing-Funktion, um sich mit Freunden über die Angebote austauschen zu können und ggf. gemeinsam Sport zu machen.
 * Integration einer Auswahl regionaler Sport-Angebote vor Ort, die besucht werden können.
 
+In einer **Challenge Assumptions** wurden dann noch vier Annahmen formuliert, von denen ich ausgegangen bin, dass sie die Nutzererfahrung des Produkts mitbestimmen werden und über die ich außerdem noch nicht konkret nachgedacht hatte. Mein Ziel war es mich zu fragen, inwieweit ich diese Annahmen durch bestimmte Funktionalitäten der App brechen könnte.
 
+**1. Annahme: Die Digitalisierung des Sport-Angebots hilft nicht dabei, dass Menschen sich besser dazu motivieren können Sport zu machen.** Diese Annahme war eine Ansicht, die von den Usern vertreten wurde. Wer keine Lust auf Sport habe, könne auch nicht durch ein digitales Angebot dazu motiviert werden. Als Lösungsansätze habe ich mir überlegt:
+
+* Eine Reminder-Funktion, die der User optional einstellen kann, um sich an ein anstehendes Training zu erinnern.
+* Interviews mit anderen Nutzern der App führen und sie danach befragen, was sie persönlich dazu motiviert mehr Sport zu machen und diese Interviews in einer eigenen Rubrik veröffentlichen.
+* Sport-Angebote zu bieten, die dem User ein positives Gefühl geben und außerdem das Gefühl geben etwas Gutes für seinen Körper getan zu haben.
+* Freunde als Motivationsfaktoren mit einbauen durch Sharing- und Kommunikationsmöglichkeiten. Die Möglichkeit geben sich gemeinsam verabreden zu können und auch gleichzeitig ein Sport-Angebot nutzen zu können.
+
+**2. Annahme: Das Angebot an digitalen Sport-Angeboten wird so groß sein, dass es har nicht möglich ist, auch einen Überblick über regionale Angebote zu liefern.** Hier kam ich zu dem Schluss, dass es vermutlich erstmal besser ist, sich für einen ersten Entwurf auf digitale Angebote zu spezialisieren. Die User der Zielgruppe wollen zwar nicht unbedingt ein genau maßgeschneidertes Angebot haben, sondern gerne aus verschiedenen auswählen und neue Trainings vorgeschlagen bekommen. Dennoch wurde durch die Interviews klar, dass es kein großes Interesse daran gibt sich lange mit der Suche nach einem passenden Angebot auseinanderzusetzen. Deswegen blieben die User auch gerne bei einem breits entdeckten Sport-Angebot und testen nur wenige andere Fitnes-Anbieter.
+
+**3. Annahme: Eine Fitness-App kann nicht für das "Yeah"-Gefühl sorgen, dass man beim Sport entwickelt, weil die Trainings-Atmosphäre Zuhause fehlt, die man im Studio hat.** 
 
 {% include gallery id="storyboard_gallery" %}
 
