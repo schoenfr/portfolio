@@ -93,7 +93,7 @@ Die Erkenntnisse über die Zielgruppe wurden anschließend dazu genutzt, um zwei
 **Learnings:** Für die weitere Entwicklung des Prototyps war die Erstellung der Personas für mich ein entscheidender Prozess. Die Erkenntnisse aus den User Interviews und den Antworten zu den Aufgaben konnten zwar gut durch das Affinity Diagram erarbeitet werden, dennoch fehlte mir für den weitern Prozess ein Manifestation dieser Insights in die Zielgruppe, die auf einen Blick erfahrbar war. Die Personas zu erstellen war in der Schulung der IxDF als Tool nicht vorgegeben, aber das Konzept wurde sowohl in dem Kurs [**UX Design Kurses „Design Thinking: The Beginner’s Guide“**](https://www.interaction-design.org/mareike-bosselmann/certificate/course/313f43bd-fd91-4fb8-b3b5-2b649d704c06) als auch in dem Kurs [**"Become a UX Designer from Scratch"**](https://www.interaction-design.org/mareike-bosselmann/certificate/course/d35c481a-fb73-4ebc-8b5e-4a6670122d02) genauer erklärt, weswegen ich mich dazu entschlossen habe, Personas für mein Projekt zu erstellen.
 {: .notice--primary}
 
-## Konzept der Fitness-App
+## Ideenfindung: Welche Funktionalitäten soll die Fitness-App bieten?
 Ziel der nächstenPhase war es zu überlegen, ein Konzept für die Fitness-App zu erarbeiten. Zentral war dabei die Frage nach dem Zweck, da es unzählige Möglichkeiten gibt, die Zielgruppe in ihrem Sport-Verhalten zu unterstützen: Sollte die App beispielsweise individuelle Trainingspläne erstellen, zur Dokumentation der eigenen Trainingserfolge dienen oder ein Vernetzungsangebot mit anderen Sportlern bieten? Diese Ideen konnte ichbereits durch die Ergebnisse der nutzerzentrierten Bedarfsanalyse verwerfen konnte, da die User möglichst wenig eigene Informationen zu einer App beitragen wollten und auch die Interaktion mit unbekannten Sportlern für sie nicht von Bedeutung war. Dennoch konnte ich daraus nicht ableiten, welche Konzept für eine Fitness-App nun interessant für meine Zielgruppe wäre.
 
 <figure style="width: 2000 px" class="center">
@@ -140,21 +140,29 @@ In einer **Challenge Assumptions** wurden dann noch vier Annahmen formuliert, vo
 * Neue Übungen zeigen und den User lernen lassen, die dem Trainingslevel entsprechen.
 * Und erneut Gamification: Könnte ein Belohnungssystem ebenfalls zu einem "Yeah"-Gefühl beitragen?
 
+**Learning:** TEST
+{: .notice--primary}
+
+## Eingrenzung: Erstes Konzept der Fitness App
+Die Schwierigkeit bestand nun darin aus all diesen Ideen zunächst ein Konzept für das MVP zu erarbeiten. Welche Funktionalitäten sollte die Fitness App von Beginn an besitzen und welche sinnvollen Komponenten konnten später hinzugefügt werden. Durch die verschiedenen Methoden zur Ideenfindung hatte sich nun eine Fülle an Möglichkeiten ergeben, die für die App sinnvoll sein könnten. Um möglichst nah am User zu bleiben, wurden deswegen zwei Storyboards erarbeitet, die jeweils eine typische Nutzung der App mit den Personas Bina und Mitch präsentieren sollte.
+
 <figure style="width: 2000 px" class="center">
   <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/binastoryboard.png?raw=true" alt="Storyboard: Bina">
 </figure>
 
-Die Schwierigkeit bestand nun darin aus all diesen Ideen zunächst ein Konzept für das MVP zu erarbeiten. Welche Funktionalitäten sollte die Fitness App von Beginn an besitzen und welche sinnvollen Komponenten konnten später hinzugefügt werden. Durch die verschiedenen Methoden zur Ideenfindung hatte sich nun eine Fülle an Möglichkeiten ergeben, die für die App sinnvoll sein könnten. Um möglichst nah am User zu bleiben, wurden deswegen zwei Storyboards erarbeitet, die jeweils eine typische Nutzung der App mit den Personas Bina und Mitch präsentieren sollte. Aus den User Interviews war klar, dass die User am häufigsten vor oder nach der Arbeit trainierten und in diesem Zusammenhang auch ein digitales Angebot nutzten. Im ersten Storyboard wurde auch die Pandemie-bedingte Home Office-Situation vieler Menschen berücksichtigt und der Fokus auf das Auspobieren eines neuen Trainings gelegt. Im Anschluss an das Training wurde zudem eine Bewertung des Angebots eingeplant. Im Storyboard wurde sich also auf den regulären Ablauf auf der Suche nach Abwechslung fokussiert.
+Durch die Erkenntnisse aus den User Interviews war klar, dass die User am häufigsten vor oder nach der Arbeit trainierten und in diesem Zusammenhang auch ein digitales Angebot nutzten. Im ersten Storyboard wurde auch die Pandemie-bedingte Home Office-Situation vieler Menschen berücksichtigt und der Fokus auf das Auspobieren eines neuen Trainings gelegt. Im Anschluss an das Training wurde zudem eine Bewertung des Angebots eingeplant. Im Storyboard wurde sich also auf den regulären Ablauf auf der Suche nach Abwechslung fokussiert.
 
 <figure style="width: 2000 px" class="center">
   <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/mitchstoryboard.png?raw=true" alt="Storyboard: Mitch">
 </figure>
 
+Text
 
 **Learning:** TEST
 {: .notice--primary}
   
-## Prototyp: Erster Entwurf der App als Paper Prototype
+## Paper Prototyp: Ein erster Entwurf
+Text
 
 {% include gallery id="prototype_gallery" %}
 
