@@ -22,13 +22,6 @@ affinity_gallery:
   - url: assets/images/fbaffinitydiagramdetail02.jpg
     image_path: assets/images/fbaffinitydiagramdetail02.jpg
     alt: "Affinity Diagram: Detail"
-concept_gallery:
-  - url: assets/images/empovhmw.png
-    image_path: assets/images/empovhmw.png
-    alt: "Empathy Map, Point of View und How Might We"
-  - url: assets/images/badideaschallenge.png
-    image_path: assets/images/badideaschallenge.png
-    alt: "Bad Ideas, Challenge Assumptions"
 storyboard_gallery:
   - url: assets/images/binastoryboard.png
     image_path: assets/images/binastoryboard.png
@@ -110,9 +103,11 @@ Die Erkenntnisse über die Zielgruppe wurden anschließend dazu genutzt, um zwei
 ## Konzept der Fitness-App
 Ziel der nächstenPhase war es zu überlegen, ein Konzept für die Fitness-App zu erarbeiten. Zentral war dabei die Frage nach dem Zweck, da es unzählige Möglichkeiten gibt, die Zielgruppe in ihrem Sport-Verhalten zu unterstützen: Sollte die App beispielsweise individuelle Trainingspläne erstellen, zur Dokumentation der eigenen Trainingserfolge dienen oder ein Vernetzungsangebot mit anderen Sportlern bieten? Diese Ideen konnte ichbereits durch die Ergebnisse der nutzerzentrierten Bedarfsanalyse verwerfen konnte, da die User möglichst wenig eigene Informationen zu einer App beitragen wollten und auch die Interaktion mit unbekannten Sportlern für sie nicht von Bedeutung war. Dennoch konnte ich daraus nicht ableiten, welche Konzept für eine Fitness-App nun interessant für meine Zielgruppe wäre.
 
-Als erste Schritte zur Lösung dieses Problems wurden für jede Persona eine Empathy Map erstellt und ein Point of View formuliert. Dadurch wurde deutlich, dass beide Personas trotz ihrer großen Unterschiede ein Bedürfnis haben, dass sie miteinander verbindet. Hierbei handelt es sich um das Bedürfnis nach **Abwechslung** beim Sport. Verschiedene Trainings, andere oder neue Übungen wurden von den Usern als motivierender Faktor beschrieben. 
+<figure style="width: 2000 px" class="center">
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/empovhmw.png?raw=true" alt="Empathy Map, Point of View und How Might We">
+</figure> 
 
-{% include gallery id="concept_gallery" %}
+Als erste Schritte zur Lösung dieses Problems wurden für jede Persona eine Empathy Map erstellt und ein Point of View formuliert. Dadurch wurde deutlich, dass beide Personas trotz ihrer großen Unterschiede ein Bedürfnis haben, dass sie miteinander verbindet. Hierbei handelt es sich um das Bedürfnis nach **Abwechslung** beim Sport. Verschiedene Trainings, andere oder neue Übungen wurden von den Usern als motivierender Faktor beschrieben. 
 
 Als nächstes stellte sich die Frage, wie sich Abwechslung in eine Fitness App integrieren lässt, zu welchen Zeitpunkten der User mit der App interagiert und welche anderen Bedürfnisse des Users dabei erfüllt sein mussten, damit die Fitness App auch benutzt werden kann. Weitere Kernfragen, die durch eine **"How Might We"**-Session herauskamen waren:
 
@@ -120,6 +115,10 @@ Als nächstes stellte sich die Frage, wie sich Abwechslung in eine Fitness App i
 * Wie können wir dazu anregen, dass dieses Angebot auch genutzt wird?
 * Wie können wir das Sportangebot individuell nach den Erfahrungen der User anpassen?
 * Wie können wir dafür sorgen, dass die User neue Sport-Angebote auch wirklich ausprobieren?
+
+<figure style="width: 2000 px" class="center">
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/badideaschallenge.png?raw=true" alt="Bad Ideas, Challenge Assumptions">
+</figure>
 
 Mit der **Worst Possible Ideas-Methode** wurden weitere Aspekte, die für die App relevant waren herausgearbeitet. Hierbei entstanden erste Ideen, die für die Konzeption der App genutzt wurden:
 
@@ -137,10 +136,16 @@ In einer **Challenge Assumptions** wurden dann noch vier Annahmen formuliert, vo
 * Interviews mit anderen Nutzern der App führen und sie danach befragen, was sie persönlich dazu motiviert mehr Sport zu machen und diese Interviews in einer eigenen Rubrik veröffentlichen.
 * Sport-Angebote zu bieten, die dem User ein positives Gefühl geben und außerdem das Gefühl geben etwas Gutes für seinen Körper getan zu haben.
 * Freunde als Motivationsfaktoren mit einbauen durch Sharing- und Kommunikationsmöglichkeiten. Die Möglichkeit geben sich gemeinsam verabreden zu können und auch gleichzeitig ein Sport-Angebot nutzen zu können.
+* Gamification: Würde ein Belohnungssystem zumindest mehr Anreize schaffen?
 
 **2. Annahme: Das Angebot an digitalen Sport-Angeboten wird so groß sein, dass es har nicht möglich ist, auch einen Überblick über regionale Angebote zu liefern.** Hier kam ich zu dem Schluss, dass es vermutlich erstmal besser ist, sich für einen ersten Entwurf auf digitale Angebote zu spezialisieren. Die User der Zielgruppe wollen zwar nicht unbedingt ein genau maßgeschneidertes Angebot haben, sondern gerne aus verschiedenen auswählen und neue Trainings vorgeschlagen bekommen. Dennoch wurde durch die Interviews klar, dass es kein großes Interesse daran gibt sich lange mit der Suche nach einem passenden Angebot auseinanderzusetzen. Deswegen blieben die User auch gerne bei einem breits entdeckten Sport-Angebot und testen nur wenige andere Fitnes-Anbieter.
 
-**3. Annahme: Eine Fitness-App kann nicht für das "Yeah"-Gefühl sorgen, dass man beim Sport entwickelt, weil die Trainings-Atmosphäre Zuhause fehlt, die man im Studio hat.** 
+**3. Annahme: Eine Fitness-App kann nicht für das "Yeah"-Gefühl sorgen, dass man beim Sport entwickelt, weil die Trainings-Atmosphäre Zuhause fehlt, die man im Studio hat.** Diese Annahme spiegelt die Meinung der Zielgruppe wieder, die dieses Glücksgefühl als "Yeah"-Gefühl beschrieb. Vielleicht muss es ja auch gar nicht das gleiche "Yeah"-Gefühl sein, sondern ein anderes Zufriedenheits-Gefühl, dass durch den Sport entsteht? Folgende Lösungsansätze hatte ich mir hierzu überlegt:
+
+* Livestreaming-Angebote könnten eventuell ein Training nach Hause holen und mehr Nähe vermitteln.
+* Persönliche Wochenziele definieren, über deren Erreichung sich der User freut?
+* Neue Übungen zeigen und den User lernen lassen, die dem Trainingslevel entsprechen.
+* Und erneut Gamification: Könnte ein Belohnungssystem ebenfalls zu einem "Yeah"-Gefühl beitragen?
 
 {% include gallery id="storyboard_gallery" %}
 
