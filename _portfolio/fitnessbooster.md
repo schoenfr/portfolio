@@ -156,13 +156,13 @@ Durch die Erkenntnisse aus den User Interviews war klar, dass die User am häufi
   <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/mitchstoryboard.png?raw=true" alt="Storyboard: Mitch">
 </figure>
 
-Text
+Über das zweite Storyboard sollte die Möglichkeit des gemeinsamen Trainings nachgezeichnet werden. Die Idee des Teilens von Inhalten durch die App an Freunde wurde thematisiert und die Idee des Livestreaming-Angebots. Hier wurde die App zur Kommunikation, zum Trainieren und abschließend zur Beurteilung des Sport-Erlebnisses genutzt.
 
 **Learning:** TEST
 {: .notice--primary}
   
 ## Paper Prototyp: Ein erster Entwurf
-Text
+Die Storyboards lieferten wichtige Erkenntnisse in Bezug auf das MVP: Zunächst wurde sich auf Nutzer-Szenarien fokussiert, die bereits annahmen, dass die User die App nicht zum ersten Mal nutzen. Daher lag der Fokus auf Kommunikation, Ausübung des Trainings durch die App und die Bewertung des Sportprogramms. Diese Prozesse sollten in einem Paper Prototyp abgebildet werden.
 
 {% include gallery id="prototype_gallery" %}
 
