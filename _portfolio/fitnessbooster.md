@@ -119,7 +119,7 @@ In einer **Challenge Assumptions** wurden dann noch vier Annahmen formuliert, vo
 **Learning:** TEST
 {: .notice--primary}
 
-## Eingrenzung: Erstes Konzept der Fitness App
+## Eingrenzung: Storyboards & Paper Prototyp 
 Die Schwierigkeit bestand nun darin aus all diesen Ideen zunächst ein Konzept für das MVP zu erarbeiten. Welche Funktionalitäten sollte die Fitness App von Beginn an besitzen und welche sinnvollen Komponenten konnten später hinzugefügt werden. Durch die verschiedenen Methoden zur Ideenfindung hatte sich nun eine Fülle an Möglichkeiten ergeben, die für die App sinnvoll sein könnten. Um möglichst nah am User zu bleiben, wurden deswegen zwei Storyboards erarbeitet, die jeweils eine typische Nutzung der App mit den Personas Bina und Mitch präsentieren sollte.
 
 <figure class="center">
@@ -134,10 +134,6 @@ Durch die Erkenntnisse aus den User Interviews war klar, dass die User am häufi
 
 Über das zweite Storyboard sollte die Möglichkeit des gemeinsamen Trainings nachgezeichnet werden. Die Idee des Teilens von Inhalten durch die App an Freunde wurde thematisiert und die Idee des Livestreaming-Angebots. Hier wurde die App zur Kommunikation, zum Trainieren und abschließend zur Beurteilung des Sport-Erlebnisses genutzt.
 
-**Learning:** TEST
-{: .notice--primary}
-  
-## Paper Prototyp: Ein erster Entwurf
 Die Storyboards lieferten wichtige Erkenntnisse in Bezug auf das MVP: Zunächst wurde sich auf Nutzer-Szenarien fokussiert, die bereits annahmen, dass die User die App nicht zum ersten Mal nutzen. Daher lag der Fokus auf Kommunikation, Ausübung des Trainings durch die App und die Bewertung des Sportprogramms. Diese Prozesse sollten in einem Paper Prototyp abgebildet werden.
 
 <figure class="center">
