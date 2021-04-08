@@ -22,13 +22,6 @@ affinity_gallery:
   - url: assets/images/fbaffinitydiagramdetail02.jpg
     image_path: assets/images/fbaffinitydiagramdetail02.jpg
     alt: "Affinity Diagram: Detail"
-storyboard_gallery:
-  - url: assets/images/binastoryboard.png
-    image_path: assets/images/binastoryboard.png
-    alt: "Storyboard: Bina"
-  - url: assets/images/mitchstoryboard.png
-    image_path: assets/images/mitchstoryboard.png
-    alt: "Storyboard: Mitch"
 persona_gallery:
   - url: assets/images/personaalltag.jpg
     image_path: assets/images/personaalltag.jpg
@@ -147,9 +140,15 @@ In einer **Challenge Assumptions** wurden dann noch vier Annahmen formuliert, vo
 * Neue Übungen zeigen und den User lernen lassen, die dem Trainingslevel entsprechen.
 * Und erneut Gamification: Könnte ein Belohnungssystem ebenfalls zu einem "Yeah"-Gefühl beitragen?
 
-{% include gallery id="storyboard_gallery" %}
+<figure style="width: 2000 px" class="center">
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/binastoryboard.png?raw=true" alt="Storyboard: Bina">
+</figure>
 
-Gleichzeitig war es wichtig immer dann trainieren zu können, wenn man in seinem Alltag Zeit dafür hatte.
+Die Schwierigkeit bestand nun darin aus all diesen Ideen zunächst ein Konzept für das MVP zu erarbeiten. Welche Funktionalitäten sollte die Fitness App von Beginn an besitzen und welche sinnvollen Komponenten konnten später hinzugefügt werden. Durch die verschiedenen Methoden zur Ideenfindung hatte sich nun eine Fülle an Möglichkeiten ergeben, die für die App sinnvoll sein könnten. Um möglichst nah am User zu bleiben, wurden deswegen zwei Storyboards erarbeitet, die jeweils eine typische Nutzung der App mit den Personas Bina und Mitch präsentieren sollte. Aus den User Interviews war klar, dass die User am häufigsten vor oder nach der Arbeit trainierten und in diesem Zusammenhang auch ein digitales Angebot nutzten. Im ersten Storyboard wurde auch die Pandemie-bedingte Home Office-Situation vieler Menschen berücksichtigt und der Fokus auf das Auspobieren eines neuen Trainings gelegt. Im Anschluss an das Training wurde zudem eine Bewertung des Angebots eingeplant. Im Storyboard wurde sich also auf den regulären Ablauf auf der Suche nach Abwechslung fokussiert.
+
+<figure style="width: 2000 px" class="center">
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/mitchstoryboard.png?raw=true" alt="Storyboard: Mitch">
+</figure>
 
 
 **Learning:** TEST
