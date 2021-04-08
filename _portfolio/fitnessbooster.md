@@ -72,7 +72,7 @@ Die Erkenntnisse über die Zielgruppe wurden anschließend dazu genutzt, um zwei
 ## Ideenfindung: Welche Funktionalitäten soll die Fitness-App bieten?
 Ziel der nächstenPhase war es zu überlegen, ein Konzept für die Fitness-App zu erarbeiten. Zentral war dabei die Frage nach dem Zweck, da es unzählige Möglichkeiten gibt, die Zielgruppe in ihrem Sport-Verhalten zu unterstützen: Sollte die App beispielsweise individuelle Trainingspläne erstellen, zur Dokumentation der eigenen Trainingserfolge dienen oder ein Vernetzungsangebot mit anderen Sportlern bieten? Diese Ideen konnte ichbereits durch die Ergebnisse der nutzerzentrierten Bedarfsanalyse verwerfen konnte, da die User möglichst wenig eigene Informationen zu einer App beitragen wollten und auch die Interaktion mit unbekannten Sportlern für sie nicht von Bedeutung war. Dennoch konnte ich daraus nicht ableiten, welche Konzept für eine Fitness-App nun interessant für meine Zielgruppe wäre.
 
-<figure style="width: 2000 px" class="center">
+<figure class="center">
   <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/empovhmw.png?raw=true" alt="Empathy Map, Point of View und How Might We">
 </figure> 
 
@@ -85,7 +85,7 @@ Als nächstes stellte sich die Frage, wie sich Abwechslung in eine Fitness App i
 * Wie können wir das Sportangebot individuell nach den Erfahrungen der User anpassen?
 * Wie können wir dafür sorgen, dass die User neue Sport-Angebote auch wirklich ausprobieren?
 
-<figure style="width: 2000 px" class="center">
+<figure class="center">
   <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/badideaschallenge.png?raw=true" alt="Bad Ideas, Challenge Assumptions">
 </figure>
 
@@ -122,13 +122,13 @@ In einer **Challenge Assumptions** wurden dann noch vier Annahmen formuliert, vo
 ## Eingrenzung: Erstes Konzept der Fitness App
 Die Schwierigkeit bestand nun darin aus all diesen Ideen zunächst ein Konzept für das MVP zu erarbeiten. Welche Funktionalitäten sollte die Fitness App von Beginn an besitzen und welche sinnvollen Komponenten konnten später hinzugefügt werden. Durch die verschiedenen Methoden zur Ideenfindung hatte sich nun eine Fülle an Möglichkeiten ergeben, die für die App sinnvoll sein könnten. Um möglichst nah am User zu bleiben, wurden deswegen zwei Storyboards erarbeitet, die jeweils eine typische Nutzung der App mit den Personas Bina und Mitch präsentieren sollte.
 
-<figure style="width: 2000 px" class="center">
+<figure class="center">
   <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/binastoryboard.png?raw=true" alt="Storyboard: Bina">
 </figure>
 
 Durch die Erkenntnisse aus den User Interviews war klar, dass die User am häufigsten vor oder nach der Arbeit trainierten und in diesem Zusammenhang auch ein digitales Angebot nutzten. Im ersten Storyboard wurde auch die Pandemie-bedingte Home Office-Situation vieler Menschen berücksichtigt und der Fokus auf das Auspobieren eines neuen Trainings gelegt. Im Anschluss an das Training wurde zudem eine Bewertung des Angebots eingeplant. Im Storyboard wurde sich also auf den regulären Ablauf auf der Suche nach Abwechslung fokussiert.
 
-<figure style="width: 2000 px" class="center">
+<figure class="center">
   <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/mitchstoryboard.png?raw=true" alt="Storyboard: Mitch">
 </figure>
 
