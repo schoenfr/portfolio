@@ -29,30 +29,6 @@ persona_gallery:
   - url: assets/images/personagelegenheit.png
     image_path: assets/images/personagelegenheit.png
     alt: "Persona 2: Mitch"
-prototype_gallery:
-  - url: assets/images/paperprototype02k.png
-    image_path: assets/images/paperprototype02k.png
-    alt: "Paper Prototype"
-prototype-detail_gallery:
-  - url: assets/images/paperprototype02k.png
-    image_path: assets/images/paperprototype02k.png
-    alt: "Affinity Diagram"
-  - url: assets/images/paperprototype02k.png
-    image_path: assets/images/paperprototype02k.png
-    alt: "Affinity Diagram: Detail"
-  - url: assets/images/paperprototype02k.png
-    image_path: assets/images/paperprototype02k.png
-    alt: "Affinity Diagram: Detail"
-prototype-detail2_gallery:
-  - url: assets/images/paperprototype01k.png
-    image_path: assets/images/paperprototype01k.png
-    alt: "Affinity Diagram"
-  - url: assets/images/paperprototype01k.png
-    image_path: assets/images/paperprototype01k.png
-    alt: "Affinity Diagram: Detail"
-  - url: assets/images/paperprototype01k.png
-    image_path: assets/images/paperprototype01k.png
-    alt: "Affinity Diagram: Detail"
 header:
   image: /assets/images/fitnessheader.jpg
   teaser: /assets/images/fbteaser.jpg
@@ -169,12 +145,6 @@ Die Storyboards lieferten wichtige Erkenntnisse in Bezug auf das MVP: Zunächst 
 </figure>
 
 Text
-
-{% include gallery id="prototype-detail_gallery" %}
-
-Text
-
-{% include gallery id="prototype-detail2_gallery" %}
 
 **Learning:** TEST
 {: .notice--primary}
