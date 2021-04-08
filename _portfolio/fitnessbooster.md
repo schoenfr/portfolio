@@ -140,7 +140,7 @@ Durch die Erkenntnisse aus den User Interviews war klar, dass die User am häufi
 ## Paper Prototyp: Ein erster Entwurf
 Die Storyboards lieferten wichtige Erkenntnisse in Bezug auf das MVP: Zunächst wurde sich auf Nutzer-Szenarien fokussiert, die bereits annahmen, dass die User die App nicht zum ersten Mal nutzen. Daher lag der Fokus auf Kommunikation, Ausübung des Trainings durch die App und die Bewertung des Sportprogramms. Diese Prozesse sollten in einem Paper Prototyp abgebildet werden.
 
-<figure style="width: 1500 px" class="center">
+<figure class="center">
   <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/ppgesamtklein.png?raw=true" alt="Paper Prototype: Gesamtansicht">
 </figure>
 
