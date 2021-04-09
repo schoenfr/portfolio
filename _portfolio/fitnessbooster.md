@@ -16,12 +16,14 @@ gallery_userinterview:
     alt: "Affinity Diagram: Gesamt- und Detailansicht"
     caption: "Affinity Diagram: Gesamt- und Detailansicht"
 gallery_storyboard:
-  - url: /assets/images/foto01.jpg
-    image_path: assets/images/foto01.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/foto02.jpg
-    image_path: assets/images/foto02.jpg
-    alt: "placeholder image 2"
+  - url: /assets/images/fbstoryboardbinaklein.png
+    image_path: assets/images/fbstoryboardbinaklein.png
+    alt: "Storyboard: Bina"
+    caption: "Storyboard 1: Bina möchte ein anderes Training ausprobieren"
+  - url: /assets/images/fbstoryboardmitchklein.png
+    image_path: assets/images/fbstoryboardmitchklein.png
+    alt: "Storyboard: Mitch"
+    caption: "Storyboard 2: Mitch wird von Bina zu einem Livestreaming-Angebot eingeladen"
 header:
   image: /assets/images/fitnessheader.jpg
   teaser: /assets/images/fbteaser.jpg
@@ -52,11 +54,6 @@ Die wichtigsten **Erkenntnisse zur Zielgruppe** waren:
 * Die größten Hinderungsgründe für sportliche Aktivitäten waren für alle Personen Gesundheit, Zeit und Motivation. Für drei von fünf befragten Usern war es jedoch durch die Beschränkungen der Corona-Pandemie möglich mehr und regelmäßiger Sport zu machen als vorher.
 * Sport in der Gemeinschaft zu machen wurde als "zweischneidiges Schwert" erachtet: Einerseits könne es dazu führen, dass man regelmäßiger Sport macht und motivierter ist Sport-Kurse zu besuchen, wenn man bzw. frau nicht alleine hingeht. Andererseits verhindere gemeinschaftlicher Sport die Flexibilität selbst zu entscheiden, wann man Zeit für Sport habe und könne auch demotivieren, wenn man das Gefühl hat, mit den Niveau im Kurs nicht mithalten zu können. Vier von fünf Personen waren eher dafür individuell Sport zu betreiben und dazu noch mit anderen Menschen gemeinsam Sport zu machen.
 * Die Nutzung von digitalen Fitness-Angeboten ist mit Beginn der Corona-Pandemie bei der Zielgruppe insgesamt gestiegen. Der Großteil bevorzugte Angebote ohne Registrierung und nutzte bestimmte Anbieter über deren eigene Webseite oder über Youtube. Ein eigenes abwechslungsreiches Sport-Programm in Form eines Wochen- oder Monatsplans wurd enicht gemacht, aber teilweise die Pläne der Sport-Anbieter genutzt. Im Grunde sei es spannend, dass es ein vielfältige und großes Angebot gebe, dass man erkunden und nutzen könnte, dennoch wurde sich meist auf einen Anbieter fokussiert und häufig das bereits bekannte Programm favorisiert. Abwechslung wurde zwar als motivierender Faktor beschrieben, aber gleichzeitig bestand kein Interesse daran, sich selbst ein abwechslungsreiches Sportprogramm zu erstellen.
-
-<figure class="center">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbaffinitydiagramklein.png?raw=true" alt="Affinity Diagram: Gesamt- und Detailansicht">
-  <figcaption>Affinity Diagram: Gesamt- und Detailansicht</figcaption>
-</figure> 
 
 Die Erkenntnisse über die Zielgruppe wurden anschließend dazu genutzt, um zwei Personas zu entwickeln. Die Zielgruppe erschien dabei zu heterogen als das eine Persona ausgereicht hätte, um diese adäquat abzubilden. Zudem konnte ein Spektrum an Usern des Produkts über die beiden Personas "Bina" und "Mitch" abgedeckt werden, das sowohl die fleißige Sportlerin beschreibt, die von einem eigenen Antrieb heraus gerne Sport macht, als auch die Gelegenheitssportlerin, die mehr auf äußere Anreize setzt, um körperlich aktiv zu werden.
 
@@ -123,17 +120,9 @@ In einer **Challenge Assumptions** wurden dann noch vier Annahmen formuliert, vo
 ## Eingrenzung: Storyboards & Paper Prototype
 Die Schwierigkeit bestand nun darin aus all diesen Ideen zunächst ein Konzept für das MVP zu erarbeiten. Welche Funktionalitäten sollte die Fitness App von Beginn an besitzen und welche sinnvollen Komponenten konnten später hinzugefügt werden. Durch die verschiedenen Methoden zur Ideenfindung hatte sich nun eine Fülle an Möglichkeiten ergeben, die für die App sinnvoll sein könnten. Um möglichst nah am User zu bleiben, wurden deswegen zwei Storyboards erarbeitet, die jeweils eine typische Nutzung der App mit den Personas Bina und Mitch präsentieren sollte.
 
-<figure class="center">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbstoryboardbinaklein.png?raw=true" alt="Storyboard: Bina">
-  <figcaption>Storyboard 1: Bina möchte ein anderes Training ausprobieren</figcaption>
-</figure>
+{% include gallery id="gallery_storyboard" caption="Storyboards: Zwei Abläufe einer typischen Nutzung der Fitness App mit Bina und Mitch" %}
 
 Durch die Erkenntnisse aus den User Interviews war klar, dass die User am häufigsten vor oder nach der Arbeit trainierten und in diesem Zusammenhang auch ein digitales Angebot nutzten. Im ersten Storyboard wurde auch die Pandemie-bedingte Home Office-Situation vieler Menschen berücksichtigt und der Fokus auf das Auspobieren eines neuen Trainings gelegt. Im Anschluss an das Training wurde zudem eine Bewertung des Angebots eingeplant. Im Storyboard wurde sich also auf den regulären Ablauf auf der Suche nach Abwechslung fokussiert.
-
-<figure class="center">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbstoryboardmitchklein.png?raw=true" alt="Storyboard: Mitch">
-  <figcaption>Storyboard 2: Mitch wird von Bina zu einem Livestreaming-Angebot eingeladen</figcaption>
-</figure>
 
 Über das zweite Storyboard sollte die Möglichkeit des gemeinsamen Trainings nachgezeichnet werden. Die Idee des Teilens von Inhalten durch die App an Freunde wurde thematisiert und die Idee des Livestreaming-Angebots. Hier wurde die App zur Kommunikation, zum Trainieren und abschließend zur Beurteilung des Sport-Erlebnisses genutzt. Die Storyboards lieferten wichtige Erkenntnisse in Bezug auf die Entwicklung eines ersten Prototyps: Zunächst wurde sich auf Nutzer-Szenarien fokussiert, die bereits annahmen, dass die User die App nicht zum ersten Mal nutzen. Daher lag der Fokus auf Kommunikation, Ausübung des Trainings durch die App und die Bewertung des Sportprogramms. Diese Prozesse wurden schließlich in der Form eines Paper Prototyp abgebildet werden.
 
@@ -142,7 +131,7 @@ Durch die Erkenntnisse aus den User Interviews war klar, dass die User am häufi
   <figcaption>Paper Prototype: Gesamtansicht mit Screens für beide Storyboards</figcaption>
 </figure>
 
-
+Text
 
 <figure class="center">
   <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbpp02klein.png?raw=true" alt="Paper Prototype: Smartphone-Modell, Notizen und erste Schritte">
