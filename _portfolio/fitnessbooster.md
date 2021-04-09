@@ -6,24 +6,24 @@ gallery_userinterview:
   - url: /assets/images/fbuserinterviewsklein.png
     image_path: assets/images/fbuserinterviewsklein.png
     alt: "User Interviews: Fragensammlung, Fragebogen und Aufgaben"
-    caption: "User Interviews: Fragensammlung, Aufgaben und Fragebogen"
+    title: "User Interviews: Fragensammlung, Aufgaben und Fragebogen"
   - url: /assets/images/fbuinotizenantwortenklein.png
     image_path: assets/images/fbuinotizenantwortenklein.png
     alt: "User Interviews: Notizen und Anworten"
-    caption: "Notizen zu den einzelnen User Interviews und Antworten der User zu den Aufgaben"
+    title: "Notizen zu den einzelnen User Interviews und Antworten der User zu den Aufgaben"
   - url: /assets/images/fbaffinitydiagramklein.png
     image_path: assets/images/fbaffinitydiagramklein.png
     alt: "Affinity Diagram: Gesamt- und Detailansicht"
-    caption: "Affinity Diagram: Gesamt- und Detailansicht"
+    title: "Affinity Diagram: Gesamt- und Detailansicht"
 gallery_storyboard:
   - url: /assets/images/fbstoryboardbinaklein.png
     image_path: assets/images/fbstoryboardbinaklein.png
     alt: "Storyboard: Bina"
-    caption: "Storyboard 1: Bina möchte ein anderes Training ausprobieren"
+    title: "Storyboard 1: Bina möchte ein anderes Training ausprobieren"
   - url: /assets/images/fbstoryboardmitchklein.png
     image_path: assets/images/fbstoryboardmitchklein.png
     alt: "Storyboard: Mitch"
-    caption: "Storyboard 2: Mitch wird von Bina zu einem Livestreaming-Angebot eingeladen"
+    title: "Storyboard 2: Mitch wird von Bina zu einem Livestreaming-Angebot eingeladen"
 header:
   image: /assets/images/fitnessheader.jpg
   teaser: /assets/images/fbteaser.jpg
