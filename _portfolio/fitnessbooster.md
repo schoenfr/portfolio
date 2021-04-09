@@ -117,40 +117,39 @@ In einer **Challenge Assumptions** wurden dann noch vier Annahmen formuliert, vo
 **Learning:** TEST
 {: .notice--primary}
 
-## Eingrenzung: Storyboards & Paper Prototype
+## Storyboards & Paper Prototype: Erster Entwurf der Fitness Booster-App
 Die Schwierigkeit bestand nun darin aus all diesen Ideen zunächst ein Konzept für das MVP zu erarbeiten. Welche Funktionalitäten sollte die Fitness App von Beginn an besitzen und welche sinnvollen Komponenten konnten später hinzugefügt werden. Durch die verschiedenen Methoden zur Ideenfindung hatte sich nun eine Fülle an Möglichkeiten ergeben, die für die App sinnvoll sein könnten. Um möglichst nah am User zu bleiben, wurden deswegen zwei Storyboards erarbeitet, die jeweils eine typische Nutzung der App mit den Personas Bina und Mitch präsentieren sollte.
 
 {% include gallery id="gallery_storyboard" caption="Storyboards: Zwei Abläufe einer typischen Nutzung der Fitness App mit Bina und Mitch" %}
 
 Durch die Erkenntnisse aus den User Interviews war klar, dass die User am häufigsten vor oder nach der Arbeit trainierten und in diesem Zusammenhang auch ein digitales Angebot nutzten. Im ersten Storyboard wurde auch die Pandemie-bedingte Home Office-Situation vieler Menschen berücksichtigt und der Fokus auf das Auspobieren eines neuen Trainings gelegt. Im Anschluss an das Training wurde zudem eine Bewertung des Angebots eingeplant. Im Storyboard wurde sich also auf den regulären Ablauf auf der Suche nach Abwechslung fokussiert.
 
-Über das zweite Storyboard sollte die Möglichkeit des gemeinsamen Trainings nachgezeichnet werden. Die Idee des Teilens von Inhalten durch die App an Freunde wurde thematisiert und die Idee des Livestreaming-Angebots. Hier wurde die App zur Kommunikation, zum Trainieren und abschließend zur Beurteilung des Sport-Erlebnisses genutzt. Die Storyboards lieferten wichtige Erkenntnisse in Bezug auf die Entwicklung eines ersten Prototyps: Zunächst wurde sich auf Nutzer-Szenarien fokussiert, die bereits annahmen, dass die User die App nicht zum ersten Mal nutzen. Daher lag der Fokus auf Kommunikation, Ausübung des Trainings durch die App und die Bewertung des Sportprogramms. Diese Prozesse wurden schließlich in der Form eines Paper Prototyp abgebildet werden.
+Über das zweite Storyboard sollte die Möglichkeit des gemeinsamen Trainings nachgezeichnet werden. Die Idee des Teilens von Inhalten durch die App an Freunde wurde thematisiert und die Idee des Livestreaming-Angebots. Hier wurde die App zur Kommunikation, zum Trainieren und abschließend zur Beurteilung des Sport-Erlebnisses genutzt. Die Storyboards lieferten wichtige Erkenntnisse in Bezug auf die Entwicklung eines ersten Prototyps: Zunächst wurde sich auf Nutzer-Szenarien fokussiert, die bereits annahmen, dass die User die App nicht zum ersten Mal nutzen. Daher lag der Fokus auf Kommunikation, Ausübung des Trainings durch die App und die Bewertung des Sportprogramms.
 
 <figure class="center">
   <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbpp01klein.png?raw=true" alt="Paper Prototype: Gesamtansicht">
   <figcaption>Paper Prototype: Gesamtansicht mit Screens für beide Storyboards</figcaption>
 </figure>
 
-Text
+Die nach dem Storyboard nötigen Screens wurden in einem Paper Prototype gestaltet. Ich habe nach meinem eigenen Smartphone eine Vorlage aus Karton gezeichnet und ausgeschnitten und habe die Größe der einzelnen Screens dieser Vorlage entsprechend angepasst. Zunächst habe ich die einzelnen Schritte des ersten Storyboards visualisiert und dann für die Interaktionen zwischen User und App im zweiten Storyboard zunächst verglichen, welche Screens weiterhin funktionierten und welche neu hinzukommen mussten. Anhand des Paper Prototype sollte so die Interaktion mit der Fitness Booster App zwischen User und App anhand der Szenarios in den Storyboards möglich gewesen sein.
 
 <figure class="center">
   <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbpp02klein.png?raw=true" alt="Paper Prototype: Smartphone-Modell, Notizen und erste Schritte">
   <figcaption>Paper Prototype: Smartphone-Modell, Notizen und erste Screens mit der Smartphone-Schablone ausprobieren</figcaption>
 </figure>
 
-Text
-
 <figure class="center">
   <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbpp03klein.png?raw=true" alt="Paper Prototype: Details">
   <figcaption>Paper Prototype: Detailansichten</figcaption>
 </figure>
 
-**Learning:** TEST
+Hier noch einzelne Funktionen der App beschreiben: Was wurde genau umgesetzt, was wurde noch nicht umgesetzt.
+
+**Learning:** In dem Kurs ZZ von ZZ, den ich über Udemy absolviert hatte, wurde unter anderem das Sketching und das Erstellen von Storyboards für UX Designers thematisiert und ich habe probiert die Kenntnisse aus dem Kurs auf die beiden Storyboards und den Paper Prototype anzuwenden. Die Inhalte haben mir sehr gut bei der Erarbeitung des Konzepts geholfen, da ich so zum Beispiel auch wusste, wie ich einfach klickbare Bestandteile der App im Paper Prototype markieren konnte.
 {: .notice--primary}
 
 ## Schluss
-
-The Final Product & Results and Impact
+Offen noch andere Funktionalitäten, weitere Schritte: Usability Tests und User Interviews um genauer herauszufinden, ob die Funktionalitäten so den Bedürfnissen der User entsprechen.
 
 
 **Reflections** What is your main challenge in the project, and how have you handled it? What are some lessons you’ve learnt through the project? Has the project changed your outlook as a designer? What are your next steps for the project? TEST
