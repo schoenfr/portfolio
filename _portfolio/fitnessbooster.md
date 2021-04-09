@@ -2,33 +2,6 @@
 layout: splash
 title: "Fitness Booster"
 permalink: /fitnessbooster/
-user_interview_gallery:
-  - url: assets/images/fbfragen.png
-    image_path: assets/images/fbfragen.png
-    alt: "User Interview: Fragebogen"
-  - url: assets/images/fbuinotizen.png
-    image_path: assets/images/fbuinotizen.png
-    alt: "User Interview: Notizen"
-  - url: assets/images/fbaufgaben.png
-    image_path: assets/images/fbaufgaben.png
-    alt: "User Interview: Aufgaben"
-affinity_gallery:
-  - url: assets/images/fbaffinitydiagram.jpg
-    image_path: assets/images/fbaffinitydiagram.jpg
-    alt: "Affinity Diagram"
-  - url: assets/images/fbaffinitydiagramdetail01.jpg
-    image_path: assets/images/fbaffinitydiagramdetail01.jpg
-    alt: "Affinity Diagram: Detail"
-  - url: assets/images/fbaffinitydiagramdetail02.jpg
-    image_path: assets/images/fbaffinitydiagramdetail02.jpg
-    alt: "Affinity Diagram: Detail"
-persona_gallery:
-  - url: assets/images/personaalltag.jpg
-    image_path: assets/images/personaalltag.jpg
-    alt: "Persona 1: Bina"
-  - url: assets/images/personagelegenheit.png
-    image_path: assets/images/personagelegenheit.png
-    alt: "Persona 2: Mitch"
 header:
   image: /assets/images/fitnessheader.jpg
   teaser: /assets/images/fbteaser.jpg
@@ -43,11 +16,15 @@ Ich habe dieses Projekt im Rahmen des [**UX Design Kurses „Design Thinking: Th
 ## User Interviews: Welche Bedürfnisse hat meine Zielgruppe?
 Zunächst wurden eine **Zielgruppe aus fünf Personen** für die User Interviews rekrutiert, der Fragebogen erstellt und Aufgaben entwickelt, die den befragten Personen ausgehändigt werden sollten. Die Ziele der User Interviews und der Aufgaben waren die Sport-Bedürfnisse, die bisherigen Sport-Erfahrungen und das individuelle Sport-Verhalten zu erfassen. Aufgrund der Kontaktbeschärnkungen während der Corona-Pandemie wurden die User Interviews online mit dem Konferenzsystem Zoom durchgeführt und für die spätere Analyse aufgezeichnet. Jedes User Interview dauerte zwischen 60 und 75 Minuten. Die Aufgaben bekamen die TeilnehmerInnen per E-Mail zugeschickt und die Inhalte habe ich ihnen nach den User Interviews erläutert. Insgesamt gab es drei Aufgaben mit jeweils drei Teilaufgaben, die von den Usern bearbeitet werden konnten. Sie durften alle Aufgaben erledigen, sollten aber mindestens eine abschließen. Die Rücklaufquote war sehr gut: Alle gaben im Rahmen der individuell abgesprochenen Bearbeitungszeit ihre Antworten durch. Zwei User haben eine und drei User haben alle drei Aufgaben bearbeitet.
 
-{% include gallery id="user_interview_gallery" %}
+<figure class="center">
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbuserinterviewsklein.png?raw=true" alt="User Interviews: Fragensammlung, Fragebogen und Aufgaben" caption="User Interviews: Fragensammlung, Aufgaben und Fragebogen>
+</figure>
 
 Die befragten Personen hatten alle gemein, dass sie ein generelles Interesse an Sport und Bewegung hatten, schon häufiger sportlich aktiv gewesen sind oder eine Zeit lang viel Sport gemacht hatten. Außerdem hatten sie bereits in ihrem Leben viele verschiedene Sportarten ausprobiert. Alle besaßen einen oder mehrere Hochschulabschlüsse und waren zum Zeitpunkt der Befragung berufstätig. Die Auswertung der User Interviews und Antworten auf die Aufgaben erfolgte in mehreren Schritten. Der erste war die Erstellung eines Affinity Diagram, indem die Aussagen der befragten User gesammelt und zu verschiedenen Themenkomplexen wie "Motivation", "Verständnis von Fitness" oder "Trainingsort" kategorisiert wurden. 
 
-{% include gallery id="affinity_gallery" %}
+<figure class="center">
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbuinotizenantwortenklein.png?raw=true" alt="User Interviews: Notizen und Anwroten" caption="Notizen zu den einzelnen User Interviews und Antworten der User zu den Aufgaben>
+</figure> 
 
 Die wichtigsten **Erkenntnisse zur Zielgruppe** waren:
 
@@ -62,9 +39,15 @@ Die wichtigsten **Erkenntnisse zur Zielgruppe** waren:
 * Sport in der Gemeinschaft zu machen wurde als "zweischneidiges Schwert" erachtet: Einerseits könne es dazu führen, dass man regelmäßiger Sport macht und motivierter ist Sport-Kurse zu besuchen, wenn man bzw. frau nicht alleine hingeht. Andererseits verhindere gemeinschaftlicher Sport die Flexibilität selbst zu entscheiden, wann man Zeit für Sport habe und könne auch demotivieren, wenn man das Gefühl hat, mit den Niveau im Kurs nicht mithalten zu können. Vier von fünf Personen waren eher dafür individuell Sport zu betreiben und dazu noch mit anderen Menschen gemeinsam Sport zu machen.
 * Die Nutzung von digitalen Fitness-Angeboten ist mit Beginn der Corona-Pandemie bei der Zielgruppe insgesamt gestiegen. Der Großteil bevorzugte Angebote ohne Registrierung und nutzte bestimmte Anbieter über deren eigene Webseite oder über Youtube. Ein eigenes abwechslungsreiches Sport-Programm in Form eines Wochen- oder Monatsplans wurd enicht gemacht, aber teilweise die Pläne der Sport-Anbieter genutzt. Im Grunde sei es spannend, dass es ein vielfältige und großes Angebot gebe, dass man erkunden und nutzen könnte, dennoch wurde sich meist auf einen Anbieter fokussiert und häufig das bereits bekannte Programm favorisiert. Abwechslung wurde zwar als motivierender Faktor beschrieben, aber gleichzeitig bestand kein Interesse daran, sich selbst ein abwechslungsreiches Sportprogramm zu erstellen.
 
+<figure class="center">
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbaffinitydiagram.png?raw=true" alt="Affinity Diagram: Gesamt- und Detailansicht" caption="Affinity Diagram: Gesamt- und Detailansicht">
+</figure> 
+
 Die Erkenntnisse über die Zielgruppe wurden anschließend dazu genutzt, um zwei Personas zu entwickeln. Die Zielgruppe erschien dabei zu heterogen als das eine Persona ausgereicht hätte, um diese adäquat abzubilden. Zudem konnte ein Spektrum an Usern des Produkts über die beiden Personas "Bina" und "Mitch" abgedeckt werden, das sowohl die fleißige Sportlerin beschreibt, die von einem eigenen Antrieb heraus gerne Sport macht, als auch die Gelegenheitssportlerin, die mehr auf äußere Anreize setzt, um körperlich aktiv zu werden.
 
-{% include gallery id="persona_gallery" %}
+<figure class="center">
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/empovhmw.png?raw=true" alt="Empathy Map, Point of View und How Might We">
+</figure> 
   
 **Learnings:** Für die weitere Entwicklung des Prototyps war die Erstellung der Personas für mich ein entscheidender Prozess. Die Erkenntnisse aus den User Interviews und den Antworten zu den Aufgaben konnten zwar gut durch das Affinity Diagram erarbeitet werden, dennoch fehlte mir für den weitern Prozess ein Manifestation dieser Insights in die Zielgruppe, die auf einen Blick erfahrbar war. Die Personas zu erstellen war in der Schulung der IxDF als Tool nicht vorgegeben, aber das Konzept wurde sowohl in dem Kurs [**UX Design Kurses „Design Thinking: The Beginner’s Guide“**](https://www.interaction-design.org/mareike-bosselmann/certificate/course/313f43bd-fd91-4fb8-b3b5-2b649d704c06) als auch in dem Kurs [**"Become a UX Designer from Scratch"**](https://www.interaction-design.org/mareike-bosselmann/certificate/course/d35c481a-fb73-4ebc-8b5e-4a6670122d02) genauer erklärt, weswegen ich mich dazu entschlossen habe, Personas für mein Projekt zu erstellen.
 {: .notice--primary}
