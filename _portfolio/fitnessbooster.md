@@ -108,7 +108,7 @@ In einer **Challenge Assumptions** wurden dann noch vier Annahmen formuliert, vo
 **Learning:** TEST
 {: .notice--primary}
 
-## Eingrenzung: Storyboards & Paper Prototyp 
+## Eingrenzung: Storyboards & Paper Prototype
 Die Schwierigkeit bestand nun darin aus all diesen Ideen zunächst ein Konzept für das MVP zu erarbeiten. Welche Funktionalitäten sollte die Fitness App von Beginn an besitzen und welche sinnvollen Komponenten konnten später hinzugefügt werden. Durch die verschiedenen Methoden zur Ideenfindung hatte sich nun eine Fülle an Möglichkeiten ergeben, die für die App sinnvoll sein könnten. Um möglichst nah am User zu bleiben, wurden deswegen zwei Storyboards erarbeitet, die jeweils eine typische Nutzung der App mit den Personas Bina und Mitch präsentieren sollte.
 
 <figure class="center">
@@ -123,14 +123,14 @@ Durch die Erkenntnisse aus den User Interviews war klar, dass die User am häufi
   <figcaption>Storyboard 2: Mitch wird von Bina zu einem Livestreaming-Angebot eingeladen</figcaption>
 </figure>
 
-Über das zweite Storyboard sollte die Möglichkeit des gemeinsamen Trainings nachgezeichnet werden. Die Idee des Teilens von Inhalten durch die App an Freunde wurde thematisiert und die Idee des Livestreaming-Angebots. Hier wurde die App zur Kommunikation, zum Trainieren und abschließend zur Beurteilung des Sport-Erlebnisses genutzt. Die Storyboards lieferten wichtige Erkenntnisse in Bezug auf die Entwicklung eines ersten Prototyps: Zunächst wurde sich auf Nutzer-Szenarien fokussiert, die bereits annahmen, dass die User die App nicht zum ersten Mal nutzen. Daher lag der Fokus auf Kommunikation, Ausübung des Trainings durch die App und die Bewertung des Sportprogramms. Diese Prozesse wurden schließlich in der Form eines Paper Prototyp abgebildet werden, dem Lowfi-Prototyping-Methode.
+Über das zweite Storyboard sollte die Möglichkeit des gemeinsamen Trainings nachgezeichnet werden. Die Idee des Teilens von Inhalten durch die App an Freunde wurde thematisiert und die Idee des Livestreaming-Angebots. Hier wurde die App zur Kommunikation, zum Trainieren und abschließend zur Beurteilung des Sport-Erlebnisses genutzt. Die Storyboards lieferten wichtige Erkenntnisse in Bezug auf die Entwicklung eines ersten Prototyps: Zunächst wurde sich auf Nutzer-Szenarien fokussiert, die bereits annahmen, dass die User die App nicht zum ersten Mal nutzen. Daher lag der Fokus auf Kommunikation, Ausübung des Trainings durch die App und die Bewertung des Sportprogramms. Diese Prozesse wurden schließlich in der Form eines Paper Prototyp abgebildet werden.
 
 <figure class="center">
   <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbpp01klein.png?raw=true" alt="Paper Prototype: Gesamtansicht">
   <figcaption>Paper Prototype: Gesamtansicht mit Screens für beide Storyboards</figcaption>
 </figure>
 
-Text
+
 
 <figure class="center">
   <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbpp02klein.png?raw=true" alt="Paper Prototype: Smartphone-Modell, Notizen und erste Schritte">
