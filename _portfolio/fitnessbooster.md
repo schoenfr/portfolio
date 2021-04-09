@@ -135,10 +135,20 @@ Durch die Erkenntnisse aus den User Interviews war klar, dass die User am häufi
 Über das zweite Storyboard sollte die Möglichkeit des gemeinsamen Trainings nachgezeichnet werden. Die Idee des Teilens von Inhalten durch die App an Freunde wurde thematisiert und die Idee des Livestreaming-Angebots. Hier wurde die App zur Kommunikation, zum Trainieren und abschließend zur Beurteilung des Sport-Erlebnisses genutzt. Die Storyboards lieferten wichtige Erkenntnisse in Bezug auf die Entwicklung eines ersten Prototyps: Zunächst wurde sich auf Nutzer-Szenarien fokussiert, die bereits annahmen, dass die User die App nicht zum ersten Mal nutzen. Daher lag der Fokus auf Kommunikation, Ausübung des Trainings durch die App und die Bewertung des Sportprogramms. Diese Prozesse wurden schließlich in der Form eines Paper Prototyp abgebildet werden, dem Lowfi-Prototyping-Methode.
 
 <figure class="center">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/ppgesamtklein.png?raw=true" alt="Paper Prototype: Gesamtansicht">
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/pp01klein.png?raw=true" alt="Paper Prototype: Gesamtansicht">
 </figure>
 
 Text
+
+<figure class="center">
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/pp02klein.png?raw=true" alt="Paper Prototype: Smartphone-Modell, Notizen und erste Schritte">
+</figure>
+
+Text
+
+<figure class="center">
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/pp02klein.png?raw=true" alt="Paper Prototype: Details">
+</figure>
 
 **Learning:** TEST
 {: .notice--primary}
