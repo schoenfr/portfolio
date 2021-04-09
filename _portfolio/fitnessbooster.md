@@ -147,7 +147,7 @@ Text
 Text
 
 <figure class="center">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/pp02klein.png?raw=true" alt="Paper Prototype: Details">
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/pp03klein.png?raw=true" alt="Paper Prototype: Details">
 </figure>
 
 **Learning:** TEST
