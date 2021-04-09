@@ -17,13 +17,13 @@ Ich habe dieses Projekt im Rahmen des [**UX Design Kurses „Design Thinking: Th
 Zunächst wurden eine **Zielgruppe aus fünf Personen** für die User Interviews rekrutiert, der Fragebogen erstellt und Aufgaben entwickelt, die den befragten Personen ausgehändigt werden sollten. Die Ziele der User Interviews und der Aufgaben waren die Sport-Bedürfnisse, die bisherigen Sport-Erfahrungen und das individuelle Sport-Verhalten zu erfassen. Aufgrund der Kontaktbeschärnkungen während der Corona-Pandemie wurden die User Interviews online mit dem Konferenzsystem Zoom durchgeführt und für die spätere Analyse aufgezeichnet. Jedes User Interview dauerte zwischen 60 und 75 Minuten. Die Aufgaben bekamen die TeilnehmerInnen per E-Mail zugeschickt und die Inhalte habe ich ihnen nach den User Interviews erläutert. Insgesamt gab es drei Aufgaben mit jeweils drei Teilaufgaben, die von den Usern bearbeitet werden konnten. Sie durften alle Aufgaben erledigen, sollten aber mindestens eine abschließen. Die Rücklaufquote war sehr gut: Alle gaben im Rahmen der individuell abgesprochenen Bearbeitungszeit ihre Antworten durch. Zwei User haben eine und drei User haben alle drei Aufgaben bearbeitet.
 
 <figure class="center">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbuserinterviewsklein.png?raw=true" alt="User Interviews: Fragensammlung, Fragebogen und Aufgaben" caption="User Interviews: Fragensammlung, Aufgaben und Fragebogen>
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbuserinterviewsklein.png?raw=true" alt="User Interviews: Fragensammlung, Fragebogen und Aufgaben" caption="User Interviews: Fragensammlung, Aufgaben und Fragebogen">
 </figure>
 
 Die befragten Personen hatten alle gemein, dass sie ein generelles Interesse an Sport und Bewegung hatten, schon häufiger sportlich aktiv gewesen sind oder eine Zeit lang viel Sport gemacht hatten. Außerdem hatten sie bereits in ihrem Leben viele verschiedene Sportarten ausprobiert. Alle besaßen einen oder mehrere Hochschulabschlüsse und waren zum Zeitpunkt der Befragung berufstätig. Die Auswertung der User Interviews und Antworten auf die Aufgaben erfolgte in mehreren Schritten. Der erste war die Erstellung eines Affinity Diagram, indem die Aussagen der befragten User gesammelt und zu verschiedenen Themenkomplexen wie "Motivation", "Verständnis von Fitness" oder "Trainingsort" kategorisiert wurden. 
 
 <figure class="center">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbuinotizenantwortenklein.png?raw=true" alt="User Interviews: Notizen und Anwroten" caption="Notizen zu den einzelnen User Interviews und Antworten der User zu den Aufgaben>
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbuinotizenantwortenklein.png?raw=true" alt="User Interviews: Notizen und Anworten" caption="Notizen zu den einzelnen User Interviews und Antworten der User zu den Aufgaben">
 </figure> 
 
 Die wichtigsten **Erkenntnisse zur Zielgruppe** waren:
@@ -40,7 +40,7 @@ Die wichtigsten **Erkenntnisse zur Zielgruppe** waren:
 * Die Nutzung von digitalen Fitness-Angeboten ist mit Beginn der Corona-Pandemie bei der Zielgruppe insgesamt gestiegen. Der Großteil bevorzugte Angebote ohne Registrierung und nutzte bestimmte Anbieter über deren eigene Webseite oder über Youtube. Ein eigenes abwechslungsreiches Sport-Programm in Form eines Wochen- oder Monatsplans wurd enicht gemacht, aber teilweise die Pläne der Sport-Anbieter genutzt. Im Grunde sei es spannend, dass es ein vielfältige und großes Angebot gebe, dass man erkunden und nutzen könnte, dennoch wurde sich meist auf einen Anbieter fokussiert und häufig das bereits bekannte Programm favorisiert. Abwechslung wurde zwar als motivierender Faktor beschrieben, aber gleichzeitig bestand kein Interesse daran, sich selbst ein abwechslungsreiches Sportprogramm zu erstellen.
 
 <figure class="center">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbaffinitydiagram.png?raw=true" alt="Affinity Diagram: Gesamt- und Detailansicht" caption="Affinity Diagram: Gesamt- und Detailansicht">
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbaffinitydiagramklein.png?raw=true" alt="Affinity Diagram: Gesamt- und Detailansicht" caption="Affinity Diagram: Gesamt- und Detailansicht">
 </figure> 
 
 Die Erkenntnisse über die Zielgruppe wurden anschließend dazu genutzt, um zwei Personas zu entwickeln. Die Zielgruppe erschien dabei zu heterogen als das eine Persona ausgereicht hätte, um diese adäquat abzubilden. Zudem konnte ein Spektrum an Usern des Produkts über die beiden Personas "Bina" und "Mitch" abgedeckt werden, das sowohl die fleißige Sportlerin beschreibt, die von einem eigenen Antrieb heraus gerne Sport macht, als auch die Gelegenheitssportlerin, die mehr auf äußere Anreize setzt, um körperlich aktiv zu werden.
