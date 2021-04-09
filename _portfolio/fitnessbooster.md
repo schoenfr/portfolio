@@ -2,16 +2,26 @@
 layout: splash
 title: "Fitness Booster"
 permalink: /fitnessbooster/
-gallery:
+gallery_userinterview:
+  - url: /assets/images/fbuserinterviewsklein.png
+    image_path: assets/images/fbuserinterviewsklein.png
+    alt: "User Interviews: Fragensammlung, Fragebogen und Aufgaben"
+    caption: "User Interviews: Fragensammlung, Aufgaben und Fragebogen"
+  - url: /assets/images/fbuinotizenantwortenklein.png
+    image_path: assets/images/fbuinotizenantwortenklein.png
+    alt: "User Interviews: Notizen und Anworten"
+    caption: "Notizen zu den einzelnen User Interviews und Antworten der User zu den Aufgaben"
+  - url: /assets/images/fbaffinitydiagramklein.png
+    image_path: assets/images/fbaffinitydiagramklein.png
+    alt: "Affinity Diagram: Gesamt- und Detailansicht"
+    caption: "Affinity Diagram: Gesamt- und Detailansicht"
+gallery_storyboard:
   - url: /assets/images/foto01.jpg
     image_path: assets/images/foto01.jpg
     alt: "placeholder image 1"
   - url: /assets/images/foto02.jpg
     image_path: assets/images/foto02.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/foto03.jpg
-    image_path: assets/images/foto03.jpg
-    alt: "placeholder image 3"
 header:
   image: /assets/images/fitnessheader.jpg
   teaser: /assets/images/fbteaser.jpg
@@ -26,17 +36,9 @@ Ich habe dieses Projekt im Rahmen des [**UX Design Kurses „Design Thinking: Th
 ## User Interviews: Welche Bedürfnisse hat meine Zielgruppe?
 Zunächst wurden eine **Zielgruppe aus fünf Personen** für die User Interviews rekrutiert, der Fragebogen erstellt und Aufgaben entwickelt, die den befragten Personen ausgehändigt werden sollten. Die Ziele der User Interviews und der Aufgaben waren die Sport-Bedürfnisse, die bisherigen Sport-Erfahrungen und das individuelle Sport-Verhalten zu erfassen. Aufgrund der Kontaktbeschärnkungen während der Corona-Pandemie wurden die User Interviews online mit dem Konferenzsystem Zoom durchgeführt und für die spätere Analyse aufgezeichnet. Jedes User Interview dauerte zwischen 60 und 75 Minuten. Die Aufgaben bekamen die TeilnehmerInnen per E-Mail zugeschickt und die Inhalte habe ich ihnen nach den User Interviews erläutert. Insgesamt gab es drei Aufgaben mit jeweils drei Teilaufgaben, die von den Usern bearbeitet werden konnten. Sie durften alle Aufgaben erledigen, sollten aber mindestens eine abschließen. Die Rücklaufquote war sehr gut: Alle gaben im Rahmen der individuell abgesprochenen Bearbeitungszeit ihre Antworten durch. Zwei User haben eine und drei User haben alle drei Aufgaben bearbeitet.
 
-<figure class="center">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbuserinterviewsklein.png?raw=true" alt="User Interviews: Fragensammlung, Fragebogen und Aufgaben">
-  <figcaption>User Interviews: Fragensammlung, Aufgaben und Fragebogen</figcaption>
-</figure>
-
 Die befragten Personen hatten alle gemein, dass sie ein generelles Interesse an Sport und Bewegung hatten, schon häufiger sportlich aktiv gewesen sind oder eine Zeit lang viel Sport gemacht hatten. Außerdem hatten sie bereits in ihrem Leben viele verschiedene Sportarten ausprobiert. Alle besaßen einen oder mehrere Hochschulabschlüsse und waren zum Zeitpunkt der Befragung berufstätig. Die Auswertung der User Interviews und Antworten auf die Aufgaben erfolgte in mehreren Schritten. Der erste war die Erstellung eines Affinity Diagram, indem die Aussagen der befragten User gesammelt und zu verschiedenen Themenkomplexen wie "Motivation", "Verständnis von Fitness" oder "Trainingsort" kategorisiert wurden. 
 
-<figure class="center">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbuinotizenantwortenklein.png?raw=true" alt="User Interviews: Notizen und Anworten">
-  <figcaption>Notizen zu den einzelnen User Interviews und Antworten der User zu den Aufgaben</figcaption>
-</figure> 
+{% include gallery id="gallery_userinterview" caption="User Interviews: Planung und Erstellung des Fragebogens und der Aufgaben, Notizen der Interviews und Antworten der User zu den Aufgaben sowie Sortierung der Erkenntnisse im Affinity Diagram" %}
 
 Die wichtigsten **Erkenntnisse zur Zielgruppe** waren:
 
