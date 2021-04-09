@@ -2,6 +2,16 @@
 layout: splash
 title: "Fitness Booster"
 permalink: /fitnessbooster/
+gallery:
+  - url: /assets/images/foto01.jpg
+    image_path: assets/images/foto01.jpg
+    alt: "placeholder image 1"
+  - url: /assets/images/foto02.jpg
+    image_path: assets/images/foto02.jpg
+    alt: "placeholder image 2"
+  - url: /assets/images/foto03.jpg
+    image_path: assets/images/foto03.jpg
+    alt: "placeholder image 3"
 header:
   image: /assets/images/fitnessheader.jpg
   teaser: /assets/images/fbteaser.jpg
