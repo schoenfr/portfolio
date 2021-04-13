@@ -15,6 +15,21 @@ gallery_userinterview:
     image_path: assets/images/fbaffinitydiagramklein.png
     alt: "Affinity Diagram: Gesamt- und Detailansicht"
     title: "Affinity Diagram: Gesamt- und Detailansicht"
+gallery_persona:
+  - url: /assets/images/fbpersonasklein.png
+    image_path: assets/images/fbpersonasklein.png
+    alt: "Personas Bina und Mitch"
+    title: "Personas Bina und Mitch"
+gallery_empovhmw:
+  - url: /assets/images/empovhmw.png
+    image_path: assets/images/empovhmw.png
+    alt: "Empathy Map, Point of View und How Might We"
+    title: "Empathy Maps und Points of View für beide Personas und Ergebnisse der How Might We-Session"
+gallery_badideaschallenge:
+  - url: /assets/images/badideaschallenge.png
+    image_path: assets/images/badideaschallenge.png
+    alt: "Bad Ideas, Challenge Assumptions"
+    title: "Ergebnisse von Worst Possible Ideas und Challenge Assumptions"
 gallery_storyboard:
   - url: /assets/images/fbstoryboardbinaklein.png
     image_path: assets/images/fbstoryboardbinaklein.png
@@ -24,6 +39,20 @@ gallery_storyboard:
     image_path: assets/images/fbstoryboardmitchklein.png
     alt: "Storyboard: Mitch"
     title: "Storyboard 2: Mitch wird von Bina zu einem Livestreaming-Angebot eingeladen"
+gallery_paperprototype01:
+  - url: /assets/images/fbpp01klein.png
+    image_path: assets/images/fbpp01klein.png
+    alt: "Paper Prototype: Gesamtansicht"
+    title: "Paper Prototype: Gesamtansicht mit Screens für beide Storyboards"
+gallery_paperprototype02:
+  - url: /assets/images/fbpp02klein.png
+    image_path: assets/images/fbpp02klein.png
+    alt: "Paper Prototype: Smartphone-Modell, Notizen und erste Schritte"
+    title: "Paper Prototype: Smartphone-Modell, Notizen und erste Screens"
+  - url: /assets/images/fbpp03klein.png
+    image_path: assets/images/fbpp03klein.png
+    alt: "Paper Prototype: Detailansichten"
+    title: "Paper Prototype: Detailansichten"
 header:
   image: /assets/images/fitnessheader.jpg
   teaser: /assets/images/fbteaser.jpg
@@ -57,10 +86,7 @@ Die wichtigsten **Erkenntnisse zur Zielgruppe** waren:
 
 Die Erkenntnisse über die Zielgruppe wurden anschließend dazu genutzt, um zwei Personas zu entwickeln. Die Zielgruppe erschien dabei zu heterogen als das eine Persona ausgereicht hätte, um diese adäquat abzubilden. Zudem konnte ein Spektrum an Usern des Produkts über die beiden Personas "Bina" und "Mitch" abgedeckt werden, das sowohl die fleißige Sportlerin beschreibt, die von einem eigenen Antrieb heraus gerne Sport macht, als auch die Gelegenheitssportlerin, die mehr auf äußere Anreize setzt, um körperlich aktiv zu werden.
 
-<figure class="center">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbpersonasklein.png?raw=true" alt="Empathy Map, Point of View und How Might We">
-  <figcaption>Personas "Bina" und "Mitch"</figcaption>
-</figure> 
+{% include gallery id="gallery_persona" caption="Personas **Bina** und **Mitch** %}
   
 **Learnings:** Für die weitere Entwicklung des Prototyps war die Erstellung der Personas für mich ein entscheidender Prozess. Die Erkenntnisse aus den User Interviews und den Antworten zu den Aufgaben konnten zwar gut durch das Affinity Diagram erarbeitet werden, dennoch fehlte mir für den weitern Prozess ein Manifestation dieser Insights in die Zielgruppe, die auf einen Blick erfahrbar war. Die Personas zu erstellen war in der Schulung der IxDF als Tool nicht vorgegeben, aber das Konzept wurde sowohl in dem Kurs [**UX Design Kurses „Design Thinking: The Beginner’s Guide“**](https://www.interaction-design.org/mareike-bosselmann/certificate/course/313f43bd-fd91-4fb8-b3b5-2b649d704c06) als auch in dem Kurs [**"Become a UX Designer from Scratch"**](https://www.interaction-design.org/mareike-bosselmann/certificate/course/d35c481a-fb73-4ebc-8b5e-4a6670122d02) genauer erklärt, weswegen ich mich dazu entschlossen habe, Personas für mein Projekt zu erstellen.
 {: .notice--primary}
@@ -68,10 +94,7 @@ Die Erkenntnisse über die Zielgruppe wurden anschließend dazu genutzt, um zwei
 ## Ideenfindung: Welche Funktionalitäten soll die Fitness-App bieten?
 Ziel der nächstenPhase war es zu überlegen, ein Konzept für die Fitness-App zu erarbeiten. Zentral war dabei die Frage nach dem Zweck, da es unzählige Möglichkeiten gibt, die Zielgruppe in ihrem Sport-Verhalten zu unterstützen: Sollte die App beispielsweise individuelle Trainingspläne erstellen, zur Dokumentation der eigenen Trainingserfolge dienen oder ein Vernetzungsangebot mit anderen Sportlern bieten? Diese Ideen konnte ichbereits durch die Ergebnisse der nutzerzentrierten Bedarfsanalyse verwerfen konnte, da die User möglichst wenig eigene Informationen zu einer App beitragen wollten und auch die Interaktion mit unbekannten Sportlern für sie nicht von Bedeutung war. Dennoch konnte ich daraus nicht ableiten, welche Konzept für eine Fitness-App nun interessant für meine Zielgruppe wäre.
 
-<figure class="center">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/empovhmw.png?raw=true" alt="Empathy Map, Point of View und How Might We">
-  <figcaption>Empathy Maps und Points of View für beide Personas und Ergebnisse der How Might We-Session</figcaption>
-</figure> 
+{% include gallery id="gallery_empovhmw" caption="Empathy Maps und Points of View für beide Personas und Ergebnisse der How Might We-Session" %}
 
 Als erste Schritte zur Lösung dieses Problems wurden für jede Persona eine Empathy Map erstellt und ein Point of View formuliert. Dadurch wurde deutlich, dass beide Personas trotz ihrer großen Unterschiede ein Bedürfnis haben, dass sie miteinander verbindet. Hierbei handelt es sich um das Bedürfnis nach **Abwechslung** beim Sport. Verschiedene Trainings, andere oder neue Übungen wurden von den Usern als motivierender Faktor beschrieben. 
 
@@ -82,10 +105,7 @@ Als nächstes stellte sich die Frage, wie sich Abwechslung in eine Fitness App i
 * Wie können wir das Sportangebot individuell nach den Erfahrungen der User anpassen?
 * Wie können wir dafür sorgen, dass die User neue Sport-Angebote auch wirklich ausprobieren?
 
-<figure class="center">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/badideaschallenge.png?raw=true" alt="Bad Ideas, Challenge Assumptions">
-  <figcaption>Ergebnisse von Worst Possible Ideas und Challenge Assumptions</figcaption>
-</figure>
+{% include gallery id="gallery_badideaschallenge" caption="Ergebnisse von Worst Possible Ideas und Challenge Assumptions" %}
 
 Mit der **Worst Possible Ideas-Methode** wurden weitere Aspekte, die für die App relevant waren herausgearbeitet. Hierbei entstanden erste Ideen, die für die Konzeption der App genutzt wurden:
 
@@ -126,22 +146,11 @@ Durch die Erkenntnisse aus den User Interviews war klar, dass die User am häufi
 
 Über das zweite Storyboard sollte die Möglichkeit des gemeinsamen Trainings nachgezeichnet werden. Die Idee des Teilens von Inhalten durch die App an Freunde wurde thematisiert und die Idee des Livestreaming-Angebots. Hier wurde die App zur Kommunikation, zum Trainieren und abschließend zur Beurteilung des Sport-Erlebnisses genutzt. Die Storyboards lieferten wichtige Erkenntnisse in Bezug auf die Entwicklung eines ersten Prototyps: Zunächst wurde sich auf Nutzer-Szenarien fokussiert, die bereits annahmen, dass die User die App nicht zum ersten Mal nutzen. Daher lag der Fokus auf Kommunikation, Ausübung des Trainings durch die App und die Bewertung des Sportprogramms.
 
-<figure class="center">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbpp01klein.png?raw=true" alt="Paper Prototype: Gesamtansicht">
-  <figcaption>Paper Prototype: Gesamtansicht mit Screens für beide Storyboards</figcaption>
-</figure>
+{% include gallery id="gallery_paperprototype01" caption="Paper Prototype: Gesamtansicht mit Screens für beide Storyboards" %}
 
 Die nach dem Storyboard nötigen Screens wurden in einem Paper Prototype gestaltet. Ich habe nach meinem eigenen Smartphone eine Vorlage aus Karton gezeichnet und ausgeschnitten und habe die Größe der einzelnen Screens dieser Vorlage entsprechend angepasst. Zunächst habe ich die einzelnen Schritte des ersten Storyboards visualisiert und dann für die Interaktionen zwischen User und App im zweiten Storyboard zunächst verglichen, welche Screens weiterhin funktionierten und welche neu hinzukommen mussten. Anhand des Paper Prototype sollte so die Interaktion mit der Fitness Booster App zwischen User und App anhand der Szenarios in den Storyboards möglich gewesen sein.
 
-<figure class="center">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbpp02klein.png?raw=true" alt="Paper Prototype: Smartphone-Modell, Notizen und erste Schritte">
-  <figcaption>Paper Prototype: Smartphone-Modell, Notizen und erste Screens mit der Smartphone-Schablone ausprobieren</figcaption>
-</figure>
-
-<figure class="center">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/fbpp03klein.png?raw=true" alt="Paper Prototype: Details">
-  <figcaption>Paper Prototype: Detailansichten</figcaption>
-</figure>
+{% include gallery id="gallery_paperprototype02" caption="Paper Prototype: Notizen, erste Screens und Detailansichten des Prototyps" %}
 
 Hier noch einzelne Funktionen der App beschreiben: Was wurde genau umgesetzt, was wurde noch nicht umgesetzt.
 
