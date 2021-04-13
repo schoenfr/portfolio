@@ -15,6 +15,44 @@ gallery_userinterview:
     image_path: assets/images/fbaffinitydiagramklein.png
     alt: "Affinity Diagram Gesamt- und Detailansicht"
     title: "Affinity Diagram Gesamt- und Detailansicht"
+gallery_persona:
+  - url: /assets/images/fbpersonasklein.png
+    image_path: assets/images/fbpersonasklein.png
+    alt: "Personas Bina und Mitch"
+    title: "Personas Bina und Mitch"
+gallery_empovhmw:
+  - url: /assets/images/empovhmw.png
+    image_path: assets/images/empovhmw.png
+    alt: "Empathy Map, Point of View und How Might We"
+    title: "Empathy Maps und Points of View für beide Personas und Ergebnisse der How Might We-Session"
+gallery_badideaschallenge:
+  - url: /assets/images/badideaschallenge.png
+    image_path: assets/images/badideaschallenge.png
+    alt: "Bad Ideas, Challenge Assumptions"
+    title: "Ergebnisse von Worst Possible Ideas und Challenge Assumptions"
+gallery_storyboard:
+  - url: /assets/images/fbstoryboardbinaklein.png
+    image_path: assets/images/fbstoryboardbinaklein.png
+    alt: "Storyboard Bina"
+    title: "**Storyboard 1** Bina möchte ein anderes Training ausprobieren"
+  - url: /assets/images/fbstoryboardmitchklein.png
+    image_path: assets/images/fbstoryboardmitchklein.png
+    alt: "Storyboard Mitch"
+    title: "**Storyboard 2** Mitch wird von Bina zu einem Livestreaming-Angebot eingeladen"
+gallery_paperprototype01:
+  - url: /assets/images/fbpp01klein.png
+    image_path: assets/images/fbpp01klein.png
+    alt: "Paper Prototype Gesamtansicht"
+    title: "**Paper Prototype** Gesamtansicht mit Screens für beide Storyboards"
+gallery_paperprototype02:
+  - url: /assets/images/fbpp02klein.png
+    image_path: assets/images/fbpp02klein.png
+    alt: "Paper Prototype Smartphone-Modell, Notizen und erste Schritte"
+    title: "**Paper Prototype** Smartphone-Modell, Notizen und erste Screens"
+  - url: /assets/images/fbpp03klein.png
+    image_path: assets/images/fbpp03klein.png
+    alt: "Paper Prototype Detailansichten"
+    title: "**Paper Prototype** Detailansichten"
 header:
   image: /assets/images/fitnessheader.jpg
   teaser: /assets/images/fbteaser.jpg
@@ -48,7 +86,7 @@ Die wichtigsten **Erkenntnisse zur Zielgruppe** waren:
 
 Die Erkenntnisse über die Zielgruppe wurden anschließend dazu genutzt, um zwei Personas zu entwickeln. Die Zielgruppe erschien dabei zu heterogen als das eine Persona ausgereicht hätte, um diese adäquat abzubilden. Zudem konnte ein Spektrum an Usern des Produkts über die beiden Personas "Bina" und "Mitch" abgedeckt werden, das sowohl die fleißige Sportlerin beschreibt, die von einem eigenen Antrieb heraus gerne Sport macht, als auch die Gelegenheitssportlerin, die mehr auf äußere Anreize setzt, um körperlich aktiv zu werden.
 
-{% include gallery id="gallery_persona" caption="Personas **Bina** und **Mitch** %}
+{% include gallery id="gallery_persona" caption="Personas **Bina** und **Mitch**" %}
   
 **Learnings:** Für die weitere Entwicklung des Prototyps war die Erstellung der Personas für mich ein entscheidender Prozess. Die Erkenntnisse aus den User Interviews und den Antworten zu den Aufgaben konnten zwar gut durch das Affinity Diagram erarbeitet werden, dennoch fehlte mir für den weitern Prozess ein Manifestation dieser Insights in die Zielgruppe, die auf einen Blick erfahrbar war. Die Personas zu erstellen war in der Schulung der IxDF als Tool nicht vorgegeben, aber das Konzept wurde sowohl in dem Kurs [**UX Design Kurses „Design Thinking: The Beginner’s Guide“**](https://www.interaction-design.org/mareike-bosselmann/certificate/course/313f43bd-fd91-4fb8-b3b5-2b649d704c06) als auch in dem Kurs [**"Become a UX Designer from Scratch"**](https://www.interaction-design.org/mareike-bosselmann/certificate/course/d35c481a-fb73-4ebc-8b5e-4a6670122d02) genauer erklärt, weswegen ich mich dazu entschlossen habe, Personas für mein Projekt zu erstellen.
 {: .notice--primary}
