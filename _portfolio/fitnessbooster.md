@@ -34,32 +34,32 @@ gallery_storyboard:
   - url: /assets/images/fbstoryboardbinaklein.png
     image_path: assets/images/fbstoryboardbinaklein.png
     alt: "Storyboard Bina"
-    title: "**Storyboard 1** Bina möchte ein anderes Training ausprobieren"
+    title: "Storyboard 1: Bina möchte ein anderes Training ausprobieren"
   - url: /assets/images/fbstoryboardmitchklein.png
     image_path: assets/images/fbstoryboardmitchklein.png
     alt: "Storyboard Mitch"
-    title: "**Storyboard 2** Mitch wird von Bina zu einem Livestreaming-Angebot eingeladen"
+    title: "Storyboard 2: Mitch wird von Bina zu einem Livestreaming-Angebot eingeladen"
 gallery_paperprototype01:
   - url: /assets/images/fbpp01klein.png
     image_path: assets/images/fbpp01klein.png
     alt: "Paper Prototype Gesamtansicht"
-    title: "**Paper Prototype** Gesamtansicht mit Screens für beide Storyboards"
+    title: "Paper Prototype: Gesamtansicht mit Screens für beide Storyboards"
 gallery_paperprototype02:
   - url: /assets/images/fbpp02klein.png
     image_path: assets/images/fbpp02klein.png
     alt: "Paper Prototype Smartphone-Modell, Notizen und erste Schritte"
-    title: "**Paper Prototype** Smartphone-Modell, Notizen und erste Screens"
+    title: "Paper Prototype: Smartphone-Modell, Notizen und erste Screens"
   - url: /assets/images/fbpp03klein.png
     image_path: assets/images/fbpp03klein.png
     alt: "Paper Prototype Detailansichten"
-    title: "**Paper Prototype** Detailansichten"
+    title: "Paper Prototype: Detailansichten"
 header:
   image: /assets/images/fitnessheader.jpg
   teaser: /assets/images/fbteaser.jpg
 ---
 
 # Fitness Booster: Abwechslungsreich und flexibel Sport machen
-  Der Beginn der Corona-Pandemie führte dazu, dass die einem selbstverständlich erschienenen analogen Sport-Angebote schließen mussten und auch später nur kurzzeitig und mit einigen Beschränkungen öffnen durften. Die qualitative Befragung einer Gruppe aus 5 Personen zu ihrem persönlichen Sport-Verhalten ergab, dass ihre Motivation Sport zu machen durch ein vielseitiges und flexibles Angebot gefördert werden kann. Im Rahmen dieses Projekts, das "Fitness Booster" genannt wurde, entwickelte ich einen ersten Entwurf einer Fitness-App, die ein abwechslungsreiches Sportprogramm mit Livestreaming- und Video-on-Demand-Angeboten bereitstellen sollte, die von verschiedenen Trainer:innen erstellt werden.
+Der Beginn der Corona-Pandemie führte zu einem Verlust der Möglichkeit in Fitness-Studios, Sportvereinen und anderen Sport-Gruppen körperlich aktiv zu werden. Diese Einschränkungen in der individuellen Sportausübung sollten durch ein**digitales, vielseitiges und flexibles Sportangebot in Form einer Fitness-App** behoben werden. Im Rahmen dieses Projekts wurde ein **erster Entwurf einer Fitness-App** ausgearbeitet, der sowohl ein  **Video-on-Demand-Kursprogramm** als auch **Livestreaming-Angebote** zur Verfügung stellte, das von verschiedenen Trainer:innen mit unterschiedlichen Schwerpunkten bereitgestellt werden sollte.
 
 Ich habe dieses Projekt im Rahmen des [**UX Design Kurses „Design Thinking: The Beginner’s Guide“**](https://www.interaction-design.org/mareike-bosselmann/certificate/course/313f43bd-fd91-4fb8-b3b5-2b649d704c06) der [**Interaction Design Foundation**](https://www.interaction-design.org/) umgesetzt und als praktisches Anwendungsbeispiel genutzt, um die Methoden des Design Thinking auszuprobieren. Die Aufgabe war die Entwicklung eines ersten Entwurfs einer Fitness App für Smartphones.
 {: .notice--primary}
