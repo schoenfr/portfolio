@@ -13,8 +13,8 @@ gallery_userinterview:
     title: "Notizen zu den einzelnen User Interviews und Antworten der User zu den Aufgaben"
   - url: /assets/images/fbaffinitydiagramklein.png
     image_path: assets/images/fbaffinitydiagramklein.png
-    alt: "Affinity Diagram: Gesamt- und Detailansicht"
-    title: "Affinity Diagram: Gesamt- und Detailansicht"
+    alt: "Affinity Diagram Gesamt- und Detailansicht"
+    title: "Affinity Diagram Gesamt- und Detailansicht"
 gallery_persona:
   - url: /assets/images/fbpersonasklein.png
     image_path: assets/images/fbpersonasklein.png
@@ -33,26 +33,26 @@ gallery_badideaschallenge:
 gallery_storyboard:
   - url: /assets/images/fbstoryboardbinaklein.png
     image_path: assets/images/fbstoryboardbinaklein.png
-    alt: "Storyboard: Bina"
-    title: "Storyboard 1: Bina möchte ein anderes Training ausprobieren"
+    alt: "Storyboard Bina"
+    title: "**Storyboard 1** Bina möchte ein anderes Training ausprobieren"
   - url: /assets/images/fbstoryboardmitchklein.png
     image_path: assets/images/fbstoryboardmitchklein.png
-    alt: "Storyboard: Mitch"
-    title: "Storyboard 2: Mitch wird von Bina zu einem Livestreaming-Angebot eingeladen"
+    alt: "Storyboard Mitch"
+    title: "**Storyboard 2** Mitch wird von Bina zu einem Livestreaming-Angebot eingeladen"
 gallery_paperprototype01:
   - url: /assets/images/fbpp01klein.png
     image_path: assets/images/fbpp01klein.png
-    alt: "Paper Prototype: Gesamtansicht"
-    title: "Paper Prototype: Gesamtansicht mit Screens für beide Storyboards"
+    alt: "Paper Prototype Gesamtansicht"
+    title: "**Paper Prototype** Gesamtansicht mit Screens für beide Storyboards"
 gallery_paperprototype02:
   - url: /assets/images/fbpp02klein.png
     image_path: assets/images/fbpp02klein.png
-    alt: "Paper Prototype: Smartphone-Modell, Notizen und erste Schritte"
-    title: "Paper Prototype: Smartphone-Modell, Notizen und erste Screens"
+    alt: "Paper Prototype Smartphone-Modell, Notizen und erste Schritte"
+    title: "**Paper Prototype** Smartphone-Modell, Notizen und erste Screens"
   - url: /assets/images/fbpp03klein.png
     image_path: assets/images/fbpp03klein.png
-    alt: "Paper Prototype: Detailansichten"
-    title: "Paper Prototype: Detailansichten"
+    alt: "Paper Prototype Detailansichten"
+    title: "**Paper Prototype** Detailansichten"
 header:
   image: /assets/images/fitnessheader.jpg
   teaser: /assets/images/fbteaser.jpg
