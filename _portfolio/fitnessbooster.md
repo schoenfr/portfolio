@@ -21,13 +21,13 @@ gallery_persona:
     alt: "Personas Bina und Mitch"
     title: "Personas Bina und Mitch"
 gallery_empovhmw:
-  - url: /assets/images/empovhmw.png
-    image_path: assets/images/empovhmw.png
+  - url: /assets/images/fbempovhmwklein.png
+    image_path: assets/images/fbempovhmwklein.png
     alt: "Empathy Map, Point of View und How Might We"
     title: "Empathy Maps und Points of View für beide Personas und Ergebnisse der How Might We-Session"
 gallery_badideaschallenge:
-  - url: /assets/images/badideaschallenge.png
-    image_path: assets/images/badideaschallenge.png
+  - url: /assets/images/fbbadideaschallengeklein.png
+    image_path: assets/images/fbbadideaschallengeklein.png
     alt: "Bad Ideas, Challenge Assumptions"
     title: "Ergebnisse von Worst Possible Ideas und Challenge Assumptions"
 gallery_storyboard:
