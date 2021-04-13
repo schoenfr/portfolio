@@ -64,7 +64,7 @@ Der Beginn der Corona-Pandemie führte zu einem Verlust der Möglichkeit in Fitn
 **Business-Motivation** 
 {: .notice--warning}
 
-Ich habe dieses Projekt im Rahmen des [**UX Design Kurses „Design Thinking: The Beginner’s Guide“**](https://www.interaction-design.org/mareike-bosselmann/certificate/course/313f43bd-fd91-4fb8-b3b5-2b649d704c06) der [**Interaction Design Foundation**](https://www.interaction-design.org/) umgesetzt und als praktisches Anwendungsbeispiel genutzt, um die Methoden des Design Thinking auszuprobieren. Die Aufgabe war die Entwicklung eines ersten Entwurfs einer Fitness App für Smartphones, die durch verschiedene, im Kurs vorgegebene Methoden gelöst werden sollten.
+Ich habe dieses Projekt im Rahmen des [**UX Design Kurses „Design Thinking: The Beginner’s Guide“**](https://www.interaction-design.org/mareike-bosselmann/certificate/course/313f43bd-fd91-4fb8-b3b5-2b649d704c06) der [**Interaction Design Foundation**](https://www.interaction-design.org/) umgesetzt und als **praktisches Anwendungsbeispiel** genutzt, um die Methoden des Design Thinking auszuprobieren. Die **Aufgabe** war die **Entwicklung eines ersten Entwurfs einer Fitness App für Smartphones**, die durch verschiedene, im Kurs vorgegebene Methoden gelöst werden sollten.
 {: .notice--primary}
 
 ## User Interviews: Welche Bedürfnisse hat meine Zielgruppe?
