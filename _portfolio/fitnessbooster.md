@@ -159,7 +159,7 @@ Hier noch einzelne Funktionen der App beschreiben: Was wurde genau umgesetzt, wa
 
 ## Schluss
 Offen noch andere Funktionalitäten, weitere Schritte: Usability Tests und User Interviews um genauer herauszufinden, ob die Funktionalitäten so den Bedürfnissen der User entsprechen.
-
+ Nächste Schritte
 
 **Reflections** What is your main challenge in the project, and how have you handled it? What are some lessons you’ve learnt through the project? Has the project changed your outlook as a designer? What are your next steps for the project? TEST
 {: .notice--primary}
