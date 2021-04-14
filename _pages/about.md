@@ -42,6 +42,11 @@ Mein Name ist Mareike Boßelmann und ich bin eine Quereinsteigerin im UX Design.
 ### Meine Motivation
 
 ### Meine Kompetenzen
+Auch wenn ich als Quereinsteigerin noch neu im Bereich UX Design gibt, so gibt es dennoch einige Kompetenzen, die ich durch meine bisherigen Tätigkeiten erworben habe und die auch für meine Arbeit als UX Designer von Relevanz sind. Meine wichtigsten Kompetenzen sind:
+* Kompetenz 1
+* Kompetenz 2
+* Kompetenz 3
+* Kompetenz 4
 
 ### Meine Ziele
 
