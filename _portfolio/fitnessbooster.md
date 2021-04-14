@@ -76,22 +76,24 @@ Aufgrund der Kontaktbeschränkungen während der Corona-Pandemie wurden die **Us
 
 Die **Auswertung** der User Interviews und Antworten auf die Aufgaben erfolgte in mehreren Schritten. Der erste war die Erstellung eines **Affinity Diagram**, indem die Aussagen der NutzerInnen gesammelt und nach verschiedenen Themen wie "Motivation",  "Verständnis von Fitness" oder "Trainingsort" kategorisiert wurden.
 
-Die wichtigsten **Erkenntnisse** waren:
+Die wichtigsten **Erkenntnisse** lassen sich in folgende Themenbereiche zusammenfassen:
 
+**1. Sport-Verhalten**
 * Die **Integrierbarkeit des Sport-Angebots in den Alltag** hatte eine sehr hohe Bedeutung. Alle befragten Personen gingen davon aus, dass sportliche Aktivitäten in den Alltag integrierbar sein sollten, damit dieser regelmäßig ausgeübt wird. Dieses Bewußtsein führte jedoch nicht automatisch bei allen Usern dazu, dass sie dies in ihrem Sport-Verhalten auch taten.
 * **Voraussetzungen für die Ausübung von Sport** waren neben einem guten Gesundheitszustand für alle sowohl **Zeit** als auch **Lust** auf körperliche Bewegung. 
 * Sportliche Aktivitäten wurden an **Arbeitstagen um die jeweilige Arbeitszeit** herum geplant und am **Wochenende flexibel** angesetzt.
 * **Wettkämpfe** wie Kilometer- oder Hürdenläufe und andere Sport-Events wurden als **kurzfristige Motivatoren** beschrieben. Sie führten vor den jeweiligen Veranstaltungen zwar zu einem erhöhten Trainingsaufkommen, führten aber nicht dazu, dass dieses danach beibehalten wurde.
-* Die User beschrieben sich generell als **wenig leistungsorientiert und kompetitiv**. Damit war gemeint, dass es für sie nicht darauf ankam sich mit anderen zu messen oder der/die Beste/r zu sein. Dennoch beschrieben sie auch den **Anspruch ein bestimmtes Leistungsniveau** zu besitzen und halten zu wollen sowie **beim Sport an die eigenen Grenzen** zu stoßen.
+* Die User beschrieben sich generell als **wenig leistungsorientiert und nicht kompetitiv**. Damit war gemeint, dass es für sie nicht darauf ankam sich mit anderen zu messen oder der/die Beste/r zu sein. Dennoch beschrieben sie auch den **Anspruch ein bestimmtes Leistungsniveau** zu besitzen und halten zu wollen sowie **beim Sport an die eigenen Grenzen** zu stoßen.
 * **Hinderungsgründe** für sportliche Aktivitäten waren für alle **Gesundheit, Zeit und fehlende Motivation**. Für drei von fünf befragten Usern war es jedoch durch die Beschränkungen der Corona-Pandemie möglich mehr und regelmäßiger Sport zu machen als vorher.
 * **Sport in der Gemeinschaft** zu machen wurde als "zweischneidiges Schwert" erachtet: Einerseits könne es dazu führen, dass man regelmäßiger Sport macht. Andererseits verhindere gemeinschaftlicher Sport die Flexibilität selbst zu entscheiden, wann man Zeit für Sport habe und könne auch demotivieren, wenn man das Gefühl hat, mit den Niveau im Kurs nicht mithalten zu können. **Vier von fünf Personen waren eher dafür individuell Sport zu betreiben und dazu noch mit anderen Menschen gemeinsam Sport zu machen.**
-{: .notice--warning}
+* Die **Nutzung von digitalen Fitness-Angeboten** ist mit **Beginn der Corona-Pandemie insgesamt gestiegen**. Der Großteil bevorzugte Angebote ohne Registrierung und nutzte bestimmte Anbieter über deren eigene Webseite oder über Youtube. 
+* Ein eigenes abwechslungsreiches Sport-Programm in Form eines Wochen- oder Monatsplans wurde nicht gemacht, aber teilweise die Pläne der Sport-Anbieter genutzt. Im Grunde sei es spannend, dass es ein vielfältige und großes Angebot gebe, dass man erkunden und nutzen könnte, dennoch wurde sich meist auf einen Anbieter fokussiert und häufig das bereits bekannte Programm favorisiert. Abwechslung wurde zwar als motivierender Faktor beschrieben, aber gleichzeitig bestand kein Interesse daran, sich selbst ein abwechslungsreiches Sportprogramm zu erstellen.
 
 * Die Zielgruppe gab an, dass sie tendenziell kaum bis gar keinen Druck von außen verspürt, Sport zu treiben. Alle waren sich aber bewusst, dass sportliche Aktivitäten zur eigenen Gesundheit, Prävention von Krankheiten und zur allgemeinen Leistungsfähigkeit einen entscheidenden Beitrag leisten können. Dieses Wissen führte für die User jedoch nicht automatisch dazu dauerhaft mehr Sport zu treiben. 
 * Stattdessen beschrieben drei von fünf Personen eine Form von intrinsischer Motivation: Ohne regelmäßige sportliche Aktivitäten fühlten sie sich rastlos und versürten ein Bedürfnis nach mehr Bewegung und Sport.
 * Gesellschaftliche Vorstellungen über das Aussehen eines "normalen" Körpers und dem Druck diesem Erscheinungsbild durch Sport nachzukommen, wurde von drei Personen beim Thema der "Gewichtsreduktion" angesprochen. Sport dient für sie in diesem Sinne auch dazu, das eigene Körpergewicht zu regulieren und 
 
-* Die Nutzung von digitalen Fitness-Angeboten ist mit Beginn der Corona-Pandemie bei der Zielgruppe insgesamt gestiegen. Der Großteil bevorzugte Angebote ohne Registrierung und nutzte bestimmte Anbieter über deren eigene Webseite oder über Youtube. Ein eigenes abwechslungsreiches Sport-Programm in Form eines Wochen- oder Monatsplans wurd enicht gemacht, aber teilweise die Pläne der Sport-Anbieter genutzt. Im Grunde sei es spannend, dass es ein vielfältige und großes Angebot gebe, dass man erkunden und nutzen könnte, dennoch wurde sich meist auf einen Anbieter fokussiert und häufig das bereits bekannte Programm favorisiert. Abwechslung wurde zwar als motivierender Faktor beschrieben, aber gleichzeitig bestand kein Interesse daran, sich selbst ein abwechslungsreiches Sportprogramm zu erstellen.
+
 
 Fazit zu diesen Erkenntnissen.
 {: .notice--warning}
