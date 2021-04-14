@@ -27,11 +27,9 @@ gallery_ixdf:
     alt: "User Experience: The Beginner's Guide"
 ---
 
-
-<figure style="width: 300 px" class="align-right">
-  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/startbild.png?raw=true" alt="">
-</figure> 
-
+<figure style="width: 300px" class="align-right">
+  <img src="/assets/images/startbild.png" alt="">
+  </figure> 
 
 ### Hallo!
 
