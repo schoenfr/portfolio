@@ -2,37 +2,32 @@
 permalink: /about/
 layout: splash
 title: "Mareike Boßelmann"
-gallery_ixdf:
-  - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/8ffd8c1c-9c52-4c1c-b309-dba88524c432
-    image_path: assets/images/idxfcreativity.jpg
-    alt: "Creativity: Methods to Design Better Products and Services"
-    target: "_blank"
-  - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/7f9d4423-fbdf-4fce-a398-592fe9f73204
-    image_path: assets/images/idxfusability.jfif
-    alt: "Conducting Usability Testing"
-    target: "_blank"
-  - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/d35c481a-fb73-4ebc-8b5e-4a6670122d02?certificateType=course
-    image_path: assets/images/idxfuxdesign.jfif
-    alt: "Become a UX Designer from Scratch"
-    target: "_blank"
-  - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/313f43bd-fd91-4fb8-b3b5-2b649d704c06
-    image_path: assets/images/idxfuxdt.jfif
-    alt: "Design Thinking: The Beginner's Guide"
-    target: "_blank"
-  - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/d0a425c0-72e8-424a-a393-3c2a008359b1
-    image_path: assets/images/idxfuxportfolio.jfif
-    alt: "How to Create a UX Portfolio"
-    target: "_blank"
-   - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/950c716a-fa49-4ee8-aeb0-f24191ee8bb2
-    image_path: assets/images/idxfuxbeginner.jfif
-    alt: "User Experience: The Beginner's Guide"
-    target: "_blank"
 gallery_udemy:
   - url: https://www.udemy.com/certificate/UC-fecf4e1c-315d-41b6-98a6-b4dfcb1484f5
     image_path: assets/images/udemyuxdesignsketching.jpg
     alt: "Udemy Ux Design Sketching"
-    target: "_blank"
+gallery_ixdf:
+  - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/8ffd8c1c-9c52-4c1c-b309-dba88524c432
+    image_path: assets/images/idxfcreativity.jpg
+    alt: "Creativity: Methods to Design Better Products and Services"
+  - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/7f9d4423-fbdf-4fce-a398-592fe9f73204
+    image_path: assets/images/idxfusability.jfif
+    alt: "Conducting Usability Testing"
+  - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/d35c481a-fb73-4ebc-8b5e-4a6670122d02?certificateType=course
+    image_path: assets/images/idxfuxdesign.jfif
+    alt: "Become a UX Designer from Scratch"
+  - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/313f43bd-fd91-4fb8-b3b5-2b649d704c06
+    image_path: assets/images/idxfuxdt.jfif
+    alt: "Design Thinking: The Beginner's Guide"
+  - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/d0a425c0-72e8-424a-a393-3c2a008359b1
+    image_path: assets/images/idxfuxportfolio.jfif
+    alt: "How to Create a UX Portfolio"
+  - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/950c716a-fa49-4ee8-aeb0-f24191ee8bb2
+    image_path: assets/images/idxfuxbeginner.jfif
+    alt: "User Experience: The Beginner's Guide"
 ---
+
+
 <figure style="width: 300 px" class="align-right">
   <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/startbild.png?raw=true" alt="">
 </figure> 
