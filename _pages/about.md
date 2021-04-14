@@ -28,7 +28,7 @@ gallery_ixdf:
 ---
 
 <figure style="width: 300px" class="align-right">
-  <img src="/assets/images/startbild.png" alt="">
+  <img src="https://github.com/mbosselmann/portfolio/blob/master/assets/images/startbild.png?raw=true" alt="">
   </figure> 
 
 ### Hallo!
