@@ -68,7 +68,7 @@ Ich habe dieses Projekt im Rahmen des [**UX Design Kurses „Design Thinking: Th
 {: .notice--primary}
 
 ## User Interviews: Welche Bedürfnisse hat meine Zielgruppe?
-Die ersten Schritte waren die **Rekrutierung von potentiellen Nutzer:innen für User Interviews**, die Ausarbeitung des Fragebogens und der Aufgaben, die die befragten Personen nach den Interviews bearbeiten sollten. Die **Ziele der User Interviews** und der Aufgaben waren die **Sport-Bedürfnisse**, die **bisherigen Sport-Erfahrungen** und das **individuelle Sport-Verhalten** zu erfassen. Die **Zielgruppe bestand aus fünf Personen**, die alle ein generelles Interesse an Sport und Bewegung haben, die aktuell oder in der Vergangenheit sportlich aktiv gewesen sind bzw. waren und die bereits verschiedene Sportarten ausprobiert haben.
+Die ersten Schritte waren die **Rekrutierung von potentiellen Nutzer:innen für User Interviews**, die Ausarbeitung des Fragebogens und der Aufgaben, die die befragten Personen nach den Interviews bearbeiten sollten. Die **Ziele der User Interviews** und der Aufgaben waren die **Sport-Bedürfnisse**, die **bisherigen Erfahrungen mit digitalen Angeboten** und das **individuelle Sport-Verhalten** zu erfassen. Die **Zielgruppe bestand aus fünf Personen**, die alle ein generelles Interesse an Sport und Bewegung haben, die aktuell oder in der Vergangenheit sportlich aktiv gewesen sind bzw. waren und die bereits verschiedene Sportarten ausprobiert haben.
 
 Aufgrund der Kontaktbeschränkungen während der Corona-Pandemie wurden die **User Interviews online mit dem Konferenzsystem Zoom** durchgeführt und für die **spätere Analyse aufgezeichnet**. Jedes Gespräch dauerte zwischen **60 und 75 Minuten**. Die Aufgaben bekamen die TeilnehmerInnen per E-Mail zugeschickt. Diese wurden nach den User Interviews erklärt und eine individuelle Bearbeitungszeit besprochen. Insgesamt gab es **drei Aufgaben mit jeweils drei Teilaufgaben**, die von den Usern bearbeitet werden konnten. Sie durften alle Aufgaben erledigen, sollten aber mindestens eine abschließen. Die **Rücklaufquote war sehr gut**: Alle gaben ihre Antworten rechtzeitig ab. Zwei User haben eine und drei User haben alle drei Aufgaben bearbeitet.
 
@@ -76,24 +76,28 @@ Aufgrund der Kontaktbeschränkungen während der Corona-Pandemie wurden die **Us
 
 Die **Auswertung** der User Interviews und Antworten auf die Aufgaben erfolgte in mehreren Schritten. Der erste war die Erstellung eines **Affinity Diagram**, indem die Aussagen der NutzerInnen gesammelt und nach verschiedenen Themen wie "Motivation",  "Verständnis von Fitness" oder "Trainingsort" kategorisiert wurden.
 
-Die wichtigsten **Erkenntnisse** lassen sich in folgende Themenbereiche zusammenfassen:
+Die wichtigsten **Erkenntnisse** zu den Eingangs formulierten Zielen der User Interviews waren:
 
-**1. Sport-Verhalten**
-* Die **Integrierbarkeit des Sport-Angebots in den Alltag** hatte eine sehr hohe Bedeutung. Alle befragten Personen gingen davon aus, dass sportliche Aktivitäten in den Alltag integrierbar sein sollten, damit dieser regelmäßig ausgeübt wird. Dieses Bewußtsein führte jedoch nicht automatisch bei allen Usern dazu, dass sie dies in ihrem Sport-Verhalten auch taten.
+**1. Sport-Bedürfnisse**
+* Alle waren sich einig, dass ihnen der Sport **Spaß** machen sollte. Zwar wäre es auch möglich Sport zu treiben, ohne dabei Spaß zu haben. Dies senke aber ihre Motivation sich körperlich zu betätigen.
+* Die User beschrieben sich generell als **wenig leistungsorientiert und nicht kompetitiv**. Damit war gemeint, dass es für sie nicht darauf ankam sich mit anderen zu messen oder der/die Beste/r zu sein. Dennoch hatten sie auch den **Anspruch ein bestimmtes Leistungsniveau** zu besitzen und halten zu wollen sowie **beim Sport an die eigenen Grenzen** zu stoßen.
+* **Drei von fünf Personen** beschrieben zudem eine **ihnen selbst innewohnende Motivation bezüglich Bewegung**: Ohne regelmäßige körperliche Aktivitäten würden sie sich rastlos fühlen und ein Bedürfnis nach mehr Bewegung und Sport verspüren.
+* Die Bedeutung der **Integrierbarkeit des Sport-Angebots in den Alltag** war für die befragten Personen **sehr wichtig**. Alle gingen davon aus, dass sportliche Aktivitäten in den Alltag integrierbar sein sollten, damit dieser regelmäßig ausgeübt wird. Dieses Bewußtsein führte jedoch nicht automatisch bei allen Usern dazu, dass sie dies in ihrem Sport-Verhalten auch taten.
+* Alle waren sich außerdem bewusst, dass **sportliche Aktivitäten zur eigenen Gesundheit, Prävention von Krankheiten und zur allgemeinen Leistungsfähigkeit einen entscheidenden Beitrag leisten können**. Dieses Wissen führte für die User jedoch **nicht automatisch** dazu regelmäßig mehr Sport zu treiben.
+* Drei von fünf Personen sprachen außerdem das Thema **Gewichtsreduktion** an. Sport diente für sie auch dazu, das eigene Körpergewicht zu regulieren.
+
+**2. Bisherige Erfahrungen**
+* Die **Nutzung von digitalen Fitness-Angeboten** ist mit **Beginn der Corona-Pandemie bei den Befragten insgesamt gestiegen**. Der Großteil bevorzugte Angebote ohne Registrierung und nutzte bestimmte Anbieter über deren eigene Webseite oder über Youtube. **Eine Fitness App, wie sie in diesem Projekt später geplant wurde, nutzte zum Zeitpunkt der Befragung keiner von ihnen.**
+* Ein **eigenes abwechslungsreiches Sport-Programm wurde nicht gemacht**, sondern wenn dann auf die Pläne der Sort-Anbieter zurückgegriffen. 
+* Ihnen war zwar bewusst, dass es ein **vielfältiges und großes digitales Sport-Angebot** gibt, dennoch werde **häufig etwas ähnliches gemacht**, weil man dieses schon kenne. Mit der Zeit führe dies aber zu **Langeweile**.
+* **Abwechslung** sei daher ein motivierender Faktor um mehr Sport zu betreiben. Paradox war jedoch, dass das Interesse nach diese Abwechslung eigenständig zu suchen, eher gering war bei den befragten Usern.
+
+**3. Sport-Verhalten**
 * **Voraussetzungen für die Ausübung von Sport** waren neben einem guten Gesundheitszustand für alle sowohl **Zeit** als auch **Lust** auf körperliche Bewegung. 
-* Sportliche Aktivitäten wurden an **Arbeitstagen um die jeweilige Arbeitszeit** herum geplant und am **Wochenende flexibel** angesetzt.
-* **Wettkämpfe** wie Kilometer- oder Hürdenläufe und andere Sport-Events wurden als **kurzfristige Motivatoren** beschrieben. Sie führten vor den jeweiligen Veranstaltungen zwar zu einem erhöhten Trainingsaufkommen, führten aber nicht dazu, dass dieses danach beibehalten wurde.
-* Die User beschrieben sich generell als **wenig leistungsorientiert und nicht kompetitiv**. Damit war gemeint, dass es für sie nicht darauf ankam sich mit anderen zu messen oder der/die Beste/r zu sein. Dennoch beschrieben sie auch den **Anspruch ein bestimmtes Leistungsniveau** zu besitzen und halten zu wollen sowie **beim Sport an die eigenen Grenzen** zu stoßen.
+* Sportliche oder körperliche Aktivitäten wurden an **Arbeitstagen um die jeweilige Arbeitszeit** herum geplant und am **Wochenende flexibel** angesetzt.
 * **Hinderungsgründe** für sportliche Aktivitäten waren für alle **Gesundheit, Zeit und fehlende Motivation**. Für drei von fünf befragten Usern war es jedoch durch die Beschränkungen der Corona-Pandemie möglich mehr und regelmäßiger Sport zu machen als vorher.
-* **Sport in der Gemeinschaft** zu machen wurde als "zweischneidiges Schwert" erachtet: Einerseits könne es dazu führen, dass man regelmäßiger Sport macht. Andererseits verhindere gemeinschaftlicher Sport die Flexibilität selbst zu entscheiden, wann man Zeit für Sport habe und könne auch demotivieren, wenn man das Gefühl hat, mit den Niveau im Kurs nicht mithalten zu können. **Vier von fünf Personen waren eher dafür individuell Sport zu betreiben und dazu noch mit anderen Menschen gemeinsam Sport zu machen.**
-* Die **Nutzung von digitalen Fitness-Angeboten** ist mit **Beginn der Corona-Pandemie insgesamt gestiegen**. Der Großteil bevorzugte Angebote ohne Registrierung und nutzte bestimmte Anbieter über deren eigene Webseite oder über Youtube. 
-* Ein eigenes abwechslungsreiches Sport-Programm in Form eines Wochen- oder Monatsplans wurde nicht gemacht, aber teilweise die Pläne der Sport-Anbieter genutzt. Im Grunde sei es spannend, dass es ein vielfältige und großes Angebot gebe, dass man erkunden und nutzen könnte, dennoch wurde sich meist auf einen Anbieter fokussiert und häufig das bereits bekannte Programm favorisiert. Abwechslung wurde zwar als motivierender Faktor beschrieben, aber gleichzeitig bestand kein Interesse daran, sich selbst ein abwechslungsreiches Sportprogramm zu erstellen.
-
-* Die Zielgruppe gab an, dass sie tendenziell kaum bis gar keinen Druck von außen verspürt, Sport zu treiben. Alle waren sich aber bewusst, dass sportliche Aktivitäten zur eigenen Gesundheit, Prävention von Krankheiten und zur allgemeinen Leistungsfähigkeit einen entscheidenden Beitrag leisten können. Dieses Wissen führte für die User jedoch nicht automatisch dazu dauerhaft mehr Sport zu treiben. 
-* Stattdessen beschrieben drei von fünf Personen eine Form von intrinsischer Motivation: Ohne regelmäßige sportliche Aktivitäten fühlten sie sich rastlos und versürten ein Bedürfnis nach mehr Bewegung und Sport.
-* Gesellschaftliche Vorstellungen über das Aussehen eines "normalen" Körpers und dem Druck diesem Erscheinungsbild durch Sport nachzukommen, wurde von drei Personen beim Thema der "Gewichtsreduktion" angesprochen. Sport dient für sie in diesem Sinne auch dazu, das eigene Körpergewicht zu regulieren und 
-
-
+* **Sport in der Gemeinschaft**: Die **Mehrheit möchte in erster Linie individuell für sich Sport machen** und dazu noch mit anderen Menschen gemeinsam Sport zu machen, wenn man Lust hat. Lediglich eine Person beschrieb Sport in der Gemeinschaft als einen entscheidenden Faktor um körperlich aktiv zu werden.
+* **Wettkämpfe** wie Kilometer- oder Hürdenläufe und andere Sport-Events wurden als **kurzfristige Motivatoren** beschrieben. Sie führten vor den jeweiligen Veranstaltungen zu einem erhöhten Trainingsaufkommen. Danach wurde dieses Sport-Verhalten jedoch nicht beibehalten oder andere Sportarten ausgeübt.
 
 Fazit zu diesen Erkenntnissen.
 {: .notice--warning}
