@@ -37,6 +37,8 @@ Mein Name ist Mareike Boßelmann und ich bin eine Quereinsteigerin im UX Design.
 
 [Button für Lebenslauf]
 
+<a href="mailto:mareike.bosselmann@gmx.de" class="btn btn--primary">E-Mail</a>
+
 ### Meine Motivation
 
 ### Meine Kompetenzen
