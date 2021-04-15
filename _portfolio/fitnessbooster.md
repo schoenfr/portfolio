@@ -68,7 +68,7 @@ Ich habe dieses Projekt im Rahmen des [**UX Design Kurses „Design Thinking: Th
 {: .notice--primary}
 
 ## User Interviews: Welche Bedürfnisse hat meine Zielgruppe?
-Die ersten Schritte waren die **Rekrutierung von potentiellen Nutzer:innen für User Interviews**, die Ausarbeitung des Fragebogens und der Aufgaben, die die befragten Personen nach den Interviews bearbeiten sollten. Die **Ziele der User Interviews** und der Aufgaben waren die **Sport-Bedürfnisse**, die **bisherigen Erfahrungen mit digitalen Angeboten** und das **individuelle Sport-Verhalten** zu erfassen. Die **Zielgruppe bestand aus fünf Personen**, die alle ein generelles Interesse an Sport und Bewegung haben, die aktuell oder in der Vergangenheit sportlich aktiv gewesen sind bzw. waren und die bereits verschiedene Sportarten ausprobiert haben.
+Die ersten Schritte waren die **Rekrutierung von potentiellen Nutzer:innen für User Interviews**, die Ausarbeitung des Fragebogens und der Aufgaben, die die befragten Personen nach den Interviews bearbeiten sollten. Die **Ziele der User Interviews** und der Aufgaben waren die **Sport-Bedürfnisse**, das **Sport-Verhalten** und die **bisherigen Erfahrungen mit digitalen Angeboten** der NutzerInnen zu erfassen. Die **Zielgruppe bestand aus fünf Personen**, die alle ein generelles Interesse an Sport und Bewegung hatten, die aktuell oder in der Vergangenheit sportlich aktiv gewesen sind bzw. waren und die bereits verschiedene Sportarten ausprobiert hatten.
 
 Aufgrund der Kontaktbeschränkungen während der Corona-Pandemie wurden die **User Interviews online mit dem Konferenzsystem Zoom** durchgeführt und für die **spätere Analyse aufgezeichnet**. Jedes Gespräch dauerte zwischen **60 und 75 Minuten**. Die Aufgaben bekamen die TeilnehmerInnen per E-Mail zugeschickt. Diese wurden nach den User Interviews erklärt und eine individuelle Bearbeitungszeit besprochen. Insgesamt gab es **drei Aufgaben mit jeweils drei Teilaufgaben**, die von den Usern bearbeitet werden konnten. Sie durften alle Aufgaben erledigen, sollten aber mindestens eine abschließen. Die **Rücklaufquote war sehr gut**: Alle gaben ihre Antworten rechtzeitig ab. Zwei User haben eine und drei User haben alle drei Aufgaben bearbeitet.
 
@@ -86,23 +86,20 @@ Die wichtigsten **Erkenntnisse** zu den Eingangs formulierten Zielen der User In
 * Alle waren sich außerdem bewusst, dass **sportliche Aktivitäten zur eigenen Gesundheit, Prävention von Krankheiten und zur allgemeinen Leistungsfähigkeit einen entscheidenden Beitrag leisten können**. Dieses Wissen führte für die User jedoch **nicht automatisch** dazu regelmäßig mehr Sport zu treiben.
 * Drei von fünf Personen sprachen außerdem das Thema **Gewichtsreduktion** an. Sport diente für sie auch dazu, das eigene Körpergewicht zu regulieren.
 
-**2. Bisherige Erfahrungen**
-* Die **Nutzung von digitalen Fitness-Angeboten** ist mit **Beginn der Corona-Pandemie bei den Befragten insgesamt gestiegen**. Der Großteil bevorzugte Angebote ohne Registrierung und nutzte bestimmte Anbieter über deren eigene Webseite oder über Youtube. **Eine Fitness App, wie sie in diesem Projekt später geplant wurde, nutzte zum Zeitpunkt der Befragung keiner von ihnen.**
-* Ein **eigenes abwechslungsreiches Sport-Programm wurde nicht gemacht**, sondern wenn dann auf die Pläne der Sort-Anbieter zurückgegriffen. 
-* Ihnen war zwar bewusst, dass es ein **vielfältiges und großes digitales Sport-Angebot** gibt, dennoch werde **häufig etwas ähnliches gemacht**, weil man dieses schon kenne. Mit der Zeit führe dies aber zu **Langeweile**.
-* **Abwechslung** sei daher ein motivierender Faktor um mehr Sport zu betreiben. Paradox war jedoch, dass das Interesse nach diese Abwechslung eigenständig zu suchen, eher gering war bei den befragten Usern.
-
-**3. Sport-Verhalten**
+**2. Sport-Verhalten**
 * **Voraussetzungen für die Ausübung von Sport** waren neben einem guten Gesundheitszustand für alle sowohl **Zeit** als auch **Lust** auf körperliche Bewegung. 
 * Sportliche oder körperliche Aktivitäten wurden an **Arbeitstagen um die jeweilige Arbeitszeit** herum geplant und am **Wochenende flexibel** angesetzt.
 * **Hinderungsgründe** für sportliche Aktivitäten waren für alle **Gesundheit, Zeit und fehlende Motivation**. Für drei von fünf befragten Usern war es jedoch durch die Beschränkungen der Corona-Pandemie möglich mehr und regelmäßiger Sport zu machen als vorher.
 * **Sport in der Gemeinschaft**: Die **Mehrheit möchte in erster Linie individuell für sich Sport machen** und dazu noch mit anderen Menschen gemeinsam Sport zu machen, wenn man Lust hat. Lediglich eine Person beschrieb Sport in der Gemeinschaft als einen entscheidenden Faktor um körperlich aktiv zu werden.
 * **Wettkämpfe** wie Kilometer- oder Hürdenläufe und andere Sport-Events wurden als **kurzfristige Motivatoren** beschrieben. Sie führten vor den jeweiligen Veranstaltungen zu einem erhöhten Trainingsaufkommen. Danach wurde dieses Sport-Verhalten jedoch nicht beibehalten oder andere Sportarten ausgeübt.
 
-Fazit zu diesen Erkenntnissen.
-{: .notice--warning}
+**3. Bisherige Erfahrungen mit digitalen Angeboten**
+* Die **Nutzung von digitalen Fitness-Angeboten** ist mit **Beginn der Corona-Pandemie bei den Befragten insgesamt gestiegen**. Der Großteil bevorzugte Angebote ohne Registrierung und nutzte bestimmte Anbieter über deren eigene Webseite oder über Youtube. **Eine Fitness App, wie sie in diesem Projekt später geplant wurde, nutzte zum Zeitpunkt der Befragung keiner von ihnen.**
+* Ein **eigenes abwechslungsreiches Sport-Programm wurde nicht gemacht**, sondern wenn dann auf die Pläne der Sort-Anbieter zurückgegriffen. 
+* Ihnen war zwar bewusst, dass es ein **vielfältiges und großes digitales Sport-Angebot** gibt, dennoch werde **häufig etwas ähnliches gemacht**, weil man dieses schon kenne. Mit der Zeit führe dies aber zu **Langeweile**.
+* **Abwechslung** sei daher ein motivierender Faktor um mehr Sport zu betreiben. Paradox war jedoch, dass das Interesse nach diese Abwechslung eigenständig zu suchen, eher gering war bei den befragten Usern.
 
-Die Erkenntnisse über die Zielgruppe wurden anschließend dazu genutzt, um zwei Personas zu entwickeln. Die Zielgruppe erschien dabei zu heterogen als das eine Persona ausgereicht hätte, um diese adäquat abzubilden. Zudem konnte ein Spektrum an Usern des Produkts über die beiden Personas "Bina" und "Mitch" abgedeckt werden, das sowohl die fleißige Sportlerin beschreibt, die von einem eigenen Antrieb heraus gerne Sport macht, als auch die Gelegenheitssportlerin, die mehr auf äußere Anreize setzt, um körperlich aktiv zu werden.
+Die Erkenntnisse über die Zielgruppe wurden anschließend dazu genutzt, um **die beiden Personas "Bina" und "Mitch"** zu entwickeln. Hierbei entschied ich mich für zwei Personas, weil es mir nicht möglich erschien die Zielgruppe über eine Person adäquat abzubilden. Durch die Personas konnte ich ein Spektrum von Usern in zwei Sportlerinnen-Persönlchkeiten zeige, die die Zielgruppe meiner Meinung nach gut widerspiegelten. Mit **Bina** wurden die Sportler:innen-Persönlichkeiten beschrieben, die **regelmäßig Sport machten, ein Bedürfnis nach Sport verspürten und diesen fest in ihren Alltag integriert** hatten. **Mitch** dagegen brachte die Sportler:innen-Typen zum Ausdruck, deren **inneres Bedürfnis nach Sport kaum bis gar nicht ausgeprägt war, die aber probieren Sport in ihren Alltag zu integrieren, weil sie sich der positiven Effekte bewusst** waren.
 
 {% include gallery id="gallery_persona" caption="Personas **Bina** und **Mitch**" %}
   
