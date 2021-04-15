@@ -10,6 +10,4 @@ Unter [**Über mich**](https://mbosselmann.github.io/portfolio/about/) erläuter
 
 [**Erste Projekte**](https://mbosselmann.github.io/portfolio/projects/), die ich umgesetzt habe, sind unter **Portfolio** einzusehen.
 
-Ich freue mich über jede Nachricht: 
-
-<a href="mailto:mareike.bosselmann@gmx.de" class="btn btn--primary">E-Mail</a>
+<a href="mailto:mareike.bosselmann@gmx.de" class="btn btn--primary">Kontakt</a>
