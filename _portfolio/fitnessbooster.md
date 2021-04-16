@@ -58,16 +58,16 @@ header:
   teaser: /assets/images/fbteaser.jpg
 ---
 
-# Fitness Booster: Abwechslungsreich und flexibel Sport machen
+# Fitness Booster: Mehr Abwechslung im Sport-Programm
 Der Beginn der Corona-Pandemie führte zu einem Verlust der Möglichkeit in Fitness-Studios, Sportvereinen und anderen Sport-Gruppen körperlich aktiv zu werden. Diese Einschränkungen in der individuellen Sportausübung sollten durch ein **digitales, vielseitiges und flexibles Sportangebot in Form einer Fitness-App** behoben werden. Im Rahmen dieses Projekts wurde ein **erster Entwurf einer Fitness-App** ausgearbeitet, mit dem die Nutzer:innen auf ein  **Video-on-Demand-Kursprogramm** als auch auf **Livestreaming-Angebote** Zugriff haben, das von verschiedenen Trainer:innen mit unterschiedlichen Schwerpunkten bereitgestellt werden sollte. 
 
-**Business-Motivation** 
+Info für mich: Business-Motivation 
 {: .notice--warning}
 
 Ich habe dieses Projekt im Rahmen des [**UX Design Kurses „Design Thinking: The Beginner’s Guide“**](https://www.interaction-design.org/mareike-bosselmann/certificate/course/313f43bd-fd91-4fb8-b3b5-2b649d704c06) der [**Interaction Design Foundation**](https://www.interaction-design.org/) umgesetzt und als **praktisches Anwendungsbeispiel** genutzt, um die Methoden des Design Thinking auszuprobieren. Die **Aufgabe** war die **Entwicklung eines ersten Entwurfs einer Fitness App für Smartphones**, die durch verschiedene, im Kurs vorgegebene Methoden gelöst werden sollten.
 {: .notice--primary}
 
-## User Interviews: Welche Bedürfnisse hat meine Zielgruppe?
+## User Interviews: Wer ist meine Zielgruppe?
 Die ersten Schritte waren die **Rekrutierung von potentiellen Nutzer:innen für User Interviews**, die Ausarbeitung des Fragebogens und der Aufgaben, die die befragten Personen nach den Interviews bearbeiten sollten. Die **Ziele der User Interviews** und der Aufgaben waren die **Motivation**, das **Sport-Verhalten** und die **bisherigen Erfahrungen mit digitalen Angeboten** der NutzerInnen zu erfassen. Die **Zielgruppe bestand aus fünf Personen**, die alle ein generelles Interesse an Sport und Bewegung hatten, die aktuell oder in der Vergangenheit sportlich aktiv gewesen sind bzw. waren und die bereits verschiedene Sportarten ausprobiert hatten.
 
 Aufgrund der Kontaktbeschränkungen während der Corona-Pandemie wurden die **User Interviews online mit dem Konferenzsystem Zoom** durchgeführt und für die **spätere Analyse aufgezeichnet**. Jedes Gespräch dauerte zwischen **60 und 75 Minuten**. Die Aufgaben bekamen die TeilnehmerInnen per E-Mail zugeschickt. Diese wurden nach den User Interviews erklärt und eine individuelle Bearbeitungszeit besprochen. Insgesamt gab es **drei Aufgaben mit jeweils drei Teilaufgaben**, die von den Usern bearbeitet werden konnten. Sie durften alle Aufgaben erledigen, sollten aber mindestens eine abschließen. Die **Rücklaufquote war sehr gut**: Alle gaben ihre Antworten rechtzeitig ab. Zwei User haben eine und drei User haben alle drei Aufgaben bearbeitet.
@@ -157,14 +157,14 @@ In einer **"Challenge Assumptions"-Sitzung** wurden dann zu den bisherigen Erken
 * Besonders auf das **abwechslungsreiche Sport-Angebot** setzen und aktiv neue Sport-Angebote mit neuen Übungen dem User präsentieren.
 * Und erneut **Gamification**: Könnte ein Belohnungssystem ebenfalls zu einem positiven Gefühl beitragen?
 
-Zusammenfassende Erkenntnis zu diesem Abschnitt mit der Frage, wie die diese App nun genau aussieht.
+Info für mich: Zusammenfassende Erkenntnis zu diesem Abschnitt mit der Frage, wie die diese App nun genau aussieht.
 {: .notice--warning}
 
 **Reflektion:** Durch die verschiedenen Methoden der Ideenfindung eröffnete sich mir klareres Bild darüber, wie die App aussehen könnte. Außerdem war ich überrascht über die **Vielzahl an Funktionalitäten**, die mir für meine Fitness App einfielen. Aber es erschien mir **nicht sinnvoll alle Funktionalitäten in einem ersten Entwurf der App** umzusetzen. Anhand der eingesetzten Methoden war mir außerdem nicht klar, welche Bestandteile für die App essenziell waren. Deswegen habe ich mich erst mit dem **MVP** auseinandergesetzt und danach den **ersten Prototypen** entwickelt.
 {: .notice--primary}
 
-## Storyboards & Paper Prototype: Erster Entwurf der Fitness Booster-App
-Die Schwierigkeit bestand nun darin aus all diesen Ideen zunächst ein Konzept für das MVP zu erarbeiten. Welche Funktionalitäten sollte die Fitness App von Beginn an besitzen und welche sinnvollen Komponenten konnten später hinzugefügt werden. Durch die verschiedenen Methoden zur Ideenfindung hatte sich nun eine Fülle an Möglichkeiten ergeben, die für die App sinnvoll sein könnten. Um möglichst nah am User zu bleiben, wurden deswegen zwei Storyboards erarbeitet, die jeweils eine typische Nutzung der App mit den Personas Bina und Mitch präsentieren sollte.
+## Storyboards & Paper Prototype: Erster Entwurf des MVP
+Welche Funktionalitäten sollte das MVP nun besitzen? Und welche Bestandteile konnten auch später eingefügt werden? Das waren die beiden Fragen, die mich umtrieben und die ich durch **Storyboards** zu lösen suchte. Durch Storyboards konnte ich einerseits nah am User bleiben und andererseits über die typische Nutzung meiner App im Alltag reflektieren.
 
 {% include gallery id="gallery_storyboard" caption="Storyboards: Zwei Abläufe einer typischen Nutzung der Fitness App mit Bina und Mitch" %}
 
@@ -185,7 +185,7 @@ Hier noch einzelne Funktionen der App beschreiben: Was wurde genau umgesetzt, wa
 **Reflektion:** In dem Kurs ZZ von ZZ, den ich über Udemy absolviert hatte, wurde unter anderem das Sketching und das Erstellen von Storyboards für UX Designers thematisiert und ich habe probiert die Kenntnisse aus dem Kurs auf die beiden Storyboards und den Paper Prototype anzuwenden. Die Inhalte haben mir sehr gut bei der Erarbeitung des Konzepts geholfen, da ich so zum Beispiel auch wusste, wie ich einfach klickbare Bestandteile der App im Paper Prototype markieren konnte.
 {: .notice--primary}
 
-## Schluss
+## Fazit: Wie sehen die nächsten Schritte aus? 
 Offen noch andere Funktionalitäten, weitere Schritte: Usability Tests und User Interviews um genauer herauszufinden, ob die Funktionalitäten so den Bedürfnissen der User entsprechen.
  Nächste Schritte und
 
