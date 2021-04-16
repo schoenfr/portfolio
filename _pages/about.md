@@ -32,7 +32,7 @@ gallery_ixdf:
   </figure> 
 
 ### Ich bin Quereinsteigerin.
-Bereits während meiner Promotion im Fach Kunstgeschichte habe ich begonnen mich dafür zu interessieren und nach der Abgabe meiner Dissertation im November 2020 damit begonnen mir Kompetenzen und Inhalte durch Weiterbildungsangebote für diesen Bereich anzueignen. Nun möchte ich mehr Erfahrungen in der Praxis sammeln und suche nach der passenden Einstiegsmöglichkeit. Aktuell nutze ich die Weiterbildungsmöglichkeiten der Interaction Design Foundation und absolviere das UX Design Zertifikats-Programm von Google Career Certificates über Coursera.
+Bereits während meiner Promotion im Fach Kunstgeschichte habe ich begonnen mich dafür zu interessieren und nach der Abgabe meiner Dissertation im November 2020 damit begonnen mir Kompetenzen und Inhalte durch Weiterbildungsangebote für diesen Bereich anzueignen. Nun möchte ich mehr Erfahrungen in der Praxis sammeln und suche nach der passenden Einstiegsmöglichkeit. Aktuell nutze ich die Weiterbildungsmöglichkeiten der Interaction Design Foundation und absolviere das Google UX Design Zertifikats-Programm über Coursera.
 
 [Button für Lebenslauf]
 
