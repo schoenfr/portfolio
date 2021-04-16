@@ -42,7 +42,7 @@ Text
 
 Text
 
-**Refklektion:** ZZ
+**Reflektion:** ZZ
 {: .notice--primary}
 
 ## Auswertung
@@ -56,17 +56,17 @@ Text
 
 Text
 
-**Refklektion:** ZZ
+**Reflektion:** ZZ
 {: .notice--primary}
 
 ## Report
 Text
 
-**Refklektion:** ZZ
+**Reflektion:** ZZ
 {: .notice--primary}
 
 ## Schluss
 Text
 
-**Refklektion:** ZZ
+**Reflektion:** ZZ
 {: .notice--primary}
