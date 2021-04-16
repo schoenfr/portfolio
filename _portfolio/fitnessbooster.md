@@ -192,15 +192,11 @@ Bei der **Gestaltung des Prototypen** wurde der **Fokus auf die Strukturierung d
 
 {% include gallery id="gallery_paperprototype02" caption="Paper Prototype: Notizen, erste Screens und Detailansichten des Prototyps" %}
 
+Info für mich: Schlussfolgerung zum Prototypen und Schritte für eine nächste Iteration beschreiben.
+{: .notice--warning}
 
-
-
-**Reflektion:** Die in dem Udemy-Kurs ["Sketching for UX Designers - Boost UX work with pen & paper!"](https://www.udemy.com/certificate/UC-fecf4e1c-315d-41b6-98a6-b4dfcb1484f5/) vorgestellten Techniken zum Sketching konnte ich sehr gut bei der **Umsetzung meiner Storyboards und des Paper Prototype** einsetzen, da ich so zum Beispiel wusste, wie ich klickbare Bestandteile der App im Paper Prototype eindeutig markieren konnte. Auch hat es mir sehr geholfen zunächst eine **Icon-Library** anzulegen, die ich für den Paper Prototype genutzt habe. Den **ersten Prototypen aus Papier** zu fertigen, war eine Vorgabe des Design Thinking-Kurses der IxDF. Es war für mich sehr spannend bei meinem ersten Prototypen eine Papierversion zu gestalten. Für meine zukünftgen Projekte würde ich jedoch ein **digitales Tool für Low-Fidelity-Wireframes** bevorzugen, weil sich dieses schneller durch User, Stakeholder und Teammitglieder testen lässt und ich selbst während des Tests nicht mehr die einzelnen Screens wechseln muss, sondern die Tester:innen besser beobachten kann.
+**Reflektion:** Die in dem Udemy-Kurs ["Sketching for UX Designers - Boost UX work with pen & paper!"](https://www.udemy.com/certificate/UC-fecf4e1c-315d-41b6-98a6-b4dfcb1484f5/) vorgestellten Techniken zum Sketching konnte ich sehr gut bei der **Umsetzung meiner Storyboards und des Paper Prototype** einsetzen, da ich so zum Beispiel wusste, wie ich klickbare Bestandteile der App im Paper Prototype eindeutig markieren konnte. Auch hat es mir sehr geholfen zunächst eine **Icon-Library** anzulegen, die ich für den Paper Prototype genutzt habe. Den **ersten Prototypen aus Papier** zu fertigen, war eine Vorgabe des Design Thinking-Kurses der IxDF. Es war für mich sehr spannend bei meinem ersten Prototypen eine Papierversion zu gestalten. Für meine zukünftgen Projekte würde ich jedoch ein **digitales Tool für Low-Fidelity-Wireframes** bevorzugen, weil sich dieses schneller durch User, Stakeholder und Teammitglieder testen lässt und ich selbst während des Tests nicht mehr die einzelnen Screens wechseln muss, sondern mich auf das Beobachten der Tester:innen fokussieren kann.
 {: .notice--primary}
 
-## Schluss
-Offen noch andere Funktionalitäten, weitere Schritte: Usability Tests und User Interviews um genauer herauszufinden, ob die Funktionalitäten so den Bedürfnissen der User entsprechen.
- Nächste Schritte und
-
-**Refklektion:** ZZ
-{: .notice--primary}
+## Fazit
+Am Anfang des Projekts hätte ich nicht gedacht, dass am Ende ein erster Entwurf einer App mit dem Fokus auf Abwechslung im Sport-Angebot entstehen würde. Wie groß der **Erkenntnisgewinn über Nutzer:innen durch User Interviews** sein kann, hat sich hier für mich eindeutig bewahrheitet, weil ich ohne den Fokus nicht darauf gelegt hätte. Die einzelnen **Methoden des Design Thinking-Ansatzes auszuprobieren** war für mich ebenfalls gewinnbringend und ich konnte die bereits erlernte Theorie durch den IxDF-Kurs erfolgreich in die Praxis umsetzen.
