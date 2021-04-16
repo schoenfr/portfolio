@@ -111,9 +111,11 @@ Als nächstes galt es ein **Konzept für eine Fitness App** zu erarbeiten. Die z
 
 {% include gallery id="gallery_empovhmw" caption="Empathy Maps und Points of View für beide Personas und Ergebnisse der How Might We-Session" %}
 
-Wie zuvor aus den **User Interviews** klar wurde und sich auch in den **Empathy Maps** zeigte, bot der **Fokus auf das Thema "Abwechslung" Möglichkeiten, aber auch Hindernisse**. Zum einen definierte die Zielgruppe Abwechslung beim Sport als **Motivationsfaktor**. Zum anderen hatten die NutzerInnen nur **wenig Interesse an der eigenen Suche** nach anderen Sportaktivitäten. **Langeweile beim Training wurde dann eher in Kauf genommen als sich Abwechslung zu suchen.** Auch ging es nicht darum möglichst viele verschiedene Sportarten auszuprobieren, sondern im Rahmen der einen präferierten Sport-Richtung verschiedene Übungen und Trainings auszuprobieren. **Dementsprechend war mein erster Gedanke, dass eine App so konzipiert sein müsste, dass sie dem/der Nutzer:in bereits ein vielseitiges Sportprogramm aussucht, basierend auf seinen Interessen und seinem Fitness-Level.** Hierbei durfte allerdings nicht die kaum vorhandene Eigenmotivation von Mitch vergessen werden, deren Bedürfnis nach Sport durch äußere Anreize zum Sport geweckt werden musste. **Wie lässt sich also Abwechslung in einer Fitness App darstellen?**
+Wie zuvor aus den **User Interviews** klar wurde und sich auch in den **Empathy Maps** zeigte, bot der **Fokus auf das Thema "Abwechslung" Möglichkeiten, aber auch Hindernisse**. Zum einen definierte die Zielgruppe Abwechslung beim Sport als **Motivationsfaktor**. Zum anderen hatten die NutzerInnen nur **wenig Interesse an der eigenen Suche** nach anderen Sportaktivitäten. **Langeweile beim Training wurde dann eher in Kauf genommen als sich Abwechslung zu suchen.** Auch ging es nicht darum möglichst viele verschiedene Sportarten auszuprobieren, sondern im Rahmen der einen präferierten Sport-Richtung verschiedene Übungen und Trainings auszuprobieren. 
 
-Dieser erste Gedanke wurde mit der **How Might We-Methode** weiter vertieft. Es wurde zunächst ein **POV** formuliert, der Bina und Mitch umfasste: **Bina und Mitch wünschen sich mehr Abwechslung in ihrem Sportprogramm, weil sie das motiviert (mehr) Sport zu machen, sie den Sport dann interessanter finden und dann mehr Spaß beim Sport haben.**  Durch die How Might We-Methode wurde der Gedanke in konkrete Fragen formuliert, die bei der Ideenfindung genutzt wurden:
+**Dementsprechend war mein erster Gedanke, dass die App so konzipiert sein müsste, dass sie dem/der Nutzer:in bereits ein vielseitiges Sportprogramm aussucht, basierend auf seinen Interessen und seinem Fitness-Level.** Hierbei durfte allerdings nicht die kaum vorhandene Eigenmotivation von Mitch vergessen werden, deren Bedürfnis nach Sport durch äußere Anreize zum Sport geweckt werden musste. **Wie lässt sich also Abwechslung in einer Fitness App darstellen?**
+
+Dieser erste Gedanke wurde mit der **"How Might We-Methode"** weiter vertieft. Es wurde zunächst ein **POV** formuliert, der Bina und Mitch umfasste: **Bina und Mitch wünschen sich mehr Abwechslung in ihrem Sportprogramm, weil sie das motiviert (mehr) Sport zu machen, sie den Sport dann interessanter finden und dann mehr Spaß beim Sport haben.**  Durch die "How Might We"-Methode wurde der Gedanke in konkrete Fragen formuliert, die bei der Ideenfindung genutzt wurden:
 
 * Wie können wir durch eine App **mehr Abwechslung** bieten?
 * Wie können wir dazu anregen, dass dieses **Angebot auch genutzt** wird?
@@ -124,15 +126,15 @@ Dieser erste Gedanke wurde mit der **How Might We-Methode** weiter vertieft. Es 
 
 {% include gallery id="gallery_badideaschallenge" caption="Ergebnisse von Worst Possible Ideas und Challenge Assumptions" %}
 
-Mit der **Worst Possible Ideas-Methode** wurden weitere Aspekte, die für die App relevant waren herausgearbeitet. Hierbei entstanden erste Ideen, die für die Konzeption der App genutzt wurden:
+Mit dem **"Worst Possible Ideas"-Ansatz** wurden basierend auf den zuvor erarbeiteten Fragen Aspekte und Funktionen erarbeitet, die für die App relevant erschienen. Zunächst habe ich mir hierfür die schlechten Ideen zu diesen Fragen notiert wie "Wir fragen die User nicht nach ihrer Meinung.", um im Umkehrschluss zu guten Lösungen zu kommen. Daraus wurden **Ideen zu den möglichen Funktionalitäten der App** produziert:
 
-* Die Integration einer Einschätzung zum eigenen Fitness-Level und zur Erfahrung mit verschiedenen Sportarten.
-* Eine Bewertungsfunktion der Sport-Angebote, um so eine bestmögliche Auswahl an Trainings anbieten zu können.
-* Aurchiv-Funktion zum Speichern und Kategorisieren von Sport-Angeboten.
-* Sharing-Funktion, um sich mit Freunden über die Angebote austauschen zu können und ggf. gemeinsam Sport zu machen.
-* Integration einer Auswahl regionaler Sport-Angebote vor Ort, die besucht werden können.
+* Die App sollte eine Möglichkeit zur **Einschätzung** des eigenen Fitness-Levels und zur Erfahrung mit verschiedenen Sportarten geben, um daraus passende Angebote für den User abzuleiten.
+* Zudem sollte es eine Option der **Bewertung** des absolvierten Sport-Angebots durch den User geben, um so die Auswahl an Trainings zu verbessern.
+* Ein privates **Archiv** zum Speichern und Kategorisieren von Trainings, um diese auch einfach zu einem späteren Zeitpunkt wiederfinden zu können.
+* Die **Möglichkeit des Austauschs und Teilens** von Sport-Angeboten mit Freunden sollte gegeben sein, damit auch bei Bedarf gemeinsam Sport gemacht werden kann.
+* Zudem sollte die Funktion der **Integration regionaler Sport-Angebote** eingebaut werden, um das gemeinsame Sport-Erlebnis noch besser fördern zu können.
 
-In einer **Challenge Assumptions** wurden dann noch vier Annahmen formuliert, von denen ich ausgegangen bin, dass sie die Nutzererfahrung des Produkts mitbestimmen werden und über die ich außerdem noch nicht konkret nachgedacht hatte. Mein Ziel war es mich zu fragen, inwieweit ich diese Annahmen durch bestimmte Funktionalitäten der App brechen könnte.
+In einer **"Challenge Assumptions"-Sitzung** wurden dann zu den bisherigen Erkenntnissen und basierend auf den Ergebnissen der User Interviews noch drei Annahmen formuliert, von denen ich ausgegangen bin, dass sie die Nutzererfahrung des Produkts mitbestimmen werden. Mein Ziel war es zu fragen, inwieweit ich diese Annahmen durch bestimmte Funktionalitäten der App überwinden könnte: 
 
 **1. Annahme: Die Digitalisierung des Sport-Angebots hilft nicht dabei, dass Menschen sich besser dazu motivieren können Sport zu machen.** Diese Annahme war eine Ansicht, die von den Usern vertreten wurde. Wer keine Lust auf Sport habe, könne auch nicht durch ein digitales Angebot dazu motiviert werden. Als Lösungsansätze habe ich mir überlegt:
 
