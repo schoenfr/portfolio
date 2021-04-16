@@ -103,7 +103,7 @@ Die wichtigsten **Erkenntnisse** zu den Eingangs formulierten Zielen der User In
 
 Die Erkenntnisse über die Zielgruppe wurden anschließend dazu genutzt, um **die beiden Personas "Bina" und "Mitch"** zu entwickeln. Hierbei entschied ich mich für zwei Personas, weil es mir nicht möglich erschien die Zielgruppe über eine Person adäquat abzubilden. Durch die Personas konnte ich ein Spektrum von Usern in zwei Sportlerinnen-Persönlichkeiten zeige, die die Zielgruppe meiner Meinung nach gut widerspiegelten. Mit **Bina** wurden die Sportler:innen beschrieben, die **regelmäßig Sport machten, ein Bedürfnis nach Sport verspürten und diesen fest in ihren Alltag integriert** hatten. **Mitch** dagegen brachte die Sportler:innen-Typen zum Ausdruck, deren **inneres Bedürfnis nach Sport kaum bis gar nicht ausgeprägt war, die aber probieren Sport in ihren Alltag zu integrieren, weil sie sich der positiven Effekte bewusst** waren.
 
-**Learnings:** Für mich war die **Erstellung der Personas ein entscheidender Prozess** für die weitere Entwicklung der App. Die Erkenntnisse aus den User Interviews und den Antworten zu den Aufgaben konnten zwar gut durch das Affinity Diagram erarbeitet werden, dennoch fehlte mir eine Möglichkeit die Erkenntnisse für den weiteren Design-Prozess zu konkretisieren und übersichtlicher in Beziehung zueinander zu setzen. **Durch Bina und Mitch konnte ich mir meine Zielgruppe besser vorstellen und mehr Empathie aufbauen, mich beim weiteren Design-Prozess immer konkret auf sie beziehen.** Die Personas gaben mir die richtige Stoßrichtung, um die Entwicklung meiner App weiter voranzutreiben. **Personas zu erstellen war in der Schulung der IxDF als Tool nicht vorgesehen**, aber das Konzept wurde sowohl in dem Kurs [**UX Design Kurses „Design Thinking: The Beginner’s Guide“**](https://www.interaction-design.org/mareike-bosselmann/certificate/course/313f43bd-fd91-4fb8-b3b5-2b649d704c06) als auch in dem Kurs [**"Become a UX Designer from Scratch"**](https://www.interaction-design.org/mareike-bosselmann/certificate/course/d35c481a-fb73-4ebc-8b5e-4a6670122d02) genauer erklärt.
+**Reflektion:** Für mich war die **Erstellung der Personas ein entscheidender Prozess** für die weitere Entwicklung der App. Die Erkenntnisse aus den User Interviews und den Antworten zu den Aufgaben konnten zwar gut durch das Affinity Diagram erarbeitet werden, dennoch fehlte mir eine Möglichkeit die Erkenntnisse für den weiteren Design-Prozess zu konkretisieren und übersichtlicher in Beziehung zueinander zu setzen. **Durch Bina und Mitch konnte ich mir meine Zielgruppe besser vorstellen und mehr Empathie aufbauen, mich beim weiteren Design-Prozess immer konkret auf sie beziehen.** Die Personas gaben mir die richtige Stoßrichtung, um die Entwicklung meiner App weiter voranzutreiben. **Personas zu erstellen war in der Schulung der IxDF als Tool nicht vorgesehen**, aber das Konzept wurde sowohl in dem Kurs [**UX Design Kurses „Design Thinking: The Beginner’s Guide“**](https://www.interaction-design.org/mareike-bosselmann/certificate/course/313f43bd-fd91-4fb8-b3b5-2b649d704c06) als auch in dem Kurs [**"Become a UX Designer from Scratch"**](https://www.interaction-design.org/mareike-bosselmann/certificate/course/d35c481a-fb73-4ebc-8b5e-4a6670122d02) genauer erklärt.
 {: .notice--primary}
 
 ## Ideenfindung: Welche Funktionalitäten soll die Fitness-App bieten?
@@ -134,26 +134,33 @@ Mit dem **"Worst Possible Ideas"-Ansatz** wurden basierend auf den zuvor erarbei
 * Die **Möglichkeit des Austauschs und Teilens** von Sport-Angeboten mit Freunden sollte gegeben sein, damit auch bei Bedarf gemeinsam Sport gemacht werden kann.
 * Zudem sollte die Funktion der **Integration regionaler Sport-Angebote** eingebaut werden, um das gemeinsame Sport-Erlebnis noch besser fördern zu können.
 
-In einer **"Challenge Assumptions"-Sitzung** wurden dann zu den bisherigen Erkenntnissen und basierend auf den Ergebnissen der User Interviews noch drei Annahmen formuliert, von denen ich ausgegangen bin, dass sie die Nutzererfahrung des Produkts mitbestimmen werden. Mein Ziel war es zu fragen, inwieweit ich diese Annahmen durch bestimmte Funktionalitäten der App überwinden könnte: 
+In einer **"Challenge Assumptions"-Sitzung** wurden dann zu den bisherigen Erkenntnissen und basierend auf den Ergebnissen der User Interviews **drei Annahmen** formuliert, von denen ich ausgegangen bin, dass sie die Nutzererfahrung des Produkts mitbestimmen werden. Mein Ziel war es zu hinterfragen, inwieweit diese Annahmen durch bestimmte Funktionalitäten der App nicht doch überwunden werden können: 
 
-**1. Annahme: Die Digitalisierung des Sport-Angebots hilft nicht dabei, dass Menschen sich besser dazu motivieren können Sport zu machen.** Diese Annahme war eine Ansicht, die von den Usern vertreten wurde. Wer keine Lust auf Sport habe, könne auch nicht durch ein digitales Angebot dazu motiviert werden. Als Lösungsansätze habe ich mir überlegt:
+**1. Annahme: Die Digitalisierung des Sport-Angebots hilft nicht dabei, dass Menschen sich besser dazu motivieren können Sport zu machen.** Diese Annahme war von den Usern mit großer Mehrheit vertreten. Wer keine Lust auf Sport habe, könne auch nicht durch ein digitales Angebot dazu motiviert werden. Als **Lösungsansätze** habe ich mir überlegt:
 
-* Eine Reminder-Funktion, die der User optional einstellen kann, um sich an ein anstehendes Training zu erinnern.
-* Interviews mit anderen Nutzern der App führen und sie danach befragen, was sie persönlich dazu motiviert mehr Sport zu machen und diese Interviews in einer eigenen Rubrik veröffentlichen.
-* Sport-Angebote zu bieten, die dem User ein positives Gefühl geben und außerdem das Gefühl geben etwas Gutes für seinen Körper getan zu haben.
-* Freunde als Motivationsfaktoren mit einbauen durch Sharing- und Kommunikationsmöglichkeiten. Die Möglichkeit geben sich gemeinsam verabreden zu können und auch gleichzeitig ein Sport-Angebot nutzen zu können.
-* Gamification: Würde ein Belohnungssystem zumindest mehr Anreize schaffen?
+* Eine optionale **Erinnerungs-Funktion**, die genutzt werden kann, um sich an ein anstehendes Training zu erinnern.
+* **Interviews mit anderen Nutzer:innen der App führen** und sie danach befragen, was sie persönlich dazu motiviert mehr Sport zu machen. Diese Interviews werden in einer eigenen Rubrik veröffentlicht und die Interviewten sollen als **Identifikationsfiguren** für die unmotivierten Sportler:innen dienen, um Lust auf ein Training zu bekommen.
+* Sport-Angebote zu bieten, die dem User ein **positives Gefühl geben etwas Gutes für seinen Körper** getan zu haben.
+* **Freunde als Motivationsfaktoren** von Anfang miteinzubeziehen durch Teilen- und Kommunikationsmöglichkeiten.
+* **Gamification:** Würde ein Belohnungssystem mehr Anreize schaffen, um Sport zu machen?
 
-**2. Annahme: Das Angebot an digitalen Sport-Angeboten wird so groß sein, dass es har nicht möglich ist, auch einen Überblick über regionale Angebote zu liefern.** Hier kam ich zu dem Schluss, dass es vermutlich erstmal besser ist, sich für einen ersten Entwurf auf digitale Angebote zu spezialisieren. Die User der Zielgruppe wollen zwar nicht unbedingt ein genau maßgeschneidertes Angebot haben, sondern gerne aus verschiedenen auswählen und neue Trainings vorgeschlagen bekommen. Dennoch wurde durch die Interviews klar, dass es kein großes Interesse daran gibt sich lange mit der Suche nach einem passenden Angebot auseinanderzusetzen. Deswegen blieben die User auch gerne bei einem breits entdeckten Sport-Angebot und testen nur wenige andere Fitnes-Anbieter.
+**2. Annahme: Das Angebot an digitalen Sport-Angeboten wird so groß sein, dass es nicht möglich ist auch einen Überblick über regionale Angebote zu liefern.** Diese Annahme habe ich formuliert, weil durch die User Interviews klar wurde, dass die befragten Personen sich nicht erst einen großen Überblick über alle regionalen Angebote gemacht haben, weil allein diese bereits sehr vielfältig waren. Häufig haben sie **naheliegende Sport-Angebote** wie zum Beispiel Hochschulsport oder von Freund:innen und Fmailie empfohlene Anbieter genutzt. Es erschien mir daher ein großes Problem zu sein sowohl digitale als auch regionale Angebote in die App miteinzubeziehen, da die **Informationsflut** die Nutzer:innen der App erschlagen könnten. Mögliche **Lösungsansätze** erschienen mir hier zu sein:
 
-**3. Annahme: Eine Fitness-App kann nicht für das "Yeah"-Gefühl sorgen, dass man beim Sport entwickelt, weil die Trainings-Atmosphäre Zuhause fehlt, die man im Studio hat.** Diese Annahme spiegelt die Meinung der Zielgruppe wieder, die dieses Glücksgefühl als "Yeah"-Gefühl beschrieb. Vielleicht muss es ja auch gar nicht das gleiche "Yeah"-Gefühl sein, sondern ein anderes Zufriedenheits-Gefühl, dass durch den Sport entsteht? Folgende Lösungsansätze hatte ich mir hierzu überlegt:
+* **Expert:innen** für eine bestimmte Sportart miteinbeziehen, um passende und gute regionale Angebote in die App miteinzubeziehen.
+* Eine **Filtermöglichkeit**, mit der ausgewählt werden kann, ob regionale Angebote für einen überhaupt interessant sind.
+* Möglichkeit geben, dass **regionale Anbieter auf einen zukommen können**, um nach einer Prüfung in die Liste von regionalen Angeboten mit aufgenommen zu werden.
 
-* Livestreaming-Angebote könnten eventuell ein Training nach Hause holen und mehr Nähe vermitteln.
-* Persönliche Wochenziele definieren, über deren Erreichung sich der User freut?
-* Neue Übungen zeigen und den User lernen lassen, die dem Trainingslevel entsprechen.
-* Und erneut Gamification: Könnte ein Belohnungssystem ebenfalls zu einem "Yeah"-Gefühl beitragen?
+**3. Annahme: Eine Fitness-App kann nicht für das "Yeah"-Gefühl sorgen, dass man beim Sport entwickelt, weil die Trainings-Atmosphäre Zuhause fehlt, die man im Studio hat.** Diese Annahme spiegelt ebenfalls die Meinung der Zielgruppe wieder, die dieses Glücksgefühl unter anderem als "Yeah"-Gefühl beschrieb. Ich habe mich hier gefragt, ob tatsächlich das gleiche "Yeah"-Gefühl entstehen muss oder ob auch ein **anderes Zufriedenheitsgefühl durch den digital angebotenen Sport** entstehen kann, dass ebenfalls die Motivation regelmäßig Sport zu machen steigert. Folgende **Lösungsansätze** hatte ich mir hierzu überlegt:
 
-**Learning:** TEST
+* **Livestreaming-Angebote** könnten ein Training in das eigene Wohn- oder Sportzimmer holen und so mehr Nähe vermitteln.
+* Die Option von **individuellen Wochenziele** einräumen, die der User frei formulieren kann.
+* Besonders auf das **abwechslungsreiche Sport-Angebot** setzen und aktiv neue Sport-Angebote mit neuen Übungen dem User präsentieren.
+* Und erneut **Gamification**: Könnte ein Belohnungssystem ebenfalls zu einem positiven Gefühl beitragen?
+
+Zusammenfassende Erkenntnis zu diesem Abschnitt mit der Frage, wie die diese App nun genau aussieht.
+{: .notice--warning}
+
+**Reflektion:** Durch die verschiedenen Methoden der Ideenfindung eröffnete sich mir einerseits ein klareres Bild darüber, wie die App in etwa aussehen könnte. Andererseits erschien es mir nicht möglich alle Funktionalitäten auch in einem Paper Prototype und damit in dem ersten Entwurf der App umzusetzen. Anhand der eingesetzten Methoden war es zudem für mich noch nicht klar, welche Bestandteile die App in erster Linie erstmal zwingend besitzen sollte, damit sie auch genutzt werden konnte. Deswegen wurde sich als nächstes Ziel gesetzt, das MVP herauszuarbeiten.
 {: .notice--primary}
 
 ## Storyboards & Paper Prototype: Erster Entwurf der Fitness Booster-App
@@ -162,6 +169,8 @@ Die Schwierigkeit bestand nun darin aus all diesen Ideen zunächst ein Konzept f
 {% include gallery id="gallery_storyboard" caption="Storyboards: Zwei Abläufe einer typischen Nutzung der Fitness App mit Bina und Mitch" %}
 
 Durch die Erkenntnisse aus den User Interviews war klar, dass die User am häufigsten vor oder nach der Arbeit trainierten und in diesem Zusammenhang auch ein digitales Angebot nutzten. Im ersten Storyboard wurde auch die Pandemie-bedingte Home Office-Situation vieler Menschen berücksichtigt und der Fokus auf das Auspobieren eines neuen Trainings gelegt. Im Anschluss an das Training wurde zudem eine Bewertung des Angebots eingeplant. Im Storyboard wurde sich also auf den regulären Ablauf auf der Suche nach Abwechslung fokussiert.
+
+Hier kam ich zu dem Schluss, dass es vermutlich erstmal besser ist, sich für einen ersten Entwurf auf digitale Angebote zu spezialisieren. Die User der Zielgruppe wollen zwar nicht unbedingt ein genau maßgeschneidertes Angebot haben, sondern gerne aus verschiedenen auswählen und neue Trainings vorgeschlagen bekommen. Dennoch wurde durch die Interviews klar, dass es kein großes Interesse daran gibt sich lange mit der Suche nach einem passenden Angebot auseinanderzusetzen. Deswegen blieben die User auch gerne bei einem breits entdeckten Sport-Angebot und testen nur wenige andere Fitnes-Anbieter.
 
 Über das zweite Storyboard sollte die Möglichkeit des gemeinsamen Trainings nachgezeichnet werden. Die Idee des Teilens von Inhalten durch die App an Freunde wurde thematisiert und die Idee des Livestreaming-Angebots. Hier wurde die App zur Kommunikation, zum Trainieren und abschließend zur Beurteilung des Sport-Erlebnisses genutzt. Die Storyboards lieferten wichtige Erkenntnisse in Bezug auf die Entwicklung eines ersten Prototyps: Zunächst wurde sich auf Nutzer-Szenarien fokussiert, die bereits annahmen, dass die User die App nicht zum ersten Mal nutzen. Daher lag der Fokus auf Kommunikation, Ausübung des Trainings durch die App und die Bewertung des Sportprogramms.
 
@@ -173,12 +182,12 @@ Die nach dem Storyboard nötigen Screens wurden in einem Paper Prototype gestalt
 
 Hier noch einzelne Funktionen der App beschreiben: Was wurde genau umgesetzt, was wurde noch nicht umgesetzt.
 
-**Learning:** In dem Kurs ZZ von ZZ, den ich über Udemy absolviert hatte, wurde unter anderem das Sketching und das Erstellen von Storyboards für UX Designers thematisiert und ich habe probiert die Kenntnisse aus dem Kurs auf die beiden Storyboards und den Paper Prototype anzuwenden. Die Inhalte haben mir sehr gut bei der Erarbeitung des Konzepts geholfen, da ich so zum Beispiel auch wusste, wie ich einfach klickbare Bestandteile der App im Paper Prototype markieren konnte.
+**Reflektion:** In dem Kurs ZZ von ZZ, den ich über Udemy absolviert hatte, wurde unter anderem das Sketching und das Erstellen von Storyboards für UX Designers thematisiert und ich habe probiert die Kenntnisse aus dem Kurs auf die beiden Storyboards und den Paper Prototype anzuwenden. Die Inhalte haben mir sehr gut bei der Erarbeitung des Konzepts geholfen, da ich so zum Beispiel auch wusste, wie ich einfach klickbare Bestandteile der App im Paper Prototype markieren konnte.
 {: .notice--primary}
 
 ## Schluss
 Offen noch andere Funktionalitäten, weitere Schritte: Usability Tests und User Interviews um genauer herauszufinden, ob die Funktionalitäten so den Bedürfnissen der User entsprechen.
  Nächste Schritte und
 
-**Reflections** What is your main challenge in the project, and how have you handled it? What are some lessons you’ve learnt through the project? Has the project changed your outlook as a designer? What are your next steps for the project? TEST
+**Refklektion:** What is your main challenge in the project, and how have you handled it? What are some lessons you’ve learnt through the project? Has the project changed your outlook as a designer? What are your next steps for the project? TEST
 {: .notice--primary}
