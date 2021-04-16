@@ -190,11 +190,12 @@ Bei der **Gestaltung des Prototypen** wurde der **Fokus auf die Strukturierung d
 * Die **Bewertung des Angebots** wurde so definiert, dass sie automatisch nach dem Ende des Angebots einblenden sollte.
 * **Kommunikation:** Sowohl in der kurzen als auch in der Komplettansicht des Sport-Angebots gab es die Möglichkeit, dieses mit anderen Personen zu teilen und ihnen dazu eine Nachricht zu schicken.
 
-
-
 {% include gallery id="gallery_paperprototype02" caption="Paper Prototype: Notizen, erste Screens und Detailansichten des Prototyps" %}
 
-**Reflektion:** In dem Kurs ZZ von ZZ, den ich über Udemy absolviert hatte, wurde unter anderem das Sketching und das Erstellen von Storyboards für UX Designers thematisiert und ich habe probiert die Kenntnisse aus dem Kurs auf die beiden Storyboards und den Paper Prototype anzuwenden. Die Inhalte haben mir sehr gut bei der Erarbeitung des Konzepts geholfen, da ich so zum Beispiel auch wusste, wie ich einfach klickbare Bestandteile der App im Paper Prototype markieren konnte.
+
+
+
+**Reflektion:** Die in dem Udemy-Kurs ["Sketching for UX Designers - Boost UX work with pen & paper!"](https://www.udemy.com/certificate/UC-fecf4e1c-315d-41b6-98a6-b4dfcb1484f5/) vorgestellten Techniken zum Sketching konnte ich sehr gut bei der **Umsetzung meiner Storyboards und des Paper Prototype** einsetzen, da ich so zum Beispiel wusste, wie ich klickbare Bestandteile der App im Paper Prototype eindeutig markieren konnte. Auch hat es mir sehr geholfen zunächst eine **Icon-Library** anzulegen, die ich für den Paper Prototype genutzt habe. Den **ersten Prototypen aus Papier** zu fertigen, war eine Vorgabe des Design Thinking-Kurses der IxDF. Es war für mich sehr spannend bei meinem ersten Prototypen eine Papierversion zu gestalten. Für meine zukünftgen Projekte würde ich jedoch ein **digitales Wireframing-Tool** bevorzugen, weil sich dieses schneller durch User, Stakeholder und Teammitglieder testen lässt und ich selbst während des Tests nicht mehr die einzelnen Screens wechseln muss, sondern die Tester:innen besser beobachten kann.
 {: .notice--primary}
 
 ## Schluss
