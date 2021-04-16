@@ -12,8 +12,8 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/utteaser.jpg
     alt: "Usability Testing: Online Shop für Sukkulenten"
-    title: "Testing eines Webshops"
-    excerpt: "Usability Testing eines Onlineshops für Kakteen und andere Sukkulenten."
+    title: "Usability Testing eines Onlineshops für Kakteen und andere Sukkulenten"
+    excerpt: "Hier fehlt noch ein Text."
     url: "/sukkulenten/"
     btn_label: "Zum Projekt"
     btn_class: "btn--primary"
