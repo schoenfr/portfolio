@@ -181,11 +181,18 @@ In den Storyboards wurde sich auf Nutzer:innen-Szenarien konzentriert, die berei
 
 {% include gallery id="gallery_paperprototype01" caption="Paper Prototype: Gesamtansicht mit Screens für beide Storyboards" %}
 
-Die nach dem Storyboard nötigen Screens wurden in einem Paper Prototype gestaltet. Ich habe nach meinem eigenen Smartphone eine Vorlage aus Karton gezeichnet und ausgeschnitten und habe die Größe der einzelnen Screens dieser Vorlage entsprechend angepasst. Zunächst habe ich die einzelnen Schritte des ersten Storyboards visualisiert und dann für die Interaktionen zwischen User und App im zweiten Storyboard zunächst verglichen, welche Screens weiterhin funktionierten und welche neu hinzukommen mussten. Anhand des Paper Prototype sollte so die Interaktion mit der Fitness Booster App zwischen User und App anhand der Szenarios in den Storyboards möglich gewesen sein.
+Als nächstes wurde der **Paper Prototype** umgesetzt, mit dem **die Abläufe in den Storyboards** geprüft werden sollten. Hierfür habe ich nach meinem eigenen Smartphone eine Schablone aus Karton gebastelt und die Größe der einzelnen Papier-Screens entsprechend angepasst. Zunächst habe ich die einzelnen Schritte des ersten Storyboards visualisiert und dann für die Interaktionen zwischen User und App im zweiten Storyboard zunächst verglichen, welche Screens weiterhin funktionierten und welche neu hinzukommen mussten. Welche Inhalte in den einzelnden Screens klickbar waren und welche nicht, habe ich durch einen Schatten angedeutet.
+
+Bei der **Gestaltung des Prototypen** wurde der **Fokus auf die Strukturierung des Inhalts** gelegt:
+* Welche Inhalte sollten auf der **Startseite** präsentiert werden? Reichte es aus nur neue Angebote zu zeigen? Ich entschied mich dafür neben neuen Inhalten auch bereits erprobte Videos miteinzubinden, um so den schnelleren Zugang zu den Inhalten zu ermöglichen.
+* Ich entschied mich außerdem für eine **fixierte Buttonbar** mit Icons für das Profil, die Nachrichten, das Archiv und einen Kalender sowie einem Home-Button. Die Buttonbar sollte in jedem Screen sichtbar und klickbar. Die Ausnahme war nur der Vollbildmodus der Videos und Livestreamings dar.
+* Die Nutzer:innen konnten auf der **Startseite ein Angebot auswählen**, woraufhin sich ein Fenster mit den wichtigsten Informationen zur ausgewählten Aktivität öffnete. Entschied man sich für dieses Angebot, wechselte man zu einem Screen mit ausführlicheren Informationen und der Möglichkeit das Angebot zu starten oder im Fall eines erst später startenden Livestreaming-Angebots bereits vorzumerken.
+* Die **Bewertung des Angebots** wurde so definiert, dass sie automatisch nach dem Ende des Angebots einblenden sollte.
+* **Kommunikation:** Sowohl in der kurzen als auch in der Komplettansicht des Sport-Angebots gab es die Möglichkeit, dieses mit anderen Personen zu teilen und ihnen dazu eine Nachricht zu schicken.
+
+
 
 {% include gallery id="gallery_paperprototype02" caption="Paper Prototype: Notizen, erste Screens und Detailansichten des Prototyps" %}
-
-Hier noch einzelne Funktionen der App beschreiben: Was wurde genau umgesetzt, was wurde noch nicht umgesetzt.
 
 **Reflektion:** In dem Kurs ZZ von ZZ, den ich über Udemy absolviert hatte, wurde unter anderem das Sketching und das Erstellen von Storyboards für UX Designers thematisiert und ich habe probiert die Kenntnisse aus dem Kurs auf die beiden Storyboards und den Paper Prototype anzuwenden. Die Inhalte haben mir sehr gut bei der Erarbeitung des Konzepts geholfen, da ich so zum Beispiel auch wusste, wie ich einfach klickbare Bestandteile der App im Paper Prototype markieren konnte.
 {: .notice--primary}
