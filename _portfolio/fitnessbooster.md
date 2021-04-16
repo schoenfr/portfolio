@@ -200,3 +200,6 @@ Info für mich: Schlussfolgerung zum Prototypen und Schritte für eine nächste 
 
 ## Fazit
 Am Anfang des Projekts hätte ich nicht gedacht, dass am Ende ein erster Entwurf einer App mit dem Fokus auf Abwechslung im Sport-Angebot entstehen würde. Wie groß der **Erkenntnisgewinn über Nutzer:innen durch User Interviews** sein kann, hat sich hier für mich eindeutig bewahrheitet, weil ich ohne den Fokus nicht darauf gelegt hätte. Die einzelnen **Methoden des Design Thinking-Ansatzes auszuprobieren** war für mich ebenfalls gewinnbringend und ich konnte die bereits erlernte Theorie durch den IxDF-Kurs erfolgreich in die Praxis umsetzen.
+
+Info für mich: Fazit erscheint mir noch etwas kurz.
+{: .notice--warning}
