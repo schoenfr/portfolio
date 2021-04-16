@@ -2,16 +2,29 @@
 layout: splash
 title: "Sukkulenten"
 permalink: /sukkulenten/
-gallery:
-  - url: /assets/images/foto01.jpg
-    image_path: assets/images/foto01.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/foto02.jpg
-    image_path: assets/images/foto02.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/foto03.jpg
-    image_path: assets/images/foto03.jpg
-    alt: "placeholder image 3"
+gallery_testing:
+  - url: /assets/images/utszenarios.png
+    image_path: assets/images/utszenarios.png
+    alt: "Vorbereitung der Test-Szenarios, des Test-Plans und Mitschriften der Tests"
+    title: "Vorbereitung der Test-Szenarios, des Test-Plans und Mitschriften der Tests"
+  - url: /assets/images/utzoom.png
+    image_path: assets/images/utzoom.png
+    alt: "Durchführung des Usability Tests über Zoom"
+    title: "Durchführung des Usability Tests über Zoom"
+gallery_auswertung01:
+  - url: /assets/images/utauswertung01.png
+    image_path: assets/images/utauswertung01.png
+    alt: "Auswertung der Aufzeichnungen und Mitschriften"
+    title: "Auswertung der Aufzeichnungen und Mitschriften"
+gallery_auswertung02:
+  - url: /assets/images/utauswertung01details.png
+    image_path: assets/images/utauswertung01details.png
+    alt: "Detailansichten der Auswertung der Aufzeichnungen und Mitschriften"
+    title: "Detailansichten der Auswertung der Aufzeichnungen und Mitschriften"
+  - url: /assets/images/utauswertung02.png
+    image_path: assets/images/utauswertung02.png
+    alt: "Scoring der Interaktion zwischen User und Webseite"
+    title: "Scoring der Interaktion zwischen User und Webseite"
 header:
   image: /assets/images/sukkulententitelbild.jpg
   teaser: /assets/images/utteaser.jpg
@@ -22,10 +35,38 @@ Der Online-Anbieter für Kakteen und andere Sukkulenten hat zwar einen sehr umfa
 Ich habe dieses Projekt im Rahmen des [**UX Design Kurses „Conducting Usability Testing“**](https://www.interaction-design.org/mareike-bosselmann/certificate/course/7f9d4423-fbdf-4fce-a398-592fe9f73204) der [**Interaction Design Foundation**](https://www.interaction-design.org/) durchgeführt. Die Aufgabe war die Ausführung eines Usability Tests bei einem deutschen Online-Shop. Ich hatte mich für einen Webshop für Kakteen und andere Sukkulenten entschieden, weil ich diese Seite bereits als Nutzerin sehr gut kenne und überzeugt bin, dass das Potential dieser Seite durch Optimierungn beim Konzept und Design der Seite noch besser ausgeschöpft werden kann.
 {: .notice--primary}
 
-## Project Brief
-The project brief was very short and also just optional. The task was to create a smartphone app which will help people to improve their fitness. The target group were described as people who want to exercise more, but just dont get around to do it for various reasons.
+## Planung und Durchführung der Tests
+Text
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery id="gallery_testing" caption="Planung der Test-Szenarios, Erstellung der Aufgaben für die TesterInnen, Mitschriften und Screenshots der Umgebung des Usability Tests" %}
 
-## First Steps
-To Analyse the project brief and get an idea of it's content seemed essential to me. I wanted to get an better idea of the problem that lay behind the task to create an smartphone app also in context of contemporary problems like the Corona-Pendemic and its direct consequences like for example more remote work, homeschooling and taking care of children, less contact to ohers, closed sport clubs, etc.
+Text
+
+**Refklektion:** ZZ
+{: .notice--primary}
+
+## Auswertung
+Text
+
+{% include gallery id="gallery_auswertung01" caption="Auswertung der Aufzeichnungen und Mitschriften" %}
+
+Text
+
+{% include gallery id="gallery_auswertung02" caption="Detailansichten der Auswertung und Ergebnis des Scorings" %}
+
+Text
+
+**Refklektion:** ZZ
+{: .notice--primary}
+
+## Report
+Text
+
+**Refklektion:** ZZ
+{: .notice--primary}
+
+## Schluss
+Text
+
+**Refklektion:** ZZ
+{: .notice--primary}
