@@ -160,11 +160,11 @@ In einer **"Challenge Assumptions"-Sitzung** wurden dann zu den bisherigen Erken
 Info für mich: Zusammenfassende Erkenntnis zu diesem Abschnitt mit der Frage, wie die diese App nun genau aussieht.
 {: .notice--warning}
 
-**Reflektion:** Durch die verschiedenen Methoden der Ideenfindung eröffnete sich mir klareres Bild darüber, wie die App aussehen könnte. Außerdem war ich überrascht über die **Vielzahl an Funktionalitäten**, die mir für meine Fitness App einfielen. Aber es erschien mir **nicht sinnvoll alle Funktionalitäten in einem ersten Entwurf der App** umzusetzen. Anhand der eingesetzten Methoden war mir außerdem nicht klar, welche Bestandteile für die App essenziell waren. Deswegen habe ich mich erst mit dem **MVP** auseinandergesetzt und danach den **ersten Prototypen** entwickelt.
+**Reflektion:** Durch die verschiedenen Methoden der Ideenfindung eröffnete sich mir klareres Bild darüber, wie die App aussehen könnte. Außerdem war ich überrascht über die **Vielzahl an Funktionalitäten**, die mir für meine Fitness App einfielen. Aber es erschien mir **nicht sinnvoll alle Funktionalitäten in einem ersten Entwurf der App** umzusetzen. Anhand der eingesetzten Methoden war mir außerdem nicht klar, welche Bestandteile für die App essenziell waren. Deswegen habe ich mich erst mit dem **MVP für den ersten Prototypen** auseinandergesetzt.
 {: .notice--primary}
 
-## Storyboards & Paper Prototype: Erster Entwurf des MVP
-Welche Funktionalitäten sollte das MVP nun besitzen? Und welche Bestandteile konnten auch später noch eingefügt werden? Das waren die beiden Fragen, die mich beschäftigten und die ich durch **Storyboards** zu lösen suchte. Das Konzept der Storyboards bot mit einerseits die Möglichkeit nah beim User und seinen Bedürfnissen zu bleiben und andererseits einen guten Ausgangspunkt um über die typische Nutzung meiner App im Alltag zu reflektieren und das MVP zu definieren. Insgesamt wurden **zwei Storyboards** erstellt; für jede Persona eins. 
+## Storyboards & Paper Prototype: Erster Entwurf der App
+Welche Funktionalitäten sollten die Grundlage der App darstellen? Und welche Bestandteile konnten auch später noch eingefügt werden? Das waren die beiden Fragen, die mich beschäftigten und die ich durch **Storyboards** zu lösen suchte. Das Konzept der Storyboards bot mit einerseits die Möglichkeit nah beim User und seinen Bedürfnissen zu bleiben und andererseits einen guten Ausgangspunkt um über die typische Nutzung meiner App im Alltag zu reflektieren und das MVP zu definieren. Insgesamt wurden **zwei Storyboards** erstellt; für jede Persona eins. 
 
 {% include gallery id="gallery_storyboard" caption="Storyboards: Zwei Abläufe einer typischen Nutzung der Fitness App mit Bina und Mitch" %}
 
@@ -172,10 +172,12 @@ Im **ersten Storyboard** wurde auch die Pandemie-bedingte Home Office-Situation 
 
 Im **zweiten Storyboard** wird gezeigt, wie Mitch und Bina **gemeinsam über die App trainieren** können. Bina ist hier diejenige, die ein **Livestreaming-Angebot entdeckt** und dieses Bina schickt, um sie zu fragen, ob sie das am Abend spontan zusammen machen wollen. Mitch fühlt sich durch den **äußeren Anreiz motiviert** etwas für sich zu tun und sagt zu. Gemeinsam machen die beiden dann das ihnen zuvor unbekannte Training zur gleichen Zeit in ihrem eigenen Wohnzimmer. Auch Mitch wird danach die **Möglichkeit zur Bewertung des Sport-Angebots** geboten. Schließlich wird noch gezeigt, wie Mitch ihren Feierabend nutzt: Sie quatscht mit ihrer Freundin Bina über den Kurs aus und verbringt den Rest des Abends auf dem Sofa. In diesem Storyboard wird somit nicht allein das **Thema "Abwechslung beim Sport"** eingebunden, sondern auch die **Option gemeinsam Sport** zu machen behandelt, die für Mitch wichtig ist, da sie sich so besser zum Sport machen motivieren kann.
 
-Die Storyboards lieferten **wichtige Erkenntnisse für die Funktionalitäten des MVP**: 
-* Zunächst wurde sich auf Nutzer-Szenarien fokussiert, die bereits annahmen, dass die User die App nicht zum ersten Mal nutzen. Daher lag der Fokus auf Kommunikation, Ausübung des Trainings durch die App und die Bewertung des Sportprogramms.
+Durch die Storyboards wurden **wichtige Erkenntnisse zu den Funktionalitäten des ersten Prototypen** erarbeitet und seine Bestandteile konnten definiert werden. Aus folgenden Funktionalitäten sollte der Prototyp bestehen: 
+* Der **Hinweis auf ein neues-Sport-Angebot und deren Nutzung** im Rahmen der App.
+* **Bewertung des Sport-Angebots**, um so die eigenen Präferenzen beim Sport-Angebot anzupassen.
+* Die **Kommunikation** mit anderen Personen über die App.
 
-Hier kam ich zu dem Schluss, dass es vermutlich erstmal besser ist, sich für einen ersten Entwurf auf digitale Angebote zu spezialisieren. Die User der Zielgruppe wollen zwar nicht unbedingt ein genau maßgeschneidertes Angebot haben, sondern gerne aus verschiedenen auswählen und neue Trainings vorgeschlagen bekommen. Dennoch wurde durch die Interviews klar, dass es kein großes Interesse daran gibt sich lange mit der Suche nach einem passenden Angebot auseinanderzusetzen. Deswegen blieben die User auch gerne bei einem breits entdeckten Sport-Angebot und testen nur wenige andere Fitnes-Anbieter.
+In den Storyboards wurde sich auf Nutzer:innen-Szenarien konzentriert, die bereits annahmen, dass die **User die App nicht zum ersten Mal** nutzten. Für das MVP wurde deswegen der **Anmeldungs- bzw. Registrierungsprozess** und die **Einschätzung des Users** zum eigenen Fitness-Level und zu bisherigen Sport-Erfahrungen ausgeklammert. Außerdem wurde sich für den ersten Entwurf auf das digitale Angebot fokussiert und die Einbeziehung von regionalen Angeboten erstmal ausgeklammert.
 
 {% include gallery id="gallery_paperprototype01" caption="Paper Prototype: Gesamtansicht mit Screens für beide Storyboards" %}
 
