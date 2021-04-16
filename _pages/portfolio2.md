@@ -13,7 +13,7 @@ feature_row:
   - image_path: /assets/images/utteaser.jpg
     alt: "Usability Testing: Online Shop für Sukkulenten"
     title: "Usability Testing eines Onlineshops für Kakteen und andere Sukkulenten"
-    excerpt: "Hier fehlt noch ein Text."
+    excerpt: "Hier fehlt noch ein wunderbarer Text."
     url: "/sukkulenten/"
     btn_label: "Zum Projekt"
     btn_class: "btn--primary"
