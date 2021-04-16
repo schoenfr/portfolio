@@ -5,8 +5,8 @@ layout: splash
 feature_row:
   - image_path: /assets/images/fbteaser.jpg
     alt: "Fitness Booster"
-    title: "Fitness Booster"
-    excerpt: "Entwurf für eine Fitness App mit abwechslungsreichem Sport-Angebot."
+    title: "Fitness Booster: Mehr Abwechslung beim Sport"
+    excerpt: "Der Beginn der Corona-Pandemie führte zu einem Verlust der Möglichkeit in Fitness-Studios, Sportvereinen und anderen Sport-Gruppen körperlich aktiv zu werden. Diese Einschränkungen in der individuellen Sportausübung sollten durch ein digitales, vielseitiges und flexibles Sportangebot in Form einer Fitness-App behoben werden. Im Rahmen dieses Projekts wurde ein erster Entwurf einer Fitness-App ausgearbeitet, mit dem die Nutzer:innen auf ein Video-on-Demand-Kursprogramm als auch auf Livestreaming-Angebote Zugriff haben, das von verschiedenen Trainer:innen mit unterschiedlichen Schwerpunkten bereitgestellt werden sollte."
     url: "/fitnessbooster/"
     btn_label: "Zum Projekt"
     btn_class: "btn--primary"
