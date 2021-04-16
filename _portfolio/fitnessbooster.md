@@ -160,7 +160,7 @@ In einer **"Challenge Assumptions"-Sitzung** wurden dann zu den bisherigen Erken
 Zusammenfassende Erkenntnis zu diesem Abschnitt mit der Frage, wie die diese App nun genau aussieht.
 {: .notice--warning}
 
-**Reflektion:** Durch die verschiedenen Methoden der Ideenfindung eröffnete sich mir einerseits ein klareres Bild darüber, wie die App in etwa aussehen könnte. Andererseits erschien es mir nicht möglich alle Funktionalitäten auch in einem Paper Prototype und damit in dem ersten Entwurf der App umzusetzen. Anhand der eingesetzten Methoden war es zudem für mich noch nicht klar, welche Bestandteile die App in erster Linie erstmal zwingend besitzen sollte, damit sie auch genutzt werden konnte. Deswegen wurde sich als nächstes Ziel gesetzt, das MVP herauszuarbeiten.
+**Reflektion:** Durch die verschiedenen Methoden der Ideenfindung eröffnete sich mir klareres Bild darüber, wie die App aussehen könnte. Außerdem war ich überrascht über die **Vielzahl an Funktionalitäten**, die mir für meine Fitness App einfielen. Aber es erschien mir **nicht sinnvoll alle Funktionalitäten in einem ersten Entwurf der App** umzusetzen. Anhand der eingesetzten Methoden war mir außerdem nicht klar, welche Bestandteile für die App essenziell waren. Deswegen habe ich mich erst mit dem **MVP** auseinandergesetzt und danach den **ersten Prototypen** entwickelt.
 {: .notice--primary}
 
 ## Storyboards & Paper Prototype: Erster Entwurf der Fitness Booster-App
