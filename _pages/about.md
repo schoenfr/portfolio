@@ -41,6 +41,8 @@ Bereits während meiner Promotion im Fach Kunstgeschichte habe ich begonnen mich
 ### Meine Motivation
 
 ### Meine Kompetenzen
+Durch meine bisherige Arbeitserfahrung bin ich mit der Lösung von komplexen Aufgaben in einem wissenschaftlichen Kontext vertraut. Um zu einem sinnvollen Konzept zu einem Artikel oder zu einem Buch zu kommen, war es wichtig seine Gedanken regelmäßig zu präsentieren und damit zur Diskussion zu stellen. Das Feedback wurde dann von mir reflektiert und in meine Arbeit eingebaut.  Als Doktorandin war es zudem wichtig ein hohes Maß an Selbstorganisation und Eigenmotivation mitzubringen, um seine Arbeit auch erledigen zu können, weil man in erster Linie für die Gestaltung seines Arbeitsalltags selbst verantwortlich war. Aufgrund dieser beruflichen Erfahrungen würde ich sagen, dass ich kommunikativ, kritikfähig, diszipliniert und fleißig bin, lösungsorientiert arbeite und außerdem Erfahrung im Strukturieren von komplexen Inhalten habe. Als Kunsthistorikerin besitze ich zudem ein umfangreiches Bildergedächtnis und habe mich mit vielfältigen gesellschaftlichen Theorien auseinandergesetzt. Dieses Fachwissen erscheint mir auch im Alltag eines UX Designers nützlich, weil ich zum Beispiel zum Thema Nachhaltigkeit, Kolonialismus oder Feminismus "schlechte" historische Verweise und ethische Fragen leicht erkenne und im Team problematisieren könnte.
+
 Auch wenn ich als Quereinsteigerin noch neu im Bereich UX Design gibt, so gibt es dennoch einige Kompetenzen, die ich durch meine bisherigen Tätigkeiten erworben habe und die auch für meine Arbeit als UX Designer von Relevanz sind. Meine wichtigsten Kompetenzen sind:
 * Kompetenz 1
 * Kompetenz 2
