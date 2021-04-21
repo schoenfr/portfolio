@@ -41,19 +41,19 @@ Im **Dezember 2020** habe ich damit begonnen mir durch verschiedene Weiterbildun
 <a href="mailto:mareike.bosselmann@gmx.de" class="btn btn--primary">E-Mail</a>
 
 ### Meine Kompetenzen
-Durch meine bisherige Arbeitserfahrung bin ich mit der Lösung von komplexen Aufgaben in einem wissenschaftlichen Kontext vertraut. Um zu einem sinnvollen Konzept zu einem Artikel oder zu einem Buch zu kommen, war es wichtig seine Gedanken regelmäßig zu präsentieren und damit zur Diskussion zu stellen. Das Feedback wurde dann von mir reflektiert und in meine Arbeit eingebaut.  Als Doktorandin war es zudem wichtig ein hohes Maß an Selbstorganisation und Eigenmotivation mitzubringen, um seine Arbeit auch erledigen zu können, weil man in erster Linie für die Gestaltung seines Arbeitsalltags selbst verantwortlich war. Aufgrund dieser beruflichen Erfahrungen würde ich sagen, dass ich kommunikativ, kritikfähig, diszipliniert und fleißig bin, lösungsorientiert arbeite und außerdem Erfahrung im Strukturieren von komplexen Inhalten habe. Als Kunsthistorikerin besitze ich zudem ein umfangreiches Bildergedächtnis und habe mich mit vielfältigen gesellschaftlichen Theorien auseinandergesetzt. Dieses Fachwissen erscheint mir auch im Alltag eines UX Designers nützlich, weil ich zum Beispiel zum Thema Nachhaltigkeit, Kolonialismus oder Feminismus "schlechte" historische Verweise und ethische Fragen leicht erkenne und im Team problematisieren könnte.
+Durch meine bisherige Arbeitserfahrung habe ich mir bereits einiges Kompetenzen angeeignet, die ich hier kurz anführen möchte, um ein besseres Bild von mir als Person zu vermitteln. Diese möchte ich hierfür in fachliche und persönliche Kompetenzen unterteilen.
 
-Auch wenn ich als Quereinsteigerin noch neu im Bereich UX Design gibt, so gibt es dennoch einige Kompetenzen, die ich durch meine bisherigen Tätigkeiten erworben habe und die auch für meine Arbeit als UX Designer von Relevanz sind. Meine wichtigsten Kompetenzen sind:
-* Kompetenz 1
-* Kompetenz 2
-* Kompetenz 3
-* Kompetenz 4
+**Fachliche Kompetenzen:**
+Ich bin mit der Lösung von komplexen Aufgaben in einem wissenschaftlichen Kontext vertraut und habe die Zwischenstände meiner Arbeit regelmäßg während meiner Promotion präsentiert. Das Ziel der Präsentationen war es die eigene Arbeit zu reflektieren, die gewonnenen Erkenntnisse zur Diskussion zu stellen und durch das daraus gewonnene Feedback weiter voranzukommen. Als Kunsthistorikerin besitze ich zudem ein umfangreiches Bildergedächtnis und habe mich mit vielfältigen gesellschaftlichen Theorien auseinandergesetzt. In meiner Dissertation habe ich mich mit Bildern von beschnitzten Bäumen in britischen Expeditionsberichten über Australien im 18. und 19. Jahrhundert auseinandergesetzt und habe mich in diesem Zusammenhang im Schwerpunkt mit den Bereichen Umweltgeschichte, Kolonialismus und Rassismus beschäftigt. Dieses Fachwissen erscheint mir auch im Alltag eines UX Designers nützlich, weil ich durch diese Kenntnisse andere Perspektiven zu ethischen Fragen bei der Umsetzung und Gestaltung von digitalen Produkten einbringen kann.
+
+**Persönliche Kompetenzen:**
+Als Doktorandin war es außerordentlich wichtig ein hohes Maß an Selbstorganisation und Eigenmotivation mitzubringen, da die Verantwortung für den erfolgreichen Abschluss der Arbeit in meinen eigenen Händen lag. Meine Stärken sehe ich in der Kommunikation, meiner Kritikfähigkeit und meiner Disziplin. Außerdem arbeite ich in erster Linie lösungsorientiert und pragmatisch. Mit meinen zukünfitgen Kolleg:innen auf Englisch zu kommunizieren ist für mich zudem ohne Probleme möglich.
 
 ### Meine Ziele
 
 ### Abgeschlossene Fortbildungen
-#### Interaction Design Foundation
+* **Interaction Design Foundation**
 {% include gallery layout="third" id="gallery_ixdf" %}
 
-#### Udemy
+* **Udemy**
 {% include gallery layout="third" id="gallery_udemy" %}
