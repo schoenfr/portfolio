@@ -41,7 +41,14 @@ Im **Dezember 2020** habe ich damit begonnen mir durch verschiedene Weiterbildun
 <a href="mailto:mareike.bosselmann@gmx.de" class="btn btn--primary">E-Mail</a>
 
 ### Meine Kompetenzen
-Durch meine bisherige Arbeitserfahrung habe ich mir bereits einiges Kompetenzen angeeignet, die ich hier kurz anführen möchte, um ein besseres Bild von mir als Person zu vermitteln. Diese möchte ich hierfür in fachliche und persönliche Kompetenzen unterteilen.
+Durch meine Fortbildungen habe ich relevante UX Design-Kenntnisse zu folgenden Themen erlangt:
+* User Research
+* User-Centered Design
+* Design Thinking Ansatz
+* Prototyping
+* Usability Testing
+
+Durch meine bisherige Arbeitserfahrung habe ich mir außerdem einige Kompetenzen angeeignet, die ich hier kurz anführen möchte, um ein besseres Bild von mir als Person zu vermitteln. Diese möchte ich hierfür in fachliche und persönliche Kompetenzen unterteilen.
 
 **Fachliche Kompetenzen:**
 Ich bin mit der Lösung von komplexen Aufgaben in einem wissenschaftlichen Kontext vertraut und habe die Zwischenstände meiner Arbeit regelmäßg während meiner Promotion präsentiert. Das Ziel der Präsentationen war es die eigene Arbeit zu reflektieren, die gewonnenen Erkenntnisse zur Diskussion zu stellen und durch das daraus gewonnene Feedback weiter voranzukommen. Als Kunsthistorikerin besitze ich zudem ein umfangreiches Bildergedächtnis und habe mich mit vielfältigen gesellschaftlichen Theorien auseinandergesetzt. In meiner Dissertation habe ich mich mit Bildern von beschnitzten Bäumen in britischen Expeditionsberichten über Australien im 18. und 19. Jahrhundert auseinandergesetzt und habe mich in diesem Zusammenhang im Schwerpunkt mit den Bereichen Umweltgeschichte, Kolonialismus und Rassismus beschäftigt. Dieses Fachwissen erscheint mir auch im Alltag eines UX Designers nützlich, weil ich durch diese Kenntnisse andere Perspektiven zu ethischen Fragen bei der Umsetzung und Gestaltung von digitalen Produkten einbringen kann.
