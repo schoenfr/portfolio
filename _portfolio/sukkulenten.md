@@ -7,10 +7,6 @@ gallery_testing:
     image_path: assets/images/utszenarios.png
     alt: "Vorbereitung der Test-Szenarios, des Test-Plans und Mitschriften der Tests"
     title: "Vorbereitung der Test-Szenarios, des Test-Plans und Mitschriften der Tests"
-  - url: /assets/images/utzoom.png
-    image_path: assets/images/utzoom.png
-    alt: "Durchführung des Usability Tests über Zoom"
-    title: "Durchführung des Usability Tests über Zoom"
 gallery_auswertung01:
   - url: /assets/images/utauswertung01.png
     image_path: assets/images/utauswertung01.png
