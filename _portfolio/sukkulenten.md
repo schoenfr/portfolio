@@ -21,6 +21,15 @@ gallery_auswertung02:
     image_path: assets/images/utauswertung02.png
     alt: "Scoring der Interaktion zwischen User und Webseite"
     title: "Scoring der Interaktion zwischen User und Webseite"
+gallery_auswertung03:
+  - url: /assets/images/utauswertung03.png
+    image_path: assets/images/utauswertung03.png
+    alt: "Auszüge aus dem Report des Usability Tests"
+    title: "Auszüge aus dem Report des Usability Tests"
+  - url: /assets/images/utauswertung04.png
+    image_path: assets/images/utauswertung04.png
+    alt: "Auszüge aus dem Report des Usability Tests"
+    title: "Auszüge aus dem Report des Usability Tests"
 header:
   image: /assets/images/sukkulententitelbild.jpg
   teaser: /assets/images/utteaser.jpg
@@ -57,6 +66,8 @@ Text
 
 ## Report
 Text
+
+{% include gallery id="gallery_auswertung03" caption="Auszüge aus dem Report des Usability Tests" %}
 
 **Reflektion:** ZZ
 {: .notice--primary}
