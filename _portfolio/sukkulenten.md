@@ -30,6 +30,11 @@ gallery_auswertung03:
     image_path: assets/images/utauswertung04.png
     alt: "Auszüge aus dem Report des Usability Tests"
     title: "Auszüge aus dem Report des Usability Tests"
+gallery_empfehlung:
+  - url: /assets/images/utempfehlung01.png
+    image_path: assets/images/utempfehlung01.png
+    alt: "Sitemap des Webshops mit Fokus auf die Kategorie "Pflanzen"
+    title: "Sitemap des Webshops mit Fokus auf die Kategorie "Pflanzen"
 header:
   image: /assets/images/sukkulententitelbild.jpg
   teaser: /assets/images/utteaser.jpg
@@ -68,6 +73,12 @@ Text
 Text
 
 {% include gallery id="gallery_auswertung03" caption="Auszüge aus dem Report des Usability Tests" %}
+
+Text
+
+{% include gallery id="gallery_empfehlung01" caption="Auszüge aus dem Report des Usability Tests" %}
+
+Text
 
 **Reflektion:** ZZ
 {: .notice--primary}
