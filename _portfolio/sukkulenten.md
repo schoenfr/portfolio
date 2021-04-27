@@ -76,7 +76,7 @@ Text
 
 Text
 
-{% include gallery id="gallery_empfehlung01" caption="Auszüge aus dem Report des Usability Tests" %}
+{% include gallery id="gallery_empfehlung" caption="Auszüge aus dem Report des Usability Tests" %}
 
 Text
 
