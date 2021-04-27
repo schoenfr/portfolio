@@ -33,8 +33,8 @@ gallery_auswertung03:
 gallery_empfehlung:
   - url: /assets/images/utempfehlung01.png
     image_path: assets/images/utempfehlung01.png
-    alt: "Sitemap des Webshops mit Fokus auf die Kategorie "Pflanzen"
-    title: "Sitemap des Webshops mit Fokus auf die Kategorie "Pflanzen"
+    alt: "Sitemap des Webshops mit Fokus auf die Kategorie Pflanzenprodukte"
+    title: "Sitemap des Webshops mit Fokus auf die Kategorie Pflanzenprodukte"
 header:
   image: /assets/images/sukkulententitelbild.jpg
   teaser: /assets/images/utteaser.jpg
