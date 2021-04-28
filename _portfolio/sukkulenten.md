@@ -71,6 +71,8 @@ Die Schwerpunkte des Usability Tests lagen auf der **Auswahl von Sukkulenten aus
 * Gibt es **Probleme oder Überraschungen** bei der Bearbeitung der Aufgaben und wie wird damit umgegangen?
 * Werden die angebotenen **Funktionen, Inhalte und Auswahlmöglichkeiten** genutzt und verstanden?
 
+An diese Fragen anknüpfend habe ich einen **Testplan mit zehn Testszenarien** ausgearbeitet. Parallel dazu habe ich ein **Miro-Board** ausgearbeitet, indem ich ausführlicher die möglichen Optionen berücksichtigte, die bei der Bearbeitung zur Auswahl standen. Den in Word formulierten Testplan nutzte ich für Aufzeichnungen während des Usability Tests. Das Miro-Board habe ich dann bei der Auswertung der Aufzeichnungen und meiner Mitschriften eingesetzt. 
+
 Aufgrund der **Corona-Beschränkungen** und dem damit verbundenen Ziel der Kontaktreduzierungen wurde der Usability Test **remote** durchgeführt. Hierfür wurde das **Konferenzsystem Zoom** genutzt, das durch seine Funktionen die Möglichkeit bietet des Teilens des  Bildschirms und der Aufzeichnung des Tests zur späteren Auswertung anbietet. Die Tester:innen bekamen jeweils kurz vor Beginn die insgesamt **zehn Aufgaben per E-Mail** von mir zugeschickt.
 
 {% include gallery id="gallery_testing02" caption="Planung der Test-Szenarios, Erstellung der Aufgaben für die TesterInnen, Mitschriften und Screenshots der Umgebung des Usability Tests" %}
