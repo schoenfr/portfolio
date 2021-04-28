@@ -5,13 +5,13 @@ permalink: /sukkulenten/
 gallery_testing01:
   - url: /assets/images/utszenarios01.png
     image_path: assets/images/utszenarios01.png
-    alt: "Vorbereitung der Test-Szenarios, des Test-Plans und Mitschriften der Tests"
-    title: "Vorbereitung der Test-Szenarios, des Test-Plans und Mitschriften der Tests"
+    alt: "Aufgaben für die UserInnen"
+    title: "Aufgaben für die UserInnen"
 gallery_testing02:
   - url: /assets/images/utszenarios02.png
     image_path: assets/images/utszenarios02.png
-    alt: "Vorbereitung der Test-Szenarios, des Test-Plans und Mitschriften der Tests"
-    title: "Vorbereitung der Test-Szenarios, des Test-Plans und Mitschriften der Tests"
+    alt: "Test-Plan und Aufzeichnungen"
+    title: "Test-Plan und Aufzeichnungen"
 gallery_auswertung01:
   - url: /assets/images/utauswertung01.png
     image_path: assets/images/utauswertung01.png
@@ -35,11 +35,20 @@ gallery_auswertung03:
     image_path: assets/images/utauswertung04.png
     alt: "Auszüge aus dem Report des Usability Tests"
     title: "Auszüge aus dem Report des Usability Tests"
-gallery_empfehlung:
+gallery_empfehlung01:
   - url: /assets/images/utempfehlung01.png
     image_path: assets/images/utempfehlung01.png
     alt: "Sitemap des Webshops mit Fokus auf die Kategorie Pflanzenprodukte"
     title: "Sitemap des Webshops mit Fokus auf die Kategorie Pflanzenprodukte"
+  - url: /assets/images/utempfehlung02.png
+    image_path: assets/images/utempfehlung02.png
+    alt: "Details der Sitemap"
+    title: "Details der Sitemap"
+gallery_empfehlung02:
+  - url: /assets/images/utempfehlung03.png
+    image_path: assets/images/utempfehlung03.png
+    alt: "Vorschläge für neue Farbgestaltung"
+    title: "Vorschläge für neue Farbgestaltung"
 header:
   image: /assets/images/sukkulententitelbild.jpg
   teaser: /assets/images/utteaser.jpg
@@ -83,7 +92,11 @@ Text
 
 Text
 
-{% include gallery id="gallery_empfehlung" caption="Auszüge aus dem Report des Usability Tests" %}
+{% include gallery id="gallery_empfehlung01" caption="Auszüge aus dem Report des Usability Tests" %}
+
+Text
+
+{% include gallery id="gallery_empfehlung02" caption="Auszüge aus dem Report des Usability Tests" %}
 
 Text
 
