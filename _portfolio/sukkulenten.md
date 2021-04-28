@@ -62,7 +62,7 @@ Ich habe dieses Projekt im Rahmen des [**UX Design Kurses „Conducting Usabilit
 ## Planung und Durchführung der Tests
 Die ersten Schritte bestanden aus der Rekrutierung der Tester:innen, der Planung des Usability Tests und der Formulierung der Testziele, Szenarios und Aufgaben. **Die Testgruppe bestand aus insgesamt sieben Frauen und einem Mann im Alter zwischen 21 und 39 Jahren.** Nur **eine Person kannte den Onlineshop** und war mit dem Thema Sukkulenten stärker vertraut. Keine/keiner der TesterInnen besaß durch eine themenspezifische Ausbildung, ein Studium oder eine andere berufliche Tätigkeit ein besonderes Wissen über Sukkulenten oder auch andere Pflanzen. Alle waren jedoch **mit Online-shopping im Allgemeinen vertraut** und haben schon häufiger ihre Einkäufe auf verschiedenen Internetseiten getätigt. Aus Gründen der Anonymisierung werde ich im Folgenden in der Einzahl die weibliche Form von User, Tester und Nutzer verwenden.
 
-{% include gallery id="gallery_testing01" caption="Planung der Test-Szenarios, Erstellung der Aufgaben für die TesterInnen, Mitschriften und Screenshots der Umgebung des Usability Tests" %}
+{% include gallery id="gallery_testing01" caption="Testplan und Mitschriften des Usability Tests" %}
 
 Die Schwerpunkte des Usability Tests lagen auf der **Auswahl von Sukkulenten aus dem umfangreichen Sortiment** und auf der **Möglichkeit weitere Hilfmöglichkeiten und Informationen zum Pflanzenkauf** nutzen zu können. Folgende Fragen standen hierbei im Mittelpunkt:
 
