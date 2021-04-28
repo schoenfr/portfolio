@@ -2,9 +2,14 @@
 layout: splash
 title: "Sukkulenten"
 permalink: /sukkulenten/
-gallery_testing:
-  - url: /assets/images/utszenarios.png
-    image_path: assets/images/utszenarios.png
+gallery_testing01:
+  - url: /assets/images/utszenarios01.png
+    image_path: assets/images/utszenarios01.png
+    alt: "Vorbereitung der Test-Szenarios, des Test-Plans und Mitschriften der Tests"
+    title: "Vorbereitung der Test-Szenarios, des Test-Plans und Mitschriften der Tests"
+gallery_testing02:
+  - url: /assets/images/utszenarios02.png
+    image_path: assets/images/utszenarios02.png
     alt: "Vorbereitung der Test-Szenarios, des Test-Plans und Mitschriften der Tests"
     title: "Vorbereitung der Test-Szenarios, des Test-Plans und Mitschriften der Tests"
 gallery_auswertung01:
@@ -48,11 +53,11 @@ Ich habe dieses Projekt im Rahmen des [**UX Design Kurses „Conducting Usabilit
 ## Planung und Durchführung der Tests
 Die ersten Schritte bestanden aus der Rekrutierung der Tester:innen, der Planung des Usability Tests und der Formulierung der Testziele, Szenarios und Aufgaben. **Die Testgruppe bestand aus insgesamt sieben Frauen und einem Mann im Alter zwischen 21 und 39 Jahren.** Nur **eine Person kannte den Onlineshop** und war mit dem Thema Sukkulenten stärker vertraut. Keine/keiner der TesterInnen besaß durch eine themenspezifische Ausbildung, ein Studium oder eine andere berufliche Tätigkeit ein besonderes Wissen über Sukkulenten oder auch andere Pflanzen. Alle waren jedoch **mit Online-shopping im Allgemeinen vertraut** und haben schon häufiger ihre Einkäufe auf verschiedenen Internetseiten getätigt. Aus Gründen der Anonymisierung werde ich im Folgenden in der Einzahl die weibliche Form von User, Tester und Nutzer verwenden.
 
-{% include gallery id="gallery_testing" caption="Planung der Test-Szenarios, Erstellung der Aufgaben für die TesterInnen, Mitschriften und Screenshots der Umgebung des Usability Tests" %}
+{% include gallery id="gallery_testing01" caption="Planung der Test-Szenarios, Erstellung der Aufgaben für die TesterInnen, Mitschriften und Screenshots der Umgebung des Usability Tests" %}
 
 Aufgrund der **Corona-Beschränkungen** und dem damit verbundenen Ziel der Kontaktreduzierungen wurde für der Usability Test remote durchgeführt. Hierfür wurde das **Konferenzsystem Zoom** genutzt, das durch seine Funktionen die Möglichkeit bietet des Teilens des  Bildschirms und der Aufzeichnung des Tests zur späteren Auswertung anbietet. Die Tester:innen bekamen jeweils kurz vor Beginn die insgesamt **zehn Aufgaben per E-Mail** von mir als pdf-Datei zugeschickt.
 
-{% include gallery id="gallery_testing" caption="Planung der Test-Szenarios, Erstellung der Aufgaben für die TesterInnen, Mitschriften und Screenshots der Umgebung des Usability Tests" %}
+{% include gallery id="gallery_testing02" caption="Planung der Test-Szenarios, Erstellung der Aufgaben für die TesterInnen, Mitschriften und Screenshots der Umgebung des Usability Tests" %}
 
 **Reflektion:** ZZ
 {: .notice--primary}
