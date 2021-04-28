@@ -46,7 +46,7 @@ Ich habe dieses Projekt im Rahmen des [**UX Design Kurses „Conducting Usabilit
 {: .notice--primary}
 
 ## Planung und Durchführung der Tests
-Text
+Die ersten Schritte bestanden aus der Rekrutierung der Tester:innen, der Planung des Usability Tests und der Formulierung der Testziele, Szenarios und Aufgaben. Die Testgruppe bestand aus insgesamt sieben Frauen und einem Mann im Alter zwischen 21 und 39 Jahren. Nur eine Person aus dieser Gruppe kannte den Onlineshop bereits und war mit dem Thema Sukkulenten stärker vertraut. Keine/keiner der TesterInnen besaß durch eine themenspezifische Ausbildung, ein Studium oder eine andere berufliche Tätigkeit ein besonderes Wissen über Sukkulenten oder auch andere Pflanzen. Alle waren jedoch mit Online-shopping im Allgemeinen vertraut und haben schon häufiger ihre Einkäufe auf verschiedenen Internetseiten getätigt. Aus Gründen der Anonymisierung werde ich im folgenden in der Einzahl die weibliche Form von User, Tester und Nutzer anwenden.
 
 {% include gallery id="gallery_testing" caption="Planung der Test-Szenarios, Erstellung der Aufgaben für die TesterInnen, Mitschriften und Screenshots der Umgebung des Usability Tests" %}
 
