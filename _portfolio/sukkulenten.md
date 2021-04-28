@@ -77,6 +77,8 @@ Aufgrund der **Corona-Beschränkungen** und dem damit verbundenen Ziel der Konta
 
 {% include gallery id="gallery_testing02" caption="Planung der Test-Szenarios, Erstellung der Aufgaben für die TesterInnen, Mitschriften und Screenshots der Umgebung des Usability Tests" %}
 
+Der **Testablauf** sah zu Beginn jedes Tests eine kurze **Einführung zum Test** vor, in der ich kurz erklärt habe, welche Webseite getestet wird, das Einverständnis zur Aufzeichnung eingeholt habe und wie der Test ablaufen wird. Die TesterInnen arbeiteten die Aufgabe in der gleichen Reihenfolge durch. **Fragen oder Hilfestellungen** habe ich während des Tests nicht gegeben, aber die UserInnen manchmal darauf hingeweisen, dass sie mit der nächsten Aufgabe weitermachen können, wenn sie selbst in dem Moment nicht daran gedacht haben. Die TesterInnen nutzten für den Usability Test ihren eigenen Laptop. Am Ende der selbstständigen Bearbeitung der Aufgaben durch die TesterInnen habe ich zunächst - wenn nötig - noch **Fragen zu einzelnen Aufgaben** gestellt. Dies habe ich zum Beispiel gemacht, um ihre Reaktionen oder ihr Vorgehen besser zu verstehen. Zum **Abschluss** habe ich allen TesterInnen noch zwei Fragen gestellt, die ihren **persönlichen Eindruck zum Onlineshop** erfassen sollten. Die TeilnehmerInnen habe ich hierfür gefragt, was sie bei einem angenommenen geplanten Relaunch der Webseite verändern und welche Funktionen sie beibehalten würden. **Insgesamt dauerten die Tests zwischen 30 und 75 Minuten.**
+
 **Reflektion:** ZZ
 {: .notice--primary}
 
