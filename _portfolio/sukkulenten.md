@@ -126,11 +126,11 @@ Der Report setzte sich aus folgenden **Kapiteln** zusammen:
 
 {% include gallery id="gallery_auswertung04" caption="Auszüge aus dem Report des Usability Tests" %}
 
-Die **Ergebnisse** habe ich mit einem **Überblick zu den Erfolgsraten** des Usability Tests eingeleitet. Eine Tabelle zeigte, ob eine Aufgabe erfolgreich bearbeitet werden konnte oder nicht. **Dadurch wollte ich zeigen, dass die Mehrzahl der Interaktionen zwischen User und Webseite funktionierten.** Von dieser Feststellung ausgehend wollte ich dann dazu überzuleiten, dass bei einer ganaueren Betrachtung des Vorgehens beim Lösen der Aufgaben Probleme für die einzelnen TesterInnen auftraten, die durch bestimmte strukturelle und gestalterische Gegebenheiten der Webseite verursacht werden. Dem Empfänger des Reports sollte an dieser Stelle verdeutlicht werden, dass das Ergebenis des Usability Tests nicht war, das der Webshop nicht funktionieren würde. Ein Eindruck, von dem ich befürchtete, er könnte sonst durch die nachfolgenden Seiten geweckt werden.
+Die **Ergebnisse** habe ich mit einem **Überblick zu den Erfolgsraten** des Usability Tests eingeleitet. Eine Tabelle zeigte, ob eine Aufgabe erfolgreich bearbeitet werden konnte oder nicht. **Dadurch wollte ich zeigen, dass die Mehrzahl der Interaktionen zwischen Userin und Webseite im Test funktionierten.** Von dieser Feststellung ausgehend wollte ich dann dazu überzuleiten, dass bei einer ganaueren Betrachtung des Vorgehens beim Lösen der Aufgaben Probleme für die einzelnen TesterInnen auftraten, die durch bestimmte strukturelle und gestalterische Gegebenheiten der Webseite verursacht werden. Dem Empfänger des Reports sollte an dieser Stelle verdeutlicht werden, dass das Ergebenis des Usability Tests nicht war, das der Webshop nicht funktionieren würde. Ein Eindruck, von dem ich befürchtete, er könnte sonst durch die nachfolgenden Seiten geweckt werden.
 
-In **vier Unterkapiteln** habe ich dann die Auswertung der Aufgaben im Detail vorgestellt:
+In **vier Unterkapiteln** habe ich dann die **Ergebnisse der Auswertung im Detail** vorgestellt:
 
-* **Überblick über das Sortiment:** 
+* **Überblick über das Sortiment:** In diesem Unterkapitel wurden die ersten vier Aufgaben des Usability Tests zusammengefasst, die sich auf die **Möglichkeiten der Information über einzelne Sukkulenten und die Auswahl dieser** fokussierten. Die Interaktion zwischen Userin und Webseite während dieser Szenarios waren **insgesamt gut**. Probleme gab es zum Beispiel bei der Suche nach Informationen zur Pflanzenpflege, weil die angebotenen nicht zufriedenstellend erschienen. Auch war sieben von acht UserInnen nicht klar, was winterhart und kalte sowie warme Überwinterung bedeuten. Da es hierfür keine Erklärungen auf der Webseite gab, kam es auch hier zu Verwirrungen.
 * **Suche vs. Navigation:** 
 * **Aufgaben zu speziellen Angeboten der Webseite:** 
 * **Aufgaben zu weiteren kaufrelevanten Informationen:** 
