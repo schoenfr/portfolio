@@ -39,6 +39,15 @@ gallery_auswertung03:
     image_path: assets/images/utauswertung04.png
     alt: "Auszüge aus dem Report des Usability Tests"
     title: "Auszüge aus dem Report des Usability Tests"
+gallery_auswertung04:
+  - url: /assets/images/utauswertung05.png
+    image_path: assets/images/utauswertung05.png
+    alt: "Auszüge aus dem Report des Usability Tests"
+    title: "Auszüge aus dem Report des Usability Tests"
+  - url: /assets/images/utauswertung06.png
+    image_path: assets/images/utauswertung06.png
+    alt: "Auszüge aus dem Report des Usability Tests"
+    title: "Auszüge aus dem Report des Usability Tests"
 gallery_empfehlung01:
   - url: /assets/images/utempfehlung01.png
     image_path: assets/images/utempfehlung01.png
@@ -95,7 +104,7 @@ Um die einzelnen Notizzettel in Beziehung zueinanderzusetzen habe ich noch Pfeil
 
 {% include gallery id="gallery_auswertung02" caption="Detailansichten der Auswertung und Ergebnis des Scorings" %}
 
-Im Wesentlichen konnte durch den Usability Test gezeigt werden, dass es den TesterInnen zwar zum größten Teil möglich war erfolgreich mit der Webseite zu interagieren. Dennoch gab es einige Hürden, Probleme und Unklarheiten für die TesterInnen, die im **Ergebnis zu einer verbesserungswürdigen User Experience** führten. 
+Im Wesentlichen konnte durch den Usability Test gezeigt werden, dass es den TesterInnen zwar zum größten Teil möglich war erfolgreich mit der Webseite zu interagieren. Dennoch gab es einige Hürden, Probleme und Unklarheiten für die TesterInnen, die im **Ergebnis eine verbesserungswürdige User Experience** ergaben. 
 
 **Reflektion:** ZZ
 {: .notice--primary}
@@ -104,6 +113,10 @@ Im Wesentlichen konnte durch den Usability Test gezeigt werden, dass es den Test
 Im **Report** wurden die **Ergebnisse des Usability Tests** aufbereitet und **Empfehlungen zur Optimierung des Onlineshops** formuliert.
 
 {% include gallery id="gallery_auswertung03" caption="Auszüge aus dem Report des Usability Tests" %}
+
+Text
+
+{% include gallery id="gallery_auswertung04" caption="Auszüge aus dem Report des Usability Tests" %}
 
 Text
 
