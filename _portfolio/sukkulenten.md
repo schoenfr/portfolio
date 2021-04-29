@@ -110,11 +110,19 @@ Im Wesentlichen konnte durch den Usability Test gezeigt werden, dass es den Test
 {: .notice--primary}
 
 ## Report
-Im **Report** wurden die **Ergebnisse des Usability Tests** aufbereitet und **Empfehlungen zur Optimierung des Onlineshops** formuliert.
+Im **Report** wurden die **Ergebnisse des Usability Tests** aufbereitet und **Empfehlungen zur Optimierung des Onlineshops** formuliert. 
 
 {% include gallery id="gallery_auswertung03" caption="Auszüge aus dem Report des Usability Tests" %}
 
-Text
+Die Struktur des Reports setzte sich aus folgenden Kapiteln zusammen:
+
+* **Einleitung:** Hier habe ich den Kontext, in dem der Usability Test stattfand, den Schwerpunkt und die Ziele des Tests erläutert.
+* **Zusammenfassung der Ergebnisse:** Die wichtigsten Erkenntnisse, die im Report vorgestellt habe, sind in diesem Teil kurz zusammengeführt.
+* **Vorgehen:** In diesem Abschnitt habe ich den Ablauf des Usability Tests, den Testplan und die Aufgaben vorgestellt.
+* **TeilnehmerInnen:** Die für den Usability Test relevanten Daten zur Testgruppe wurden in diesem Kapitel kurz zusammengefasst.
+* **Ergebnisse:** Die Auswertung zu den einzelnen Aufgaben, aber auch zu aufgabenübergreifenden Erkenntnissen wurden in diesem Kapitel vorgestellt. 
+* **Empfehlungen:** In den Empfehlungen wurden sich darauf fokussiert Denkanstöße für die Änderung der Gestaltung der Webseite zu geben. Es ging mir nicht darum ein komplett neues Konzept der Webseite zu erarbeiten, hierfür hätten auch die Daten des Usability Tests nicht ausgereicht, sondern mögliche Lösungsansätze für die im vorherigen Kapitel gezeigten Schwachstellen des Konzepts aufzuzeigen.
+* **Fazit:** Im Fazit habe ich eine Bilanz zum Usability Test formuliert, eine Einschätzung zum Umgang mit den Ergebnissen des Usability Tests für den Webshop-Betreiber getroffen und mögliche nächste Schritte aufgezeigt, die im Anschluss an den Test sinnvoll erscheinen.
 
 {% include gallery id="gallery_auswertung04" caption="Auszüge aus dem Report des Usability Tests" %}
 
