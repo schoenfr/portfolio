@@ -35,11 +35,11 @@ gallery_auswertung03:
     image_path: assets/images/utauswertung03.png
     alt: "Auszüge aus dem Report des Usability Tests"
     title: "Auszüge aus dem Report des Usability Tests"
+gallery_auswertung04:
   - url: /assets/images/utauswertung04.png
     image_path: assets/images/utauswertung04.png
     alt: "Auszüge aus dem Report des Usability Tests"
     title: "Auszüge aus dem Report des Usability Tests"
-gallery_auswertung04:
   - url: /assets/images/utauswertung05.png
     image_path: assets/images/utauswertung05.png
     alt: "Auszüge aus dem Report des Usability Tests"
