@@ -63,7 +63,7 @@ Zur Freude vieler Sukkulentenliebhaber:innen gibt es mittlerweile immer mehr Mö
 Ich habe dieses Projekt im Rahmen des [**UX Design Kurses „Conducting Usability Testing“**](https://www.interaction-design.org/mareike-bosselmann/certificate/course/7f9d4423-fbdf-4fce-a398-592fe9f73204) der [**Interaction Design Foundation**](https://www.interaction-design.org/) durchgeführt. **Die Aufgabe war die Ausführung eines Usability Tests bei einem regionalen Online-Shop.** Ich hatte mich für einen Webshop für Kakteen und andere Sukkulenten entschieden, weil ich diese Seite bereits als Kundin sehr gut kannte und dadruch überzeugt war, dass das große Potential dieser Seite bereits durch kleinere Optimierungen besser ausgeschöpft werden kann.
 {: .notice--primary}
 
-## Planung und Durchführung der Tests
+## Planung und Durchführung
 Die ersten Schritte bestanden aus der Rekrutierung der Tester:innen, der Planung des Usability Tests und der Formulierung der Testziele, Szenarios und Aufgaben. **Die Testgruppe bestand aus insgesamt sieben Frauen und einem Mann im Alter zwischen 21 und 39 Jahren.** Nur **eine Person kannte den Onlineshop** und war mit dem Thema Sukkulenten stärker vertraut. Keine/keiner der TesterInnen besaß durch eine themenspezifische Ausbildung, ein Studium oder eine andere berufliche Tätigkeit ein besonderes Wissen über Sukkulenten oder auch andere Pflanzen. Alle waren jedoch **mit Online-shopping im Allgemeinen vertraut** und haben schon häufiger ihre Einkäufe auf verschiedenen Internetseiten getätigt. Aus Gründen der Anonymisierung werde ich im Folgenden in der Einzahl die weibliche Form von User, Tester und Nutzer verwenden.
 
 {% include gallery id="gallery_testing01" caption="Testplan und Mitschriften" %}
@@ -87,7 +87,7 @@ Der **Testablauf** sah zu Beginn jedes Tests eine kurze **Einführung zum Test**
 {: .notice--primary}
 
 ## Auswertung
-Text
+Für die Auswertung des Usability Tests habe ich mir die **Aufzeichnungen aller Tests** angeschaut und gemeinsam mit meinen **Mitschriften** auf dem **Miro-Board** zu den einzelnen Aufgaben das Vorgehen der TesterInnen, Probleme, Beobachtungen und Zusammenhängeauf Notizzetteln erfasst. Außerdem wurden im untersten Bereich die Meinungen der UserInnen zu den an den Abschluss der Aufgaben gestellten Fragen versammelt. Hierfür habe ich die einzelnen Bereiche passend zu den Aufgaben in verschiedene Farben gefasst und die Notizzettel je nach Inhalt unterschiedlich eingefärbt. Die weißen Notizzettel zeigen das Vorgehen der TesterInnen, die roten Notizzettel die Probleme beim Bearbeiten der Aufgaben, die schwarzen Notizzettel Zitate der UserInnen, die die Probleme und Einschätzungen prägnant wiedergeben, und die gelben Notizzettel geben weitere Beobachtungen von mit zum Verhalten und andere Auffälligkeiten wieder. **Der Screenshot des Miro-Boards zeigt sehr gut, dass die roten Notizzettel häufig zum Einsatz kamen.**
 
 {% include gallery id="gallery_auswertung01" caption="Auswertung der Aufzeichnungen und Mitschriften" %}
 
@@ -118,7 +118,7 @@ Text
 **Reflektion:** ZZ
 {: .notice--primary}
 
-## Schluss
+## Fazit
 Text
 
 **Reflektion:** ZZ
