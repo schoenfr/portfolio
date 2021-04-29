@@ -121,12 +121,19 @@ Der Report setzte sich aus folgenden **Kapiteln** zusammen:
 * **Vorgehen:** In diesem Abschnitt habe ich den Ablauf des Usability Tests, den Testplan und die Aufgaben vorgestellt.
 * **TeilnehmerInnen:** Die für den Usability Test relevanten Daten zur Testgruppe wurden in diesem Kapitel kurz zusammengefasst.
 * **Ergebnisse:** Die Auswertung zu den einzelnen Aufgaben, aber auch zu aufgabenübergreifenden Erkenntnissen wurden in diesem Kapitel vorgestellt. 
-* **Empfehlungen:** In den Empfehlungen wurden sich darauf fokussiert Denkanstöße für die Änderung der Gestaltung der Webseite zu geben. Es ging mir nicht darum ein komplett neues Konzept der Webseite zu erarbeiten, hierfür hätten auch die Daten des Usability Tests nicht ausgereicht, sondern **mögliche Lösungsansätze** für die im vorherigen Kapitel aufgezeigten Schwachstellen des Konzepts aufzuzeigen.
+* **Empfehlungen:** In den Empfehlungen wurden sich darauf fokussiert Denkanstöße für die Änderung der Gestaltung der Webseite zu geben. Es ging mir nicht darum ein komplett neues Konzept der Webseite zu erarbeiten, hierfür hätten auch die Daten des Usability Tests nicht ausgereicht, sondern **mögliche Lösungsansätze** für die im vorherigen Kapitel aufgezeigten Schwachstellen des Konzepts aufzuzeigen, die zu einer Verbesserung der User Experience beitragen könnten.
 * **Fazit:** Im Fazit habe ich eine Bilanz zum Usability Test formuliert, eine Einschätzung zum Umgang mit den Ergebnissen des Usability Tests für den Webshop-Betreiber getroffen und mögliche nächste Schritte aufgezeigt, die im Anschluss an den Test sinnvoll erscheinen.
 
 {% include gallery id="gallery_auswertung04" caption="Auszüge aus dem Report des Usability Tests" %}
 
-Text
+Die **Ergebnisse** habe ich mit einem **Überblick zu den Erfolgsraten** des Usability Tests eingeleitet. Eine Tabelle zeigte, ob eine Aufgabe erfolgreich bearbeitet werden konnte oder nicht. **Dadurch wollte ich zeigen, dass die Mehrzahl der Interaktionen zwischen User und Webseite funktionierten.** Von dieser Feststellung ausgehend wollte ich dann dazu überzuleiten, dass bei einer ganaueren Betrachtung des Vorgehens beim Lösen der Aufgaben Probleme für die einzelnen TesterInnen auftraten, die durch bestimmte strukturelle und gestalterische Gegebenheiten der Webseite verursacht werden. Dem Empfänger des Reports sollte an dieser Stelle verdeutlicht werden, dass das Ergebenis des Usability Tests nicht war, das der Webshop nicht funktionieren würde. Ein Eindruck, von dem ich befürchtete, er könnte sonst durch die nachfolgenden Seiten geweckt werden.
+
+In **vier Unterkapiteln** habe ich dann die Auswertung der Aufgaben im Detail vorgestellt:
+
+* **Überblick über das Sortiment:** 
+* **Suche vs. Navigation:** 
+* **Aufgaben zu speziellen Angeboten der Webseite:** 
+* **Aufgaben zu weiteren kaufrelevanten Informationen:** 
 
 {% include gallery id="gallery_empfehlung01" caption="Auszüge aus dem Report des Usability Tests" %}
 
