@@ -87,7 +87,7 @@ Der **Testablauf** sah zu Beginn jedes Tests eine kurze **Einführung zum Test**
 {: .notice--primary}
 
 ## Auswertung
-Für die Auswertung des Usability Tests habe ich mir die **Aufzeichnungen aller Tests** angeschaut und gemeinsam mit meinen **Mitschriften** auf dem **Miro-Board** zu den einzelnen Aufgaben das Vorgehen der TesterInnen, Probleme, Beobachtungen und Zusammenhängeauf Notizzetteln erfasst. Außerdem wurden im untersten Bereich die Meinungen der UserInnen zu den an den Abschluss der Aufgaben gestellten Fragen versammelt. Hierfür habe ich die einzelnen Bereiche passend zu den Aufgaben in verschiedene Farben gefasst und die Notizzettel je nach Inhalt unterschiedlich eingefärbt. Die weißen Notizzettel zeigen das Vorgehen der TesterInnen, die roten Notizzettel die Probleme beim Bearbeiten der Aufgaben, die schwarzen Notizzettel Zitate der UserInnen, die die Probleme und Einschätzungen prägnant wiedergeben, und die gelben Notizzettel geben weitere Beobachtungen von mit zum Verhalten und andere Auffälligkeiten wieder. **Der Screenshot des Miro-Boards verduetlicht sehr gut, dass die roten Notizzettel häufig zum Einsatz kamen.**
+Für die **Auswertung des Usability Tests** habe ich mir die **Aufzeichnungen aller Tests** angeschaut und gemeinsam mit meinen **Mitschriften** auf dem **Miro-Board** zu den einzelnen Aufgaben das Vorgehen der TesterInnen, Probleme, Beobachtungen und Zusammenhängeauf Notizzetteln erfasst. Außerdem wurden im untersten Bereich die Meinungen der UserInnen zu den an den Abschluss der Aufgaben gestellten Fragen versammelt. Hierfür habe ich die einzelnen Bereiche passend zu den Aufgaben in verschiedene Farben gefasst und die Notizzettel je nach Inhalt unterschiedlich eingefärbt. Die weißen Notizzettel zeigen das Vorgehen der TesterInnen, die roten Notizzettel die Probleme beim Bearbeiten der Aufgaben, die schwarzen Notizzettel Zitate der UserInnen, die die Probleme und Einschätzungen prägnant wiedergeben, und die gelben Notizzettel geben weitere Beobachtungen von mit zum Verhalten und andere Auffälligkeiten wieder. **Der Screenshot des Miro-Boards verduetlicht sehr gut, dass die roten Notizzettel häufig zum Einsatz kamen.**
 
 {% include gallery id="gallery_auswertung01" caption="Auswertung der Aufzeichnungen und Mitschriften" %}
 
@@ -95,13 +95,13 @@ Um die einzelnen Notizzettel in Beziehung zueinanderzusetzen habe ich noch Pfeil
 
 {% include gallery id="gallery_auswertung02" caption="Detailansichten der Auswertung und Ergebnis des Scorings" %}
 
-Im Wesentlichen konnte durch den Usability Test gezeigt werden, dass es den TesterInnen zwar weitestgehend möglich war erfolgreich mit der Webseite zu interagieren und zum Ziel zu gelangen, dennoch gab es einige Hürden, Probleme und Unklarheiten für die TesterInnen, die im **Report** aufbereitet wurden.
+Im Wesentlichen konnte durch den Usability Test gezeigt werden, dass es den TesterInnen zwar zum größten Teil möglich war erfolgreich mit der Webseite zu interagieren. Dennoch gab es einige Hürden, Probleme und Unklarheiten für die TesterInnen, die im **Ergebnis zu einer verbesserungswürdigen User Experience** führten. 
 
 **Reflektion:** ZZ
 {: .notice--primary}
 
 ## Report
-Text
+Im **Report** wurden die **Ergebnisse des Usability Tests** aufbereitet und **Empfehlungen zur Optimierung des Onlineshops** formuliert.
 
 {% include gallery id="gallery_auswertung03" caption="Auszüge aus dem Report des Usability Tests" %}
 
