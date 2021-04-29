@@ -106,11 +106,11 @@ Um die einzelnen Notizzettel in Beziehung zueinanderzusetzen habe ich noch Pfeil
 
 Im Wesentlichen konnte durch den Usability Test gezeigt werden, dass es den TesterInnen zwar zum größten Teil möglich war erfolgreich mit der Webseite zu interagieren. Dennoch gab es einige Hürden, Probleme und Unklarheiten für die TesterInnen, die im **Ergebnis eine verbesserungswürdige User Experience** ergaben. 
 
-**Reflektion:** ZZ
+**Reflektion:** **Zwei Tabellen** zu nutzen mit detaillierteren Notizen und einer Gesamteinschätzung zur Aufgabe je Testperson war für mich **sehr hilfreich** für die Analyse und das Verständnis der Probleme, die bei der Interaktion zwischen Webshop und User:in entstehen. Die ausführerlichere Tabelle war jedoch recht **zeitaufwändig** und es wäre zu überlegen, inwieweit diese Methode beim nächsten Usability Test effizienter genutzt werden kann.
 {: .notice--primary}
 
 ## Report
-Im **Report** wurden die **Ergebnisse des Usability Tests** aufbereitet und **Empfehlungen zur Optimierung des Onlineshops** formuliert. 
+Im **Report** wurden die **Ergebnisse des Usability Tests** aufbereitet und **Empfehlungen zur Optimierung des Onlineshops** formuliert. Der Bericht umfasst in **ZZ Seiten** und wurde dem Betreiber des Webshops nach der Fertigstellung zur Verfügung gestellt.
 
 {% include gallery id="gallery_auswertung03" caption="Auszüge aus dem Report des Usability Tests" %}
 
