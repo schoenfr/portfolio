@@ -128,11 +128,11 @@ Der Report setzte sich aus folgenden **Kapiteln** zusammen:
 * **Empfehlungen:** In den Empfehlungen wurden sich darauf fokussiert Denkanstöße für die Änderung der Gestaltung der Webseite zu geben. Es ging mir nicht darum ein komplett neues Konzept der Webseite zu erarbeiten, hierfür hätten auch die Daten des Usability Tests nicht ausgereicht, sondern **mögliche Lösungsansätze** für die im vorherigen Kapitel aufgezeigten Schwachstellen des Konzepts aufzuzeigen, die zu einer Verbesserung der User Experience beitragen könnten.
 * **Fazit:** Im Fazit habe ich eine Bilanz zum Usability Test formuliert, eine Einschätzung zum Umgang mit den Ergebnissen des Usability Tests für den Webshop-Betreiber getroffen und mögliche nächste Schritte aufgezeigt, die im Anschluss an den Test sinnvoll erscheinen.
 
-{% include gallery id="gallery_auswertung04" caption="Auszüge aus dem Kapitel zu den Ergebnissen" %}
-
 ### Ergebnisse
 
 Die **Ergebnisse** habe ich mit einem **Überblick zu den Erfolgsraten** des Usability Tests eingeleitet. Eine Tabelle zeigte, ob eine Aufgabe erfolgreich bearbeitet werden konnte oder nicht. **Dadurch wollte ich zeigen, dass die Mehrzahl der Interaktionen zwischen Userin und Webseite im Test funktionierten.** Von dieser Feststellung ausgehend wollte ich dann dazu überzuleiten, dass bei einer ganaueren Betrachtung des Vorgehens beim Lösen der Aufgaben Probleme für die einzelnen TesterInnen auftraten, die durch bestimmte strukturelle und gestalterische Gegebenheiten der Webseite verursacht werden. Dem Empfänger des Reports sollte an dieser Stelle verdeutlicht werden, dass das Ergebenis des Usability Tests nicht war, das der Webshop nicht funktionieren würde. Ein Eindruck, von dem ich befürchtete, er könnte sonst durch die nachfolgenden Seiten geweckt werden.
+
+{% include gallery id="gallery_auswertung04" caption="Auszüge aus dem Kapitel zu den Ergebnissen" %}
 
 In **vier Unterkapiteln** habe ich dann die **Ergebnisse der Auswertung im Detail** vorgestellt:
 
@@ -146,6 +146,8 @@ In **vier Unterkapiteln** habe ich dann die **Ergebnisse der Auswertung im Detai
 ### Empfehlungen
 
 Auf Basis der Ergebnisse der Auswertung des Usability Tests habe ich im nachfolgenden Kapitel **Empfehlungen** formuliert, die als **Ausgangspunkte zu einer Verbesserung der User Experience des Webshops** gesehen werden sollten. In erster Linie wollte ich zu den Schwachstellen und Problemen, die der Webshop hat, **erste Schritte zur Lösung und Anregungen** bieten. Sollte eine kompletter Relaunch der Webseite mit neuem Konzept in Zukunft geplant sein, sollte dies nicht allein auf Basis des Usability Tests geschehen, sondern mit einem nutzerorientierten Design-Ansatz, wie ihn zum Beispiel Design Thinking bietet.
+
+{% include gallery id="gallery_empfehlung01" caption="Auszüge aus dem Kapitel zu den Empfehlungen" %}
 
 Das Kapitel zu den **Empfehlungen** habe ich in zwei **Unterkapitel** aufgeteilt. Im **ersten Unterkapitel** habe ich Vorschläge zur **Information Architecture des Onlineshops** gemacht und diese mit einer **Sitemap** visualisiert:
 
