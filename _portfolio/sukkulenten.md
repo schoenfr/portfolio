@@ -146,7 +146,7 @@ Das Kapitel zu den **Empfehlungen** habe ich in zwei **Unterkapitel** aufgeteilt
 
 * **Inhalte der Startseite reduzieren:** Die UserInnen haben sich mit den Inhalten der Startseite kaum beschäftigt und bevorzugt die Navigation benutzt, um zum Ziel zu gelangen. Da die verschienen Kategorien, die separat nochmal auf der Startseite präsentiert werden, erst durch Runterscrollen zu sehen sind und dadurch leicht übersehen werden, sollte der Text der Startseite auf das Wesentliche reduziert werden.
 * **Ein Menü statt zwei Menüs:** Statt zwei Menüs zu haben, habe ich ich eine **fixierte Navigation im Header-Bereich** vorgeschlagen. Die TesterInnen haben zwar primär das linke Menü genutzt. Dieses war aber auch im Vergleich zum oberen Menü auch in den meisten Fällen immer zum Teil sichtbar, auch wenn die Testerin auf der Suche nach Sukkulenten weit nach unten scrollte. Eine fixierte Navigation wäre immer sichtbar. Kategorien die im linken Menü auftauchen könnten dann angezeigt werden, wenn man den Mauszeiger auf diese Kategorie stellt, ohne diese anklicken zu müssen.
-* 
+* **Flexible Filterfunktion anstelle von statischen Kategorien:** Bisher zeichnet der Webshop sich durch statische Unterkategorien und fehlende Filtermöglichkeiten aus. Eine Sortierfunktion in Form eines Drop Down Menü ist zwar vorhanden, hilft jedoch nur rudimentär bei der individuellen Auswahl von Produkten.  
 
 {% include gallery id="gallery_empfehlung02" caption="Auszüge aus dem Report des Usability Tests" %}
 
