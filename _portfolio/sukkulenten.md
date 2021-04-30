@@ -112,6 +112,9 @@ Im Wesentlichen konnte durch den Usability Test gezeigt werden, dass es den Test
 ## Report
 Im **Report** wurden die **Ergebnisse des Usability Tests** aufbereitet und **Empfehlungen zur Optimierung des Onlineshops** formuliert. Der Bericht umfasst in **ZZ Seiten** und wurde dem Betreiber des Webshops nach der Fertigstellung zur Verfügung gestellt.
 
+**Tools:** Bei der Erstellung des Reports habe ich verschiedene Tools genutzt, um meine Ideen zu veranschaulichen. Der Report mit den Tabellen und Diagrammen wurde in **Word** verfasst. Die Sitemap habe ich in **Figma** mit dem [**Sitemap Generator**](https://www.figma.com/templates/sitemap-generator/) erstellt. Für die Auswahl der passenden Farben wurde die Webseite [**ColorSpace**](https://mycolor.space/?hex=%2326A719&sub=1) genutzt. Die Farbvorschläge wurden in einer angepassten Bildvorlage von **Canva** präsentiert.
+{: .notice--primary}
+
 {% include gallery id="gallery_auswertung03" caption="Titelblatt und Auszug aus dem dritten Kapitel" %}
 
 Der Report setzte sich aus folgenden **Kapiteln** zusammen:
@@ -141,7 +144,7 @@ Auf Basis der Ergebnisse der Auswertung des Usability Tests habe ich im nachfolg
 
 Das Kapitel zu den **Empfehlungen** habe ich in zwei **Unterkapitel** aufgeteilt. Im **ersten Unterkapitel** habe ich Vorschläge zur **Information Architecture des Onlineshops** gemacht:
 
-* mm
+* **Inhalte der Startseite reduzieren:** Die UserInnen haben sich mit den Inhalten der Startseite kaum beschäftigt und bevorzugt die Navigation benutzt, um zum Ziel zu gelangen. Da die verschienen Kategorien, die separat nochmal auf der Startseite präsentiert werden, erst durch Runterscrollen zu sehen sind und dadurch leicht übersehen werden, sollte der Text der Startseite auf das Wesentliche reduziert werden.
 * mm
 * mm
 
@@ -149,8 +152,8 @@ Das Kapitel zu den **Empfehlungen** habe ich in zwei **Unterkapitel** aufgeteilt
 
 Im **zweiten Unterkapitel** ging es um **einzelne Funktionen und Details** der Webseite:
 
-* mm
-* mm
+* **Schlagwörter** wurden von den UserInnen **fast gar nicht genutzt** und führten durch ihre teils verwirrende Aufteilung zu einer eingeschärnkten Auswahl des Sortiments. Durch eine verbesserte Filterfunktion des Bestandes erscheinen Schlagwörter grundsätzlich **nicht** mehr nötig.
+* Die Farbgestaltung der Webseite wurde von einigen UserInnen als "sehr grün" im Verlauf des Usability Tests oder in den abshcließneden Fragen beschrieben. Die Testfarben rot, orange, blau und grün haben insgesamt kein harmonisches Bild für die TesterInnen geschaffen. Hier könnte man die Farbgestaltung überdenken. Einige Beispiele, welche Farben - basierend auf der grünen Farbe des Logos - für ein neues Farbdesign passend erscheinen, wurden mit eingefügt. 
 * mm
 * mm
 
