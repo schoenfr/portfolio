@@ -44,6 +44,7 @@ gallery_auswertung04:
     image_path: assets/images/utauswertung05.png
     alt: "Seite 7: Beispiel für Darstellung der Ergebnisse der Analyse einer Aufgabe"
     title: "Seite 7: Beispiel für Darstellung der Ergebnisse der Analyse einer Aufgabe"
+gallery_auswertung05:
   - url: /assets/images/utauswertung06.png
     image_path: assets/images/utauswertung06.png
     alt: "Seite 16: Navigation mit zwei Menüs und Seite 22: Ergebnisse der Analyse von Aufgabe 8"
@@ -129,6 +130,8 @@ Der Report setzte sich aus folgenden **Kapiteln** zusammen:
 
 {% include gallery id="gallery_auswertung04" caption="Auszüge aus dem Kapitel zu den Ergebnissen" %}
 
+### Ergebnisse
+
 Die **Ergebnisse** habe ich mit einem **Überblick zu den Erfolgsraten** des Usability Tests eingeleitet. Eine Tabelle zeigte, ob eine Aufgabe erfolgreich bearbeitet werden konnte oder nicht. **Dadurch wollte ich zeigen, dass die Mehrzahl der Interaktionen zwischen Userin und Webseite im Test funktionierten.** Von dieser Feststellung ausgehend wollte ich dann dazu überzuleiten, dass bei einer ganaueren Betrachtung des Vorgehens beim Lösen der Aufgaben Probleme für die einzelnen TesterInnen auftraten, die durch bestimmte strukturelle und gestalterische Gegebenheiten der Webseite verursacht werden. Dem Empfänger des Reports sollte an dieser Stelle verdeutlicht werden, dass das Ergebenis des Usability Tests nicht war, das der Webshop nicht funktionieren würde. Ein Eindruck, von dem ich befürchtete, er könnte sonst durch die nachfolgenden Seiten geweckt werden.
 
 In **vier Unterkapiteln** habe ich dann die **Ergebnisse der Auswertung im Detail** vorgestellt:
@@ -138,7 +141,9 @@ In **vier Unterkapiteln** habe ich dann die **Ergebnisse der Auswertung im Detai
 * **Aufgaben zu speziellen Angeboten der Webseite:** Bei der Ausarbeitung der Testszenarien sind mir eine Funktion und eine Dienstleistung des Webshops aufgefallen, die kaum sichtbar für Nutzer:innen angeboten wurden. Bei der Funktion handelte es sich um die Möglichkeit des **Produktvergleichs**, mit der Pflanzen aus verschiedenen Pflanzenkategorien miteinander verglichen werden konnten, um zu entscheiden, welche zum Warenkorb hinzugefügt werden sollte. Dies war sonst nur durch die Kurzübersicht der Artikel im Warenkorb möglich oder durch den behelfsmäßigen Vergleich von Einzelproduktansichten über mehrere Browser-Fenster. Außerdem bot der Webshop als besondere Dienstleistung an **Sukkulenten für seine Kund:innen zu bestimmen**. Dieses Angebot befand sich in der Kategorie Dienstleistung am Ende einer Aufzählung der anderen Dienstleistungen der Gärtnerei und eines Videos hierzu. Die TesterInnen mussten also scrollen, um dieses Angebot zu finden. **Wie die Auswertung des Usability Tests zeigte fanden nur 3 von 8 UserInnen die Vergleichsfunktion und die Dienstleistung.** Während die Vergleichsfunktion von diesen drei TesterInnen jedoch im ersten Anlauf gefunden wurde, fanden diese das Angebot zur **Bestimmung von Sukkulenten eher aus Zufall** nach 3 oder 4 Versuchen.
 * **Aufgaben zu weiteren kaufrelevanten Informationen:** Im Rahmen der Auswahl und der Entscheidung eines Kaufs von Sukkulenten spielt neben den Pflanzen selbst auch der Versand eine Rolle und der Bestellprozess im Allgemeinen. Da der Schwerpunkt auf der Information und Auswahl von Pflanzen lag, wurde für den Usability Tests der Bestellprozess selbst ausgeklammert, aber die TesterInnen sollten die **Versandkosten** für ihre Bestellung herausfinden und sich Informationen zu einem **Kundenkonto** einholen. Diese Aufgaben waren für die TesterInnen fast ausnahmslos **schnell** zu lösen, da sich Icons für den Warenkorb und das Kundenkonto rechts oben auf Webseite befanden, was den Gewohnheiten der UserInnen im Umgang mit anderen Webseiten entsprach und somit für sie intuitiv zu finden war. **Die Informationen zu den Versandkosten waren jedoch für sie zum Teil unverständlich und auch die Anreize zum Anlegen eines Kundenkontos konnte sie nicht überzeugen.**
 
-{% include gallery id="gallery_empfehlung01" caption="Auszüge aus dem Kapitel zu den Empfehlungen" %}
+{% include gallery id="gallery_auswertung05" caption="Auszüge aus dem Kapitel zu den Ergebnissen" %}
+
+### Empfehlungen
 
 Auf Basis der Ergebnisse der Auswertung des Usability Tests habe ich im nachfolgenden Kapitel **Empfehlungen** formuliert, die als **Ausgangspunkte zu einer Verbesserung der User Experience des Webshops** gesehen werden sollten. In erster Linie wollte ich zu den Schwachstellen und Problemen, die der Webshop hat, **erste Schritte zur Lösung und Anregungen** bieten. Sollte eine kompletter Relaunch der Webseite mit neuem Konzept in Zukunft geplant sein, sollte dies nicht allein auf Basis des Usability Tests geschehen, sondern mit einem nutzerorientierten Design-Ansatz, wie ihn zum Beispiel Design Thinking bietet.
 
@@ -146,9 +151,9 @@ Das Kapitel zu den **Empfehlungen** habe ich in zwei **Unterkapitel** aufgeteilt
 
 * **Inhalte der Startseite reduzieren:** Die UserInnen haben sich mit den Inhalten der Startseite kaum beschäftigt und bevorzugt die Navigation benutzt, um zum Ziel zu gelangen. Da die verschienen Kategorien, die separat nochmal auf der Startseite präsentiert werden, erst durch Runterscrollen zu sehen sind und dadurch leicht übersehen werden, sollte der Text der Startseite auf das Wesentliche reduziert werden.
 * **Ein Menü statt zwei Menüs:** Statt zwei Menüs zu haben, habe ich ich eine **fixierte Navigation im Header-Bereich** vorgeschlagen. Die TesterInnen haben zwar primär das linke Menü genutzt. Dieses war aber auch im Vergleich zum oberen Menü auch in den meisten Fällen immer zum Teil sichtbar, auch wenn die Testerin auf der Suche nach Sukkulenten weit nach unten scrollte. Eine fixierte Navigation wäre immer sichtbar. Kategorien die im linken Menü auftauchen könnten dann angezeigt werden, wenn man den Mauszeiger auf diese Kategorie stellt, ohne diese anklicken zu müssen.
-* **Flexible Filterfunktion anstelle von statischen Kategorien:** Bisher zeichnet der Webshop sich durch statische Unterkategorien und fehlende Filtermöglichkeiten aus. Eine Sortierfunktion in Form eines Drop Down Menü ist zwar vorhanden, hilft jedoch nur rudimentär bei der individuellen Auswahl von Produkten.  
+* **Flexible Filterfunktion anstelle von statischen Kategorien:** Bisher zeichnete sich der Webshop durch statische Unterkategorien und fehlende Filtermöglichkeiten aus. Eine Sortierfunktion in Form eines Drop Down Menü ist zwar vorhanden, hilft jedoch nur rudimentär bei der individuellen Auswahl von Produkten. **Es wird daher empfohlen die Produktauswahl durch individuelle Filtermöglichkeiten, wie zum Beispiel Pflanzenart, Überwinterung, Durchmesser, Standort, Größe, Preis oder Pflegeaufwand flexibler zu gestalten.** Um die geeigneten Filter für den Webshop herauszufinden wurde außerdem **User Research** empfohlen.
 
-{% include gallery id="gallery_empfehlung02" caption="Auszüge aus dem Report des Usability Tests" %}
+{% include gallery id="gallery_empfehlung01" caption="Auszüge aus dem Kapitel zu den Empfehlungen" %}
 
 Im **zweiten Unterkapitel** ging es um **einzelne Funktionen und Details** der Webseite:
 
@@ -157,12 +162,15 @@ Im **zweiten Unterkapitel** ging es um **einzelne Funktionen und Details** der W
 * mm
 * mm
 
+{% include gallery id="gallery_empfehlung02" caption="Auszüge aus dem Report des Usability Tests" %}
+
+### Fazit
 Im Fazit habe ich 
 
 **Reflektion:** ZZ
 {: .notice--primary}
 
-## Fazit
+## Schluss
 Text
 
 **Reflektion:** ZZ
