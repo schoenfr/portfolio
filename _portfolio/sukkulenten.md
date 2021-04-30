@@ -116,8 +116,6 @@ Im **Report** wurden die **Ergebnisse des Usability Tests** aufbereitet und **Em
 **Tools:** Bei der Erstellung des Reports habe ich verschiedene Tools genutzt, um die Ergebnisse und meine Empfehlungen zu veranschaulichen. Der Report mit den Tabellen und Diagrammen wurde in **Word** verfasst. Die Sitemap habe ich in **Figma** mit dem [**Sitemap Generator**](https://www.figma.com/templates/sitemap-generator/) erstellt. Für die Auswahl der passenden Farben wurde die Webseite [**ColorSpace**](https://mycolor.space/?hex=%2326A719&sub=1) genutzt. Die Farbvorschläge wurden in einer angepassten Bildvorlage von **Canva** präsentiert.
 {: .notice--primary}
 
-{% include gallery id="gallery_auswertung03" caption="Titelblatt und Auszug aus dem dritten Kapitel" %}
-
 Der Report setzte sich aus folgenden **Kapiteln** zusammen:
 
 * **Einleitung:** Hier habe ich den Kontext, in dem der Usability Test stattfand, den Schwerpunkt und die Ziele des Tests erläutert.
@@ -127,6 +125,8 @@ Der Report setzte sich aus folgenden **Kapiteln** zusammen:
 * **Ergebnisse:** Die Auswertung zu den einzelnen Aufgaben, aber auch zu aufgabenübergreifenden Erkenntnissen wurden in diesem Kapitel vorgestellt. 
 * **Empfehlungen:** In den Empfehlungen wurden sich darauf fokussiert Denkanstöße für die Änderung der Gestaltung der Webseite zu geben. Es ging mir nicht darum ein komplett neues Konzept der Webseite zu erarbeiten, hierfür hätten auch die Daten des Usability Tests nicht ausgereicht, sondern **mögliche Lösungsansätze** für die im vorherigen Kapitel aufgezeigten Schwachstellen des Konzepts aufzuzeigen, die zu einer Verbesserung der User Experience beitragen könnten.
 * **Fazit:** Im Fazit habe ich eine Bilanz zum Usability Test formuliert, eine Einschätzung zum Umgang mit den Ergebnissen des Usability Tests für den Webshop-Betreiber getroffen und mögliche nächste Schritte aufgezeigt, die im Anschluss an den Test sinnvoll erscheinen.
+
+{% include gallery id="gallery_auswertung03" caption="Titelblatt und Auszug aus dem dritten Kapitel" %}
 
 ### Ergebnisse
 
