@@ -33,26 +33,26 @@ gallery_auswertung02:
 gallery_auswertung03:
   - url: /assets/images/utauswertung03.png
     image_path: assets/images/utauswertung03.png
-    alt: "Auszüge aus dem Report des Usability Tests"
-    title: "Auszüge aus dem Report des Usability Tests"
+    alt: "Titelblatt und Beispiel-Seite des Berichts"
+    title: "Titelblatt und Beispiel-Seite des Berichts"
 gallery_auswertung04:
   - url: /assets/images/utauswertung04.png
     image_path: assets/images/utauswertung04.png
-    alt: "Auszüge aus dem Report des Usability Tests"
-    title: "Auszüge aus dem Report des Usability Tests"
+    alt: "Seite 4: Kapitel 4 und Anfang von Kapitel 5 Detailansicht der Tabelle mit Übersicht der Erfolgsraten bei der Bearbeitung der Aufgaben"
+    title: "Seite 4: Kapitel 4 und Anfang von Kapitel 5 mit Detailansicht der Tabelle mit Übersicht der Erfolgsraten bei der Bearbeitung der Aufgaben"
   - url: /assets/images/utauswertung05.png
     image_path: assets/images/utauswertung05.png
-    alt: "Auszüge aus dem Report des Usability Tests"
-    title: "Auszüge aus dem Report des Usability Tests"
+    alt: "Seite 7: Beispiel für Darstellung der Ergebnisse der Analyse einer Aufgabe"
+    title: "Seite 7: Beispiel für Darstellung der Ergebnisse der Analyse einer Aufgabe"
   - url: /assets/images/utauswertung06.png
     image_path: assets/images/utauswertung06.png
-    alt: "Auszüge aus dem Report des Usability Tests"
-    title: "Auszüge aus dem Report des Usability Tests"
+    alt: "Seite 16: Navigation mit zwei Menüs und Seite 22: Ergebnisse der Analyse von Aufgabe 8"
+    title: "Seite 16: Navigation mit zwei Menüs und Seite 22: Ergebnisse der Analyse von Aufgabe 8"
 gallery_empfehlung01:
   - url: /assets/images/utempfehlung01.png
     image_path: assets/images/utempfehlung01.png
-    alt: "Sitemap des Webshops mit Fokus auf die Kategorie Pflanzenprodukte"
-    title: "Sitemap des Webshops mit Fokus auf die Kategorie Pflanzenprodukte"
+    alt: "Sitemap des Webshops mit neuer Struktur für Webshop und im Detail für die Kategorie Pflanzen"
+    title: "Sitemap des Webshops mit neuer Struktur für Webshop und im Detail für die Kategorie Pflanzen"
   - url: /assets/images/utempfehlung02.png
     image_path: assets/images/utempfehlung02.png
     alt: "Details der Sitemap"
@@ -60,8 +60,8 @@ gallery_empfehlung01:
 gallery_empfehlung02:
   - url: /assets/images/utempfehlung03.png
     image_path: assets/images/utempfehlung03.png
-    alt: "Vorschläge für neue Farbgestaltung"
-    title: "Vorschläge für neue Farbgestaltung"
+    alt: "Beispiele für eine Erweiterung der Farbgestaltung"
+    title: "Beispiele für eine Erweiterung der Farbgestaltung"
 header:
   image: /assets/images/sukkulententitelbild.jpg
   teaser: /assets/images/utteaser.jpg
@@ -112,7 +112,7 @@ Im Wesentlichen konnte durch den Usability Test gezeigt werden, dass es den Test
 ## Report
 Im **Report** wurden die **Ergebnisse des Usability Tests** aufbereitet und **Empfehlungen zur Optimierung des Onlineshops** formuliert. Der Bericht umfasst in **ZZ Seiten** und wurde dem Betreiber des Webshops nach der Fertigstellung zur Verfügung gestellt.
 
-{% include gallery id="gallery_auswertung03" caption="Auszüge aus dem Report des Usability Tests" %}
+{% include gallery id="gallery_auswertung03" caption="Titelblatt und Auszug aus dem dritten Kapitel" %}
 
 Der Report setzte sich aus folgenden **Kapiteln** zusammen:
 
@@ -124,7 +124,7 @@ Der Report setzte sich aus folgenden **Kapiteln** zusammen:
 * **Empfehlungen:** In den Empfehlungen wurden sich darauf fokussiert Denkanstöße für die Änderung der Gestaltung der Webseite zu geben. Es ging mir nicht darum ein komplett neues Konzept der Webseite zu erarbeiten, hierfür hätten auch die Daten des Usability Tests nicht ausgereicht, sondern **mögliche Lösungsansätze** für die im vorherigen Kapitel aufgezeigten Schwachstellen des Konzepts aufzuzeigen, die zu einer Verbesserung der User Experience beitragen könnten.
 * **Fazit:** Im Fazit habe ich eine Bilanz zum Usability Test formuliert, eine Einschätzung zum Umgang mit den Ergebnissen des Usability Tests für den Webshop-Betreiber getroffen und mögliche nächste Schritte aufgezeigt, die im Anschluss an den Test sinnvoll erscheinen.
 
-{% include gallery id="gallery_auswertung04" caption="Auszüge aus dem Report des Usability Tests" %}
+{% include gallery id="gallery_auswertung04" caption="Auszüge aus dem Kapitel zu den Ergebnissen" %}
 
 Die **Ergebnisse** habe ich mit einem **Überblick zu den Erfolgsraten** des Usability Tests eingeleitet. Eine Tabelle zeigte, ob eine Aufgabe erfolgreich bearbeitet werden konnte oder nicht. **Dadurch wollte ich zeigen, dass die Mehrzahl der Interaktionen zwischen Userin und Webseite im Test funktionierten.** Von dieser Feststellung ausgehend wollte ich dann dazu überzuleiten, dass bei einer ganaueren Betrachtung des Vorgehens beim Lösen der Aufgaben Probleme für die einzelnen TesterInnen auftraten, die durch bestimmte strukturelle und gestalterische Gegebenheiten der Webseite verursacht werden. Dem Empfänger des Reports sollte an dieser Stelle verdeutlicht werden, dass das Ergebenis des Usability Tests nicht war, das der Webshop nicht funktionieren würde. Ein Eindruck, von dem ich befürchtete, er könnte sonst durch die nachfolgenden Seiten geweckt werden.
 
@@ -135,7 +135,7 @@ In **vier Unterkapiteln** habe ich dann die **Ergebnisse der Auswertung im Detai
 * **Aufgaben zu speziellen Angeboten der Webseite:** 
 * **Aufgaben zu weiteren kaufrelevanten Informationen:** 
 
-{% include gallery id="gallery_empfehlung01" caption="Auszüge aus dem Report des Usability Tests" %}
+{% include gallery id="gallery_empfehlung01" caption="Auszüge aus dem Kapitel zu den Empfehlungen" %}
 
 Text
 
