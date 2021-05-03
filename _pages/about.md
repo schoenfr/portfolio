@@ -32,11 +32,11 @@ gallery_ixdf:
   </figure> 
 
 ### Ich bin Quereinsteigerin.
-**Zum ersten Mal mit UX Design in Berührung gekommen** bin ich im Sommer 2019 als ich gemeinsam mit einer Freundin über ein Konzept für ihre App nachdachte und wir darüber diskutierten, wie Nutzer:innen möglichst intuitiv durch diese geführt werden und wie die einzelnen Screens hierfür gestaltet sein müssten. Zu dieser Zeit schrieb ich noch an meiner **Dissertation im Fach Kunstgeschichte**, begann dadurch aber damit in meiner Freizeit mehr über User Experience zu lesen. Die Interaktion zwischen Produkt und User:in in den Blick zu nehmen, ein Verständnis für die Bedürfnisse der Nutzer:innen zu entwickeln und durch einen nutzerorientierten Ansatz eine positive User Experience von IT-Produkten zu gestalten finde ich an dem Thema besonders spannend.
+**Zum ersten Mal mit UX Design in Berührung gekommen** bin ich im Sommer 2019 als ich gemeinsam mit einer Freundin über ein Konzept für ihre App nachdachte und wir darüber diskutierten, wie Nutzer:innen möglichst intuitiv durch diese geführt werden und wie die einzelnen Screens hierfür gestaltet sein müssten. Zu dieser Zeit schrieb ich noch an meiner **Dissertation im Fach Kunstgeschichte**, begann dadurch aber damit in meiner Freizeit mehr über User Experience zu lesen. Die Interaktion zwischen Produkt und User:in in den Blick zu nehmen, ein Verständnis für die Bedürfnisse der Nutzer:innen zu entwickeln und durch einen nutzerorientierten Ansatz eine positive User Experience von IT-Produkten zu gestalten finde ich sehr spannend.
 
-Im **November 2020** habe ich meine **Dissertation an der Universität Hamburg eingereicht** und entschied mich dann endgültig für den Quereinstieg ins UX Design. Die Entscheidung fiel mir leicht, weil für mich bereits früh feststand, dass ich keine wissenschaftliche Karriere anstrebe. Promoviert habe ich in erster Linie aus zwei Gründen: Erstens sah ich dies als eine persönliche Herausforderung an, die ich annehmen wollte. Zweitens ist eine abgeschlossene Promotion noch für viele kunsthistorische Berufsfelder - auch abseits der wissenschaftlichen Karriere - sowohl Einstiegs- als auch Aufstiegsvoraussetzung. Meine Promotionszeit wollte ich deswegen auch dazu nutzen, um meinen weiteren beruflichen Werdegang zu planen. **Ein Quereinstieg kam für mich dabei von Anfang an in Frage.** 
+Im **November 2020** habe ich meine **Dissertation an der Universität Hamburg eingereicht** und entschied mich dann endgültig für den Quereinstieg ins UX Design. Diese Entscheidung fiel mir leicht, weil für mich bereits früh feststand, dass ich keine wissenschaftliche Karriere anstrebe. Eine abgeschlossene Promotion ist allerdings für viele kunsthistorische Berufsfelder - auch abseits der wissenschaftlichen Karriere - sowohl Einstiegs- als auch Aufstiegsvoraussetzung, weswegen ich mich für eine Promotion entschied. Meine Promotionszeit wollte ich daher auch dazu nutzen, um meinen weiteren beruflichen Werdegang zu planen. **Ein Quereinstieg kam für mich dabei von Anfang an in Frage.** 
 
-Seit **Dezember 2020** eigne ich mir durch verschiedene Weiterbildungsangebote erste Kenntnisse für den Bereich UX Design an. Bisher habe ich hierfür vor allem Kurse von der [**Interaction Design Foundation**](https://www.interaction-design.org/) gemacht und im Rahmen von zwei Kursen meine [**ersten Projekte**](https://mbosselmann.github.io/portfolio/projects/) umgesetzt. Nun suche ich nach einer **Einstiegsmöglichkeit**, um als UX Designerin zu arbeiten, um praktische Erfahrungen zu sammeln, um meine bisherigen Kenntnisse zu vertiefen und um neue Kompetenzen zu erlernen.
+Seit **Dezember 2020** eigne ich mir durch verschiedene Weiterbildungsangebote erste Kenntnisse für den Bereich UX Design an. Bisher habe ich hierfür vor allem Kurse von der [**Interaction Design Foundation**](https://www.interaction-design.org/) gemacht und darüber im Rahmen von zwei Kursen meine [**ersten Projekte**](https://mbosselmann.github.io/portfolio/projects/) umgesetzt. Nun suche ich nach einer **Einstiegsmöglichkeit**, um als UX Designerin zu arbeiten, um praktische Erfahrungen zu sammeln, um meine bisherigen Kenntnisse zu vertiefen und um neue Kompetenzen zu erlernen.
 
 [Button für Lebenslauf]
 
@@ -45,12 +45,16 @@ Seit **Dezember 2020** eigne ich mir durch verschiedene Weiterbildungsangebote e
 ### Meine Kompetenzen
 
 **UX Design**
-Durch meine Fortbildungen habe ich bereits folgende Themenbereiche kennengelernt und durch meine Projekte praktische Erfahrungen sammeln können:
+Durch meine **Fortbildungen** habe ich bereits folgende Bereiche kennengelernt:
 
-* User Research
-* Design Thinking Ansatz
-* Prototyping
-* Usability Testing
+* Design Thinking, User-Centered Design, Lean Design 
+* User Research: User Interviews, Affinity Diagram, Empathy Maps, Personas
+* verschiedene Ideation-Methoden wie How Might We, POV, Bad Ideas oder Challenge Assumptions
+* Information Architecture und Storyboarding
+* Prototyping und Wireframing
+* Usability Testing: Testpläne, Testszenarios, Report
+
+Im Rahmen der Erstellung und Gestaltung meines **Portfolios** über Github habe ich mich mit **HTML und CSS** näher auseinandergesetzt, um das gewählte Theme anpassen zu können.
 
 Durch meine **bisherige Arbeitserfahrung** habe ich mir außerdem einige Kompetenzen angeeignet, die ich hier kurz anführen möchte, um ein besseres Bild von mir zu vermitteln. Diese möchte ich hierfür in fachliche und persönliche Kompetenzen unterteilen.
 
