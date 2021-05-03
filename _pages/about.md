@@ -54,7 +54,7 @@ Durch meine **Fortbildungen** habe ich bereits folgende Bereiche kennengelernt:
 * Prototyping und Wireframing
 * Usability Testing: Testpläne, Testszenarios, Report
 
-Im Rahmen der Erstellung und Gestaltung meines **Portfolios** über Github habe ich mich mit **HTML und CSS** näher auseinandergesetzt, um das gewählte Theme anpassen zu können.
+Im Rahmen der Erstellung und Gestaltung meines **Portfolios** über Github habe ich begonnen mich mit **HTML und CSS** auseinanderzusetzen, um das gewählte Theme nach meinen Bedürfnissen anpassen zu können.
 
 Durch meine **bisherige Arbeitserfahrung** habe ich mir außerdem einige Kompetenzen angeeignet, die ich hier kurz anführen möchte, um ein besseres Bild von mir zu vermitteln. Diese möchte ich hierfür in fachliche und persönliche Kompetenzen unterteilen.
 
