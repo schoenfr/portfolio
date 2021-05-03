@@ -49,7 +49,7 @@ Durch meine **Fortbildungen** habe ich bereits folgende Bereiche kennengelernt:
 
 * Design Thinking, User-Centered Design, Lean Design 
 * User Research: User Interviews, Affinity Diagram, Empathy Maps, Personas
-* verschiedene Ideation-Methoden wie How Might We, POV, Bad Ideas oder Challenge Assumptions
+* Ideation-Methoden: How Might We, POV, Bad Ideas, Challenge Assumptions
 * Information Architecture und Storyboarding
 * Prototyping und Wireframing
 * Usability Testing: Testpläne, Testszenarios, Report
