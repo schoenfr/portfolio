@@ -115,7 +115,7 @@ Im Wesentlichen konnte durch den Usability Test gezeigt werden, dass es den Test
 {: .notice--primary}
 
 ## Report
-Im **Report** wurden die **Ergebnisse des Usability Tests** aufbereitet und **Empfehlungen zur Optimierung des Onlineshops** formuliert. Der Bericht umfasst in **ZZ Seiten** und wurde dem Betreiber des Webshops nach der Fertigstellung zur Verfügung gestellt.
+Im **Report** wurden die **Ergebnisse des Usability Tests** aufbereitet und **Empfehlungen zur Optimierung des Onlineshops** formuliert. Der Bericht umfasst insgesamt **36 Seiten**.
 
 **Tools:** Bei der Erstellung des Reports habe ich verschiedene Tools genutzt, um die Ergebnisse und meine Empfehlungen zu veranschaulichen. Der Report mit den Tabellen und Diagrammen wurde in **Word** verfasst. Die Sitemap habe ich in **Figma** mit dem [**Sitemap Generator**](https://www.figma.com/templates/sitemap-generator/) erstellt. Für die Auswahl der passenden Farben wurde die Webseite [**ColorSpace**](https://mycolor.space/?hex=%2326A719&sub=1) genutzt. Die Farbvorschläge wurden in einer angepassten Bildvorlage von **Canva** präsentiert.
 {: .notice--primary}
@@ -161,8 +161,8 @@ Das Kapitel zu den **Empfehlungen** habe ich in zwei **Unterkapitel** aufgeteilt
 Im **zweiten Unterkapitel** ging es um **einzelne Funktionen und um die Gestaltung** der Webseite:
 
 * **Ein Menü statt zwei Menüs:** Statt zwei Menüs zu haben, habe ich ich eine **fixierte Navigation im Header-Bereich** vorgeschlagen. Die TesterInnen haben zwar primär das linke Menü genutzt. Dieses war aber auch im Vergleich zum oberen Menü auch in den meisten Fällen immer zum Teil sichtbar. Eine fixierte Navigation wäre immer vollständig sichtbar.
-* **Eine statt zwei Suchfunktionen:** Die Existenz von zwei Suchfeldern hat die TesterInnen vor allem verwirrt. Am häufigsten wurde die **obere Suchfunktion** genutzt, weswegen ich vorschlug, das andere Suchfeld zu entfernen.
-* **Mehr Hinweise und Erklärungen:** Nicht alle Informationen zu den Produkten waren für die UserInnen verständlich, weil es sich hierbei um Fachtermini handelte, die sie nicht kannten. Eine **Erklärung zu den einzelnen Punkten** sollte daher ergänzt werden. Dies könnte man ähnlich gestalten wie bei den Informationen zur allgemeinen und speziellen Pflege der Pflanze, die in der Info-Box verlinkt werden. Dann könnten diese Erklärungen bei Bedarf von den User:innen abgerufen werden. 
+* **Eine statt zwei Suchfunktionen:** Die Existenz von zwei Suchfeldern hat die TesterInnen vor allem verwirrt. Am häufigsten wurde die **obere Suchfunktion** genutzt, weswegen ich vorschlug, das andere Suchfeld zu entfernen. Außerdem fehlen **Hilfestellungen bei der Suche**, wie alternative Bezeichnungen oder ein Ratgeber, wie die Suche am besten zu verwenden ist. Im alltag gebräuchliche Namen der Sukkulenten sollten ebenfalls suchbar gemacht werden, damit die Suche für die Nutzer:innen erfolgreicher wird.
+* **Mehr Hinweise und Erklärungen:** Nicht alle Informationen zu den Produkten waren für die UserInnen verständlich, weil es sich hierbei um Fachtermini handelte, die sie nicht kannten. Eine **Erklärung zu den einzelnen Punkten** sollte daher ergänzt werden. Dies könnte man ähnlich gestalten wie bei den Informationen zur allgemeinen und speziellen Pflege der Pflanze, die in der Info-Box verlinkt werden. Dann könnten diese Erklärungen bei Bedarf von den User:innen abgerufen werden. **Versteckte Funktionen** sollten außerdem sichtbar gemacht werden. Der **Prozess zum Bestimmen von Pflanzen** sollte durch User Research genauer analysiert und optimiert werden.
 * **Schlagwörter:** Schlagwörter wurden von den UserInnen **fast gar nicht genutzt.** Sie waren zudem nicht selbsterklärend.  Durch eine verbesserte Filterfunktion des Bestandes erscheinen Schlagwörter grundsätzlich **nicht** mehr nötig.
 * **Versandkostenberechnung versätndlicher gestalten:** Die Berechnung der Versandkosten war für die TesterInnen nicht intuitiv und verwirrend. Durch einen Hinweis und bessere Erklärungen sollte der Prozess angepasst werden. Überraschend für die UserInnen war auch, dass die **Versandkosten nach Gewicht** berechnet werden, obwohl in der Einzelansicht der Produkte dieses nicht ersichtlich ist, sondern erst im Warenkorb. Deswegen wurde empfohlen diese Information bei der Produktansicht zu ergänzen.
 * **Kundenkonto attraktiver bewerben:** Die Informationen zum Kundenkonto waren für die TesterInnen wenig verlockend. Es sollten daher **mehr Anreize geboten** werden. Die TesterInnen haben sich zum Beispiel für **spezielle Kunden-Angebote oder Newsletter** interessiert. Die **Wunschzettel-Funktion** sollte auch deutlicher als Feature für registrierte Kunden beworben werden.
@@ -170,11 +170,8 @@ Im **zweiten Unterkapitel** ging es um **einzelne Funktionen und um die Gestaltu
 
 {% include gallery id="gallery_empfehlung02" caption="Auszüge aus dem Report des Usability Tests" %}
 
-**Reflektion:** ZZ
-{: .notice--primary}
-
 ## Schluss
-Text
+Die Probleme und Schwachpunkte, die durch den Usability Test aufgezeigt wurden, lassen sich im wesentlichen auf fehlende Reaktionen und Hilfestellungen durch die Webseite zurückführen. Eine einfacherer Struktur, mehr Hinweise und Erklärungen sowie der Einsatz von nutzerorientierten Methoden werden zusammengefasst als probate Mittel für eine bessere User Experience angesehen.
 
-**Reflektion:** ZZ
+**Reflektion:** Durch dieses Praxis-Projekt habe ich viel über die **Planung und den Ablauf von Usability Tests** gelernt. Das **Formulieren von konkreten Empfehlungen** fiel mir schwerer, weil mir hier die **Praxiserfahrung** fehlt, um gut einschätzen zu können, welche Änderungen realisitisch und schnell machbar sind und welche dagegen längere Zeit benötigen. Hilfreich wäre es hierbei gewesen zu wissen, wie der **technische Hintergrund des Webshops und der Betrieb im Alltag der Gärtnereibetreiber** genau aussieht. Aspekte, die ich bei einem erneuten Usability Test stärker berücksichtigen würde und vom dem ich annehmen würde, dass sie meinem Team und mir bei einem vergleichbaren Projekt grundsätzlich stärker vertraut sind.
 {: .notice--primary}
