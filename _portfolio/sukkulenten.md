@@ -58,9 +58,18 @@ gallery_empfehlung01:
     image_path: assets/images/utempfehlung02.png
     alt: "Details der Sitemap"
     title: "Details der Sitemap"
-gallery_empfehlung02:
   - url: /assets/images/utempfehlung03.png
     image_path: assets/images/utempfehlung03.png
+    alt: "Beispiele für eine Erweiterung der Farbgestaltung"
+    title: "Beispiele für eine Erweiterung der Farbgestaltung"
+gallery_empfehlung02:
+  - url: /assets/images/utempfehlung04.png
+    image_path: assets/images/utempfehlung04.png
+    alt: "Beispiele für eine Erweiterung der Farbgestaltung"
+    title: "Beispiele für eine Erweiterung der Farbgestaltung"
+gallery_fazit:
+  - url: /assets/images/utempfehlung04.png
+    image_path: assets/images/utempfehlung04.png
     alt: "Beispiele für eine Erweiterung der Farbgestaltung"
     title: "Beispiele für eine Erweiterung der Farbgestaltung"
 header:
@@ -169,6 +178,8 @@ Im **zweiten Unterkapitel** ging es um **einzelne Funktionen und um die Gestaltu
 
 ### Fazit
 Im Fazit habe ich 
+
+{% include gallery id="gallery_fazit" caption="Auszüge aus dem Report des Usability Tests" %}
 
 **Reflektion:** ZZ
 {: .notice--primary}
