@@ -171,7 +171,7 @@ Im **zweiten Unterkapitel** ging es um **einzelne Funktionen und um die Gestaltu
 {% include gallery id="gallery_empfehlung02" caption="Auszüge aus dem Report des Usability Tests" %}
 
 ## Schluss
-Die Probleme und Schwachpunkte, die durch den Usability Test aufgezeigt wurden, lassen sich im wesentlichen auf fehlende Reaktionen und Hilfestellungen durch die Webseite zurückführen. Eine einfacherer Struktur, mehr Hinweise und Erklärungen sowie der Einsatz von nutzerorientierten Methoden werden zusammengefasst als probate Mittel für eine bessere User Experience angesehen.
+Die Probleme und Schwachpunkte, die durch den Usability Test aufgezeigt wurden, lassen sich im wesentlichen auf **fehlende Reaktionen und Hilfestellungen bei der Interaktion durch die Webseite** zurückführen. Eine **einfachere Struktur**, mehr **Hinweise und Erklärungen** sowie der Einsatz von **nutzerorientierten Methoden** werden als probate Mittel für einen **intuitiveren User Flow** und eine **bessere User Experience** angesehen.
 
 **Reflektion:** Durch dieses Praxis-Projekt habe ich viel über die **Planung und den Ablauf von Usability Tests** gelernt. Das **Formulieren von konkreten Empfehlungen** fiel mir schwerer, weil mir hier die **Praxiserfahrung** fehlt, um gut einschätzen zu können, welche Änderungen realisitisch und schnell machbar sind und welche dagegen längere Zeit benötigen. Hilfreich wäre es hierbei gewesen zu wissen, wie der **technische Hintergrund des Webshops und der Betrieb im Alltag der Gärtnereibetreiber** genau aussieht. Aspekte, die ich bei einem erneuten Usability Test stärker berücksichtigen würde und vom dem ich annehmen würde, dass sie meinem Team und mir bei einem vergleichbaren Projekt grundsätzlich stärker vertraut sind.
 {: .notice--primary}
