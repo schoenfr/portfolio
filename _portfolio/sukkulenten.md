@@ -67,11 +67,6 @@ gallery_empfehlung02:
     image_path: assets/images/utempfehlung04.png
     alt: "Beispiele für eine Erweiterung der Farbgestaltung"
     title: "Beispiele für eine Erweiterung der Farbgestaltung"
-gallery_fazit:
-  - url: /assets/images/utempfehlung04.png
-    image_path: assets/images/utempfehlung04.png
-    alt: "Beispiele für eine Erweiterung der Farbgestaltung"
-    title: "Beispiele für eine Erweiterung der Farbgestaltung"
 header:
   image: /assets/images/sukkulententitelbild.jpg
   teaser: /assets/images/utteaser.jpg
@@ -133,7 +128,7 @@ Der Report setzte sich aus folgenden **Kapiteln** zusammen:
 * **TeilnehmerInnen:** Die für den Usability Test relevanten Daten zur Testgruppe wurden in diesem Kapitel kurz zusammengefasst.
 * **Ergebnisse:** Die Auswertung zu den einzelnen Aufgaben, aber auch zu aufgabenübergreifenden Erkenntnissen wurden in diesem Kapitel vorgestellt. 
 * **Empfehlungen:** In den Empfehlungen wurden sich darauf fokussiert Denkanstöße für die Änderung der Gestaltung der Webseite zu geben. Es ging mir nicht darum ein komplett neues Konzept der Webseite zu erarbeiten, hierfür hätten auch die Daten des Usability Tests nicht ausgereicht, sondern **mögliche Lösungsansätze** für die im vorherigen Kapitel aufgezeigten Schwachstellen des Konzepts aufzuzeigen, die zu einer Verbesserung der User Experience beitragen könnten.
-* **Fazit:** Im Fazit habe ich eine Bilanz zum Usability Test formuliert, eine Einschätzung zum Umgang mit den Ergebnissen des Usability Tests für den Webshop-Betreiber getroffen und mögliche nächste Schritte aufgezeigt, die im Anschluss an den Test sinnvoll erscheinen.
+* **Fazit:** Im Fazit habe ich eine Bilanz zum Usability Test formuliert und die möglichen nächsten Schritte zusammengfasst, die sich durch die Ergebnisse und Empfehlungen ergaben.
 
 {% include gallery id="gallery_auswertung03" caption="Titelblatt und Auszug aus dem dritten Kapitel" %}
 
@@ -174,11 +169,6 @@ Im **zweiten Unterkapitel** ging es um **einzelne Funktionen und um die Gestaltu
 * **Weniger grün für eine bessere Nutzererfahrung:** Die **Farbgestaltung der Webseite** wurde von einigen UserInnen als "sehr grün" im Verlauf des Usability Tests oder in den abschließenden Fragen beschrieben. Hier könnte man die Farbgestaltung überdenken. Einige Beispiele, welche Farben - basierend auf der grünen Farbe des Logos - für ein neues Farbdesign passend erscheinen, wurden eingefügt. User Research und die Erarbeitung eines darauf basierenden Designkonzepts wurde empfohlen.
 
 {% include gallery id="gallery_empfehlung02" caption="Auszüge aus dem Report des Usability Tests" %}
-
-### Fazit
-Im Fazit habe ich 
-
-{% include gallery id="gallery_fazit" caption="Auszüge aus dem Report des Usability Tests" %}
 
 **Reflektion:** ZZ
 {: .notice--primary}
