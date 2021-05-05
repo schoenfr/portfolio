@@ -48,12 +48,12 @@ Seit **Dezember 2020** eigne ich mir durch verschiedene **Weiterbildungsangebote
 
 Durch meine **Fortbildungen** habe ich bereits folgende Bereiche kennengelernt:
 
-* Design Thinking, User-Centered Design, Lean Design 
-* User Research: User Interviews, Affinity Diagram, Empathy Maps, Personas
-* Ideation-Methoden: How Might We, POV, Bad Ideas, Challenge Assumptions
-* Information Architecture und Storyboarding
-* Prototyping und Wireframing
-* Usability Testing: Testpläne, Testszenarios, Report
+* **Design Thinking, User-Centered Design, Lean Design** 
+* **User Research:** User Interviews, Affinity Diagram, Empathy Maps, Personas
+* **Ideation-Methoden:** How Might We, POV, Bad Ideas, Challenge Assumptions
+* **Information Architecture** und **Storyboarding**
+* **Prototyping** und **Wireframing**
+* **Usability Testing:** Testpläne, Testszenarios, Testbericht
 
 Im Rahmen der Erstellung und Gestaltung meines **Portfolios** über Github habe ich begonnen mich mit **HTML und CSS** auseinanderzusetzen, um das gewählte Theme nach meinen Bedürfnissen anpassen zu können.
 
