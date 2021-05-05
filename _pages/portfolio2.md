@@ -6,7 +6,7 @@ feature_row:
   - image_path: /assets/images/fbteaser.jpg
     alt: "Fitness Booster"
     title: "Fitness Booster: Mehr Abwechslung beim Sport"
-    excerpt: "Umsetzung eines ersten Entwurfs einer Fitness App mit Fokus auf ein flexibles und vielseitiges Sportangebot."
+    excerpt: "Umsetzung eines ersten Entwurfs einer Fitness App mit Fokus auf ein flexibles und vielseitiges Sportangebot, das von Trainer:innen mit verschiedenen Trainingsschwerpunkten als Video-on-Demand und als Livestreaming bereitgestellt wird."
     url: "/fitnessbooster/"
     btn_label: "Zum Projekt"
     btn_class: "btn--primary"
