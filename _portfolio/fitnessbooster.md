@@ -189,10 +189,21 @@ Bei der **Gestaltung des Prototypen** wurde der **Fokus auf die Strukturierung d
 {: .notice--primary}
 
 ## Fazit
+Auch wenn durch die Kontaktbeschränkungen die Testung des Paper Prototype erschwert war, konnten zum Abschluss wichtige Erkenntnisse gewonnen werden, die in einem weiteren iterativen Entwicklungsprozess berücksichtigt werden sollten:
 
+* Die **Flexibilität** verschiedene Geräte wie Laptop,Tablet oder Fernseher für sein Workout nutzen zu können, ist durch den Prototyp bisher nicht gegeben. Responsive Design wäre in einem späteren Schritt ein wichtiger Punkt.
+* Den User:innen sollte neben den für sie ausgewählten Angeboten auch die **Möglichkeit zur eigenständigen Suche** eingeräumt werden.
+* Der Prozess zur **Auswahl der persönlichen Präferenzen** sollte als nächstes umgesetzt werden.
+* Unklar war zudem, in welchem Prozessschritt ein Workout im **Archiv oder Kalender** abgespeichert werden kann, weil der Prototyp dieser User Flows nicht abbildete.
 
-**Reflektion:** Am Anfang des Projekts hätte ich nicht gedacht, dass am Ende ein erster Entwurf einer App mit dem Fokus auf Abwechslung im Sport-Angebot entstehen würde. Wie groß der **Erkenntnisgewinn über Nutzer:innen durch User Interviews** sein kann, hat sich hier für mich eindeutig bewahrheitet, weil ich ohne den Fokus nicht darauf gelegt hätte. Die einzelnen **Methoden des Design Thinking-Ansatzes auszuprobieren** war für mich ebenfalls gewinnbringend und ich konnte die bereits erlernte Theorie durch den IxDF-Kurs erfolgreich in die Praxis umsetzen.
+**Nächste Schritte**, die bei einer Fortführung des Projekts gemacht werden sollten:
+
+* Mehr **User Research**, um die Projektidee auf den Prüfstand zu stellen und die Präferenzen bei der Suche nach Sport-Angeboten zu verstehen.
+* **Prototyping** und **Usability Testing**: Weitere Versionen der App entwickeln und testen, um Probleme und Fehler zu entdecken und das Produkt zu verbessern.
+* Das bisherige **MVP** um Kalender, Archiv und Suchfunktion erweitern.
+* Konzept für **mehrere Endgeräte** entwickeln und Design der App **responsive** umsetzen.
+* **Finanzierbarkeit der App** planen. Möglich wären zum Beispiel Werbung, monatliche Beiträge oder einmalige Gebühr, Bezahlung der Trainer:innen, Produktplatzierungen in den Videos etc. 
+* Ein **Vergleich mit ähnlichen Anbietern**, um dadurch zu verstehen, was diese auszeichnet und was diese bisher nicht bieten. Daraus könnten sich Potentiale für die eigene App ableiten lassen. Diese Potentiale sollten jedoch durch User Research analysiert werden.
+
+**Reflektion:** Am Anfang des Projekts hätte ich nicht gedacht, dass am Ende ein erster Entwurf einer App mit dem Fokus auf Abwechslung im Sport-Angebot entstehen würde. Wie groß der **Erkenntnisgewinn über Nutzer:innen durch User Interviews** sein kann, hat sich hier für mich eindeutiggezeigt. Die einzelnen **Methoden des Design Thinking-Ansatzes auszuprobieren** war für mich ebenfalls gewinnbringend und ich konnte die bereits erlernte Theorie durch den IxDF-Kurs erfolgreich in die Praxis umsetzen.
 {: .notice--primary}
-
-Info für mich: Schlussfolgerung zum Prototypen und Schritte für eine nächste Iteration beschreiben.
-{: .notice--warning}
