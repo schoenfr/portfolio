@@ -3,54 +3,54 @@ layout: splash
 title: "Fitness Booster"
 permalink: /fitnessbooster/
 gallery_userinterview:
-  - url: /assets/images/fbuserinterviewsklein.png
-    image_path: assets/images/fbuserinterviewsklein.png
+  - url: /assets/images/fbuserinterviews.png
+    image_path: assets/images/fbuserinterviews.png
     alt: "User Interviews: Fragensammlung, Fragebogen und Aufgaben"
     title: "User Interviews: Fragensammlung, Aufgaben und Fragebogen"
-  - url: /assets/images/fbuinotizenantwortenklein.png
-    image_path: assets/images/fbuinotizenantwortenklein.png
+  - url: /assets/images/fbuinotizenantworten.png
+    image_path: assets/images/fbuinotizenantworten.png
     alt: "User Interviews: Notizen und Anworten"
     title: "Notizen zu den einzelnen User Interviews und Antworten der User zu den Aufgaben"
-  - url: /assets/images/fbaffinitydiagramklein.png
-    image_path: assets/images/fbaffinitydiagramklein.png
+  - url: /assets/images/fbaffinitydiagram.png
+    image_path: assets/images/fbaffinitydiagram.png
     alt: "Affinity Diagram Gesamt- und Detailansicht"
     title: "Affinity Diagram Gesamt- und Detailansicht"
 gallery_persona:
-  - url: /assets/images/fbpersonasklein.png
-    image_path: assets/images/fbpersonasklein.png
+  - url: /assets/images/fbpersonas.png
+    image_path: assets/images/fbpersonas.png
     alt: "Personas Bina und Mitch"
     title: "Die beiden Personas Bina und Mitch"
 gallery_empovhmw:
-  - url: /assets/images/fbempovhmwklein.png
-    image_path: assets/images/fbempovhmwklein.png
+  - url: /assets/images/fbempovhmw.png
+    image_path: assets/images/fbempovhmw.png
     alt: "Empathy Map, Point of View und How Might We"
     title: "Empathy Maps und Points of View für beide Personas und Ergebnisse der How Might We-Session"
 gallery_badideaschallenge:
-  - url: /assets/images/fbbadideaschallengeklein.png
-    image_path: assets/images/fbbadideaschallengeklein.png
+  - url: /assets/images/fbbadideaschallenge.png
+    image_path: assets/images/fbbadideaschallenge.png
     alt: "Bad Ideas, Challenge Assumptions"
     title: "Ergebnisse von Worst Possible Ideas und Challenge Assumptions"
 gallery_storyboard:
-  - url: /assets/images/fbstoryboardbinaklein.png
-    image_path: assets/images/fbstoryboardbinaklein.png
+  - url: /assets/images/fbstoryboardbina.png
+    image_path: assets/images/fbstoryboardbina.png
     alt: "Storyboard Bina"
     title: "Storyboard 1: Bina möchte ein anderes Training ausprobieren"
-  - url: /assets/images/fbstoryboardmitchklein.png
-    image_path: assets/images/fbstoryboardmitchklein.png
+  - url: /assets/images/fbstoryboardmitch.png
+    image_path: assets/images/fbstoryboardmitch.png
     alt: "Storyboard Mitch"
     title: "Storyboard 2: Mitch wird von Bina zu einem Livestreaming-Angebot eingeladen"
 gallery_paperprototype01:
-  - url: /assets/images/fbpp01klein.png
-    image_path: assets/images/fbpp01klein.png
+  - url: /assets/images/fbpp01.png
+    image_path: assets/images/fbpp01.png
     alt: "Paper Prototype Gesamtansicht"
     title: "Paper Prototype: Gesamtansicht mit Screens für beide Storyboards"
 gallery_paperprototype02:
-  - url: /assets/images/fbpp02klein.png
-    image_path: assets/images/fbpp02klein.png
+  - url: /assets/images/fbpp02.png
+    image_path: assets/images/fbpp02.png
     alt: "Paper Prototype Smartphone-Modell, Notizen und erste Schritte"
     title: "Paper Prototype: Smartphone-Modell, Notizen und erste Screens"
-  - url: /assets/images/fbpp03klein.png
-    image_path: assets/images/fbpp03klein.png
+  - url: /assets/images/fbpp03.png
+    image_path: assets/images/fbpp03.png
     alt: "Paper Prototype Detailansichten"
     title: "Paper Prototype: Detailansichten"
 header:
