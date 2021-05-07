@@ -52,21 +52,21 @@ gallery_auswertung05:
 gallery_empfehlung01:
   - url: /assets/images/utempfehlung01.png
     image_path: assets/images/utempfehlung01.png
-    alt: "Sitemap des Webshops mit neuer Struktur für Webshop und im Detail für die Kategorie Pflanzen"
-    title: "Sitemap des Webshops mit neuer Struktur für Webshop und im Detail für die Kategorie Pflanzen"
+    alt: "Auszüge aus dem Kapitel zu den Empfehlungen"
+    title: "Auszüge aus dem Kapitel zu den Empfehlungen"
   - url: /assets/images/utempfehlung02.png
     image_path: assets/images/utempfehlung02.png
-    alt: "Details der Sitemap"
-    title: "Details der Sitemap"
+    alt: "Sitemap des Webshops mit neuer Struktur für Webshop und im Detail für die Kategorie Pflanzen"
+    title: "Sitemap des Webshops mit neuer Struktur für Webshop und im Detail für die Kategorie Pflanzen"
   - url: /assets/images/utempfehlung03.png
     image_path: assets/images/utempfehlung03.png
-    alt: "Beispiele für eine Erweiterung der Farbgestaltung"
-    title: "Beispiele für eine Erweiterung der Farbgestaltung"
+    alt: "Details der Sitemap"
+    title: "Details der Sitemap"
 gallery_empfehlung02:
   - url: /assets/images/utempfehlung04.png
     image_path: assets/images/utempfehlung04.png
-    alt: "Beispiele für eine Erweiterung der Farbgestaltung"
-    title: "Beispiele für eine Erweiterung der Farbgestaltung"
+    alt: "Auszüge aus dem Kapitel zu den Empfehlungen"
+    title: "Auszüge aus dem Kapitel zu den Empfehlungen"
 header:
   image: /assets/images/sukkulententitelbild.jpg
   teaser: /assets/images/utteaser.jpg
