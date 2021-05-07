@@ -46,24 +46,24 @@ Seit **Dezember 2020** eigne ich mir durch verschiedene **Weiterbildungsangebote
 
 **UX Design:**
 
-Durch meine **Fortbildungen** habe ich bereits folgende Bereiche kennengelernt:
+Durch meine **Fortbildungen** habe ich folgende Bereiche kennengelernt:
 
 * **Design Thinking, User-Centered Design, Lean Design** 
 * **User Research:** User Interviews, Affinity Diagram, Empathy Maps, Personas
 * **Ideation-Methoden:** How Might We, POV, Bad Ideas, Challenge Assumptions
 * **Information Architecture** und **Storyboarding**
 * **Prototyping** und **Wireframing**
-* **Usability Testing:** Testpläne, Testszenarios, Testbericht
+* **Usability Testing:** Testpläne, Testszenarios, Testberichte
 
-Im Rahmen der Erstellung und Gestaltung meines **Portfolios** über Github habe ich begonnen mich mit **HTML und CSS** auseinanderzusetzen, um das gewählte Theme nach meinen Bedürfnissen anpassen zu können.
+Im Rahmen der Erstellung und Gestaltung meines **Portfolios** über Github habe ich mich mit **HTML und CSS** auseinandergesetzt, um das gewählte Theme nach meinen Bedürfnissen anpassen zu können.
 
 Durch meine **bisherige Arbeitserfahrung** habe ich mir außerdem einige Kompetenzen angeeignet, die ich als nützlich für meine Tätigkeit als UX Designerin ansehe:
 
 * **Fachliche Kompetenzen:**
-Ich bin mit der **Lösung von komplexen Aufgaben in einem wissenschaftlichen Kontext** vertraut und habe die Zwischenstände meiner Arbeit regelmäßig während meiner Promotion präsentiert. Das Ziel der **Präsentationen** war es die eigene Arbeit zu reflektieren, die gewonnenen Erkenntnisse zur Diskussion zu stellen und durch das daraus gewonnene Feedback weiter voranzukommen. Als Kunsthistorikerin besitze ich zudem ein umfangreiches **Bildergedächtnis** und habe mich mit vielfältigen **gesellschaftlichen Theorien** auseinandergesetzt. In meiner Dissertation habe ich mich mit Bildern von beschnitzten Bäumen in britischen Expeditionsberichten über Australien im 18. und 19. Jahrhundert auseinandergesetzt und habe mich in diesem Zusammenhang im Schwerpunkt mit den Bereichen **Umweltgeschichte, Kolonialismus und Rassismus** beschäftigt. Dieses Fachwissen erscheint mir auch im Alltag eines UX Designers nützlich, weil ich durch diese Kenntnisse **andere Perspektiven zu ethischen und gesellschaftlichen Fragen bei der Umsetzung und Gestaltung von digitalen Produkten** einbringen kann.
+Ich bin mit der **Lösung von komplexen Aufgaben in einem wissenschaftlichen Kontext** vertraut. Die Zwischenstände meiner Arbeit habe ich regelmäßig präsentiert. Das Ziel der **Präsentationen** war es die eigene Arbeit zu reflektieren, die gewonnenen Erkenntnisse zur Diskussion zu stellen und das gewonnene Feedback zu verwerten. Als Kunsthistorikerin besitze ich zudem ein umfangreiches **Bildergedächtnis** und habe mich mit vielfältigen **gesellschaftlichen Theorien** auseinandergesetzt. In meiner Dissertation habe ich mich mit Bildern von beschnitzten Bäumen in britischen Expeditionsberichten über Australien im 18. und 19. Jahrhundert auseinandergesetzt und mich im Schwerpunkt mit den Bereichen **Umweltgeschichte, Kolonialismus und Rassismus** beschäftigt. Dieses Fachwissen erscheint mir auch im Alltag eines UX Designers nützlich, weil ich durch diese Kenntnisse **andere Perspektiven zu ethischen und gesellschaftlichen Fragen bei der Umsetzung und Gestaltung von digitalen Produkten** einbringen kann.
 
 * **Persönliche Kompetenzen:**
-Als Doktorandin war es außerordentlich wichtig ein hohes Maß an **Selbstorganisation und Eigenmotivation** mitzubringen, da die Verantwortung für den erfolgreichen Abschluss der Arbeit in meinen eigenen Händen lag. **Meine Stärken** sehe ich in der **Kommunikation, meiner Kritikfähigkeit und meiner Disziplin.** Außerdem arbeite ich in erster Linie **lösungsorientiert**. Mit meinen zukünfitgen Kolleg:innen auf **Englisch** zu kommunizieren ist für mich ohne Probleme möglich.
+Als Doktorandin war es außerordentlich wichtig ein hohes Maß an **Selbstorganisation und Eigenmotivation** mitzubringen, da die Verantwortung für den erfolgreichen Abschluss der Arbeit in meinen eigenen Händen lag. **Meine Stärken** sehe ich in der **Kommunikation, meiner Kritikfähigkeit und meiner Disziplin.** Außerdem arbeite ich in erster Linie **lösungsorientiert**. Mit meinen zukünftigen Kolleg:innen auf **Englisch** zu kommunizieren ist für mich ohne Probleme möglich.
 
 ### Abgeschlossene Fortbildungen
 * **Interaction Design Foundation**
