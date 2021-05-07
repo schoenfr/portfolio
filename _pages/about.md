@@ -5,7 +5,7 @@ title: "Mareike Boßelmann"
 gallery_udemy:
   - url: https://www.udemy.com/certificate/UC-fecf4e1c-315d-41b6-98a6-b4dfcb1484f5
     image_path: assets/images/udemyuxdesignsketching.jpg
-    alt: "Udemy Ux Design Sketching"
+    alt: "Udemy UX Design Sketching"
 gallery_ixdf:
   - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/8ffd8c1c-9c52-4c1c-b309-dba88524c432
     image_path: assets/images/idxfcreativity.jpg
@@ -25,6 +25,10 @@ gallery_ixdf:
   - url: https://www.interaction-design.org/mareike-bosselmann/certificate/course/950c716a-fa49-4ee8-aeb0-f24191ee8bb2
     image_path: assets/images/idxfuxbeginner.jfif
     alt: "User Experience: The Beginner's Guide"
+gallery_google:
+  - url: https://coursera.org/verify/WD6PHNWY5P9Z
+    image_path: assets/images/googlefoundations.jpg
+    alt: "Foundations of User Experience (UX) Design"
 ---
 
 <figure style="width: 300px" class="align-right">
@@ -66,6 +70,9 @@ Ich bin mit der **Lösung von komplexen Aufgaben in einem wissenschaftlichen Kon
 Als Doktorandin war es außerordentlich wichtig ein hohes Maß an **Selbstorganisation und Eigenmotivation** mitzubringen, da die Verantwortung für den erfolgreichen Abschluss der Arbeit in meinen eigenen Händen lag. **Meine Stärken** sehe ich in der **Kommunikation, meiner Kritikfähigkeit und meiner Disziplin.** Außerdem arbeite ich in erster Linie **lösungsorientiert**. Mit meinen zukünftigen Kolleg:innen auf **Englisch** zu kommunizieren ist für mich ohne Probleme möglich.
 
 ### Abgeschlossene Fortbildungen
+* **Google (Coursera)**
+{% include gallery layout="third" id="gallery_google" %}
+
 * **Interaction Design Foundation**
 {% include gallery layout="third" id="gallery_ixdf" %}
 
