@@ -67,9 +67,13 @@ collections:
 
 footer:
   links:
+    - label: "mareike.bosselmann@gmx.de"
+      url: "mailto:mareike.bosselmann@gmx.de"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/mareike-bosselmann/"  
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/mbosselmann"
 
 defaults:
   # _pages
