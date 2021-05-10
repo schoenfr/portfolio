@@ -42,7 +42,7 @@ Im **November 2020** habe ich meine **Dissertation an der Universität Hamburg e
 
 Seit **Dezember 2020** eigne ich mir durch verschiedene **Weiterbildungsangebote** relevante Kenntnisse für den Bereich UX Design an. Bisher habe ich vor allem Kurse von der [**Interaction Design Foundation**](https://www.interaction-design.org/) absolviert und darüber im Rahmen von zwei Kursen meine [**ersten Projekte**](https://mbosselmann.github.io/portfolio/projects/) umgesetzt. Nun suche ich nach einer **Einstiegsmöglichkeit**, um als UX Designerin praktische Erfahrungen zu sammeln, meine bisherigen Kenntnisse zu vertiefen und neue Kompetenzen zu erlernen.
 
-<a href="/assets/documents/lebenslauf_bosselmann.pdf" class="btn btn--primary">Lebenslauf</a>
+<a href="https://mbosselmann.github.io/portfolio/assets/documents/lebenslauf_bosselmann.pdf" class="btn btn--primary">Lebenslauf</a>
 
 <a href="mailto:mareike.bosselmann@gmx.de" class="btn btn--primary">E-Mail</a>
 
