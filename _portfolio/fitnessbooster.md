@@ -116,18 +116,18 @@ Dementsprechend war mein erster Gedanke, dass die App so konzipiert sein müsste
 * Wie können wir dazu anregen, dass dieses **Angebot auch genutzt** wird?
 * Wie stellen wir sicher, dass wir ihnen mit unserem Angebot einen **echten Mehrwert** bieten?
 * Wie können wir ihre **Erfahrungen** bei unserem Angebot einbinden, um die zukünftige Auswahl für sie zu verbessern? 
-* Wie stellen wir also sicher, dass sie ein abwechslungsreiches Angebot auch **interessant** finden?
-* Wie können wir ihnen die nötigen **Informationen** bereitstellen, damit sie das Gefühl haben über das Sport-Angebot ausreichend informiert zu sein?
+* Wie stellen wir sicher, dass sie ein abwechslungsreiches Angebot auch **interessant** finden?
+* Wie können wir ihnen die nötigen **Informationen** bereitstellen, damit sie das Gefühl haben, über das Sport-Angebot ausreichend informiert zu sein?
 
 {% include gallery id="gallery_badideaschallenge" caption="Ergebnisse von Worst Possible Ideas und Challenge Assumptions" %}
 
-Mit dem **"Worst Possible Ideas"-Ansatz** wurden schließlich Aspekte und Funktionen erarbeitet, die für die App relevant erschienen. Zunächst habe ich mir hierfür die schlechten Ideen zu diesen Fragen notiert wie "Wir fragen die User nicht nach ihrer Meinung.", um im Umkehrschluss zu guten Lösungen zu kommen. Daraus wurden **Ideen zu den möglichen Funktionalitäten der App** produziert:
+Mit dem **"Worst Possible Ideas"-Ansatz** wurden Aspekte und Funktionen erarbeitet, die für die App relevant erschienen. Zunächst habe ich mir hierfür die schlechten Ideen zu diesen Fragen notiert, wie zum Beispiel "Wir fragen die User nicht nach ihrer Meinung.", um im Umkehrschluss zu guten Lösungen zu kommen. Daraus wurden **Ideen zu den möglichen Funktionalitäten der App** produziert:
 
 * Die App sollte eine Möglichkeit zur **Einschätzung** des eigenen Fitness-Levels und zur Erfahrung mit verschiedenen Sportarten geben, um daraus passende Angebote für den User abzuleiten.
 * Zudem sollte es eine Option der **Bewertung** des absolvierten Sport-Angebots durch den User geben, um so die Auswahl an Trainings zu verbessern.
-* Ein privates **Archiv** zum Speichern und Kategorisieren von Trainings könnte es erleichtern diese auch zu einem späteren Zeitpunkt wiederfinden zu können.
-* Die **Möglichkeit des Austauschs und Teilens** von Sport-Angeboten mit Freunden sollte gegeben sein, damit auch bei Bedarf gemeinsam Sport gemacht werden kann.
-* Zudem sollte die Funktion der **Integration regionaler Sport-Angebote** eingebaut werden, um das gemeinsame Sport-Erlebnis noch besser fördern zu können.
+* Ein privates **Archiv** zum Speichern und Kategorisieren von Trainings könnte es erleichtern, diese zu einem späteren Zeitpunkt wiederfinden zu können.
+* Die **Möglichkeit des Austauschs und Teilens** von Sport-Angeboten mit Freunden sollte gegeben sein, damit auch gemeinsam Sport gemacht werden kann.
+* Zudem sollte die Funktion der **Integration regionaler Sport-Angebote** eingebaut werden, um das gemeinsame Sport-Erlebnis besser fördern zu können.
 
 Durch die **"Challenge Assumptions"-Methode** wurden dann **drei Annahmen** formuliert, von denen ich ausgegangen bin, dass sie die User Experience des Produkts beeinflussen werden. Mein Ziel war es zu hinterfragen, inwieweit diese Annahmen durch bestimmte Funktionalitäten der App nicht doch überwunden werden können: 
 
@@ -135,28 +135,28 @@ Durch die **"Challenge Assumptions"-Methode** wurden dann **drei Annahmen** form
 
 * Eine optionale **Erinnerungs-Funktion**, die genutzt werden kann, um sich an ein anstehendes Training zu erinnern.
 * **Interviews mit anderen Nutzer:innen der App führen** und sie danach befragen, was sie persönlich dazu motiviert mehr Sport zu machen. Diese Interviews werden in einer eigenen Rubrik veröffentlicht und die Interviewten sollen als **Identifikationsfiguren** für die unmotivierten Sportler:innen dienen, um Lust auf ein Training zu bekommen.
-* Sport-Angebote zu bieten, die dem User ein **positives Gefühl geben etwas Gutes für seinen Körper** getan zu haben.
+* Sport-Angebote bieten, die den User:innen ein **positives Gefühl geben, etwas Gutes für den Körper** getan zu haben.
 * **Freunde als Motivationsfaktoren** von Anfang miteinzubeziehen durch Teilen- und Kommunikationsmöglichkeiten.
 * **Gamification:** Würde ein Belohnungssystem mehr Anreize schaffen, um Sport zu machen?
 
-**2. Annahme: Das Angebot an digitalen Sport-Angeboten wird so groß sein, dass es nicht möglich ist auch einen Überblick über regionale Angebote zu liefern.** Diese Annahme habe ich formuliert, weil durch die User Interviews klar wurde, dass die befragten Personen sich nicht erst einen großen Überblick über alle regionalen Angebote gemacht haben, weil allein diese bereits sehr vielfältig waren. Häufig haben sie **naheliegende Sport-Angebote** wie zum Beispiel Hochschulsport oder von Freund:innen und Familie empfohlene Anbieter genutzt. Es erschien mir daher ein Problem zu sein sowohl digitale als auch regionale Angebote in die App miteinzubeziehen, da die **Informationsflut** die Nutzer:innen der App erschlagen könnten. Mögliche **Lösungsansätze** erschienen mir hier zu sein:
+**2. Annahme: Das Angebot an digitalen Sport-Angeboten wird so groß sein, dass es nicht möglich ist, auch einen Überblick über regionale Angebote zu liefern.** Diese Annahme habe ich formuliert, weil durch die User Interviews klar wurde, dass die befragten Personen sich nicht erst einen großen Überblick über alle regionalen Angebote gemacht haben, weil allein diese bereits sehr vielfältig waren. Häufig haben sie **naheliegende Sport-Angebote** wie zum Beispiel Hochschulsport oder von Freund:innen und Familie empfohlene Anbieter genutzt. Es erschien mir daher ein Problem zu sein sowohl digitale als auch regionale Angebote in die App miteinzubeziehen, da die **Informationsflut** die Nutzer:innen der App erschlagen könnten. Mögliche **Lösungsansätze** erschienen mir hier zu sein:
 
-* **Expert:innen** für eine bestimmte Sportart miteinbeziehen, um passende und gute regionale Angebote in die App miteinzubeziehen.
+* **Expert:innen** für eine bestimmte Sportart miteinbeziehen, um passende und gute regionale Angebote in die App einzubinden.
 * Eine **Filtermöglichkeit**, mit der ausgewählt werden kann, ob regionale Angebote für einen überhaupt interessant sind.
 * Möglichkeit geben, dass **regionale Anbieter auf einen zukommen können**, um nach einer Prüfung in die Liste von regionalen Angeboten mit aufgenommen zu werden.
 
-**3. Annahme: Eine Fitness-App kann nicht für das "Yeah"-Gefühl sorgen, dass man beim Sport entwickelt, weil die Trainings-Atmosphäre Zuhause fehlt, die man im Studio hat.** Diese Annahme spiegelt ebenfalls die Meinung der Zielgruppe wieder, die dieses Glücksgefühl unter anderem als "Yeah"-Gefühl beschrieb. Ich habe mich hier gefragt, ob tatsächlich das gleiche "Yeah"-Gefühl entstehen muss oder ob auch ein **anderes Zufriedenheitsgefühl durch den digital angebotenen Sport** entstehen kann, dass ebenfalls die Motivation regelmäßig Sport zu machen steigert. Folgende **Lösungsansätze** hatte ich mir hierzu überlegt:
+**3. Annahme: Eine Fitness-App kann nicht für das "Yeah"-Gefühl sorgen, dass man beim Sport entwickelt, weil die Trainings-Atmosphäre zuhause fehlt, die man im Studio hat.** Diese Annahme spiegelt ebenfalls die Meinung der Zielgruppe wieder, die dieses Glücksgefühl unter anderem als "Yeah"-Gefühl beschrieb. Ich habe mich hier gefragt, ob tatsächlich das gleiche "Yeah"-Gefühl entstehen muss oder ob auch ein **anderes Zufriedenheitsgefühl durch den digital angebotenen Sport** entstehen kann, dass ebenfalls die Motivation regelmäßig Sport zu machen steigert. Folgende **Lösungsansätze** hatte ich mir hierzu überlegt:
 
 * **Livestreaming-Angebote** könnten ein Training in das eigene Wohn- oder Sportzimmer holen und so mehr Nähe vermitteln.
 * Die Option von **individuellen Wochenzielen** einräumen, die frei formuliert werden können.
 * Den Fokus auf das **abwechslungsreiche Sport-Angebot** legen und aktiv neue Sport-Angebote mit neuen Übungen präsentieren.
 * Und erneut **Gamification**: Könnte ein Belohnungssystem ebenfalls zu einem positiven Gefühl beitragen?
 
-**Reflektion:** Durch die verschiedenen Methoden der Ideenfindung eröffnete sich mir ein klareres Bild darüber, wie die App aussehen könnte. Es erschien mir aber **nicht sinnvoll alle Funktionalitäten in einem ersten Entwurf der App** umzusetzen. Anhand der eingesetzten Methoden war mir außerdem nicht klar, welche Bestandteile für die App essenziell waren und das **MVP** definierten. Die **Begrenzung auf das Wesentliche** war somit die nächste Herausforderung, die es zu bewältigen galt.
+**Reflektion:** Durch die verschiedenen Methoden der Ideenfindung eröffnete sich mir ein klareres Bild, wie die App aussehen könnte. Es erschien mir aber **nicht sinnvoll alle Funktionalitäten in einem ersten Entwurf der App** umzusetzen. Anhand der eingesetzten Methoden war mir außerdem nicht klar, welche Bestandteile für die App essenziell waren und das **MVP** definierten. Die **Begrenzung auf das Wesentliche** war somit die nächste Herausforderung, die es zu bewältigen galt.
 {: .notice--primary}
 
 ## Storyboards & Paper Prototype: Erster Entwurf der App
-Welche Funktionalitäten sollte die App auf jeden Fall besitzen? Und welche Bestandteile konnten auch später noch eingefügt werden? Das waren die beiden Fragen, die mich beschäftigten und die ich durch **Storyboards** zu lösen suchte. Das Konzept der Storyboards bot mir einerseits die Möglichkeit nah an der Zielgruppe und ihren Bedürfnissen zu bleiben und andererseits einen guten Ausgangspunkt, um über die typische Nutzung meiner App im Alltag zu reflektieren und das MVP zu definieren. Es wurden **zwei Storyboards** erstellt; für jede Persona eins. 
+Welche Funktionalitäten sollte die App auf jeden Fall besitzen? Und welche Bestandteile konnten auch später noch eingefügt werden? Das waren die beiden Fragen, die mich beschäftigten und die ich durch **Storyboards** zu lösen suchte. Das Konzept der Storyboards bot mir einerseits die Möglichkeit nah an der Zielgruppe und ihren Bedürfnissen zu bleiben und andererseits einen guten Ausgangspunkt, um über die typische Nutzung meiner App im Alltag zu reflektieren und das MVP zu definieren. Es wurden **zwei Storyboards** erstellt; für jede Persona eins.
 
 {% include gallery id="gallery_storyboard" caption="Storyboards: Zwei Abläufe einer typischen Nutzung der Fitness App mit Bina und Mitch" %}
 
