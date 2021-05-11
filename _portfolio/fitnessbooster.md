@@ -104,9 +104,9 @@ Die Erkenntnisse über die Zielgruppe wurden anschließend genutzt, um **die bei
 {: .notice--primary}
 
 ## Ideenfindung: Welche Funktionalitäten soll die Fitness-App bieten?
-Als nächstes galt es ein **auf diese Zielgruppe zugeschnittenes Konzept für eine Fitness App** zu erarbeiten. Die zentrale Frage war für mich, welchen **Zweck** die App erfüllen sollte: Welche Bedürfnisse hatten die UserInnen gemein und welches davon ließen sich in einer Fitness App umsetzen? Erste Schritte waren hierfür die Erstellung einer **Empathy Map** für jede Persona und die Formulierung eines gemeinsmen **Point of View**. Dadurch wurde deutlich, dass beide Personas etwas miteinander verbindet: **Das Bedürfnis nach Abwechslung beim Sport.**
+Als nächstes galt es, ein **auf diese Zielgruppe zugeschnittenes Konzept für eine Fitness App** zu erarbeiten. Die zentrale Frage war für mich, welchen **Zweck** die App erfüllen sollte: Welche Bedürfnisse hatten die UserInnen gemein und welches davon ließen sich in einer Fitness App umsetzen? Erste Schritte waren hierfür die Erstellung einer **Empathy Map** für jede Persona und die Formulierung eines gemeinsamen **Point of View**. Dadurch wurde deutlich, was beide Personas miteinander verbindet: **Das Bedürfnis nach Abwechslung beim Sport.**
 
-{% include gallery id="gallery_empovhmw" caption="Empathy Maps und Points of View für beide Personas und Ergebnisse der How Might We-Session" %}
+{% include gallery id="gallery_empovhmw" caption="Empathy Maps und Points of View für beide Personas und Ergebnisse der &quot;How Might We&quot;-Session" %}
 
 Wie zuvor aus den **User Interviews** klar wurde und sich auch in den **Empathy Maps** zeigte, bot der **Fokus auf das Thema "Abwechslung" Möglichkeiten, aber auch Hindernisse**. Zum einen definierte die Zielgruppe Abwechslung beim Sport als **Motivationsfaktor**. Zum anderen hatten die NutzerInnen nur wenig Interesse an der eigenen Suche nach anderen Sportaktivitäten. **Langeweile beim Training wurde dann eher in Kauf genommen als selbst Abwechslung zu suchen.** Auch ging es nicht darum möglichst viele verschiedene Sportarten auszuprobieren, sondern im Rahmen der einen präferierten Sport-Richtung verschiedene Übungen und Trainings auszuprobieren. 
 
