@@ -91,7 +91,7 @@ Die wichtigsten **Erkenntnisse** zur Motivation, zum Sport-Verhalten und zu den 
 * **Wettkämpfe** und andere Sport-Events konnten für die TeilnehmerInnen die **Motivation zu mehr Bewegung nur kurzfristig** steigern. Sie führten vor den jeweiligen Veranstaltungen zu einem erhöhten Trainingsaufkommen. Danach wurde dieses Sport-Verhalten von den UserInnen nicht beibehalten oder zu anderen Sportarten gewechselt.
 
 **3. Bisherige Erfahrungen mit digitalen Angeboten**
-* Die **Nutzung von digitalen Fitness-Angeboten** ist seit dem **Beginn der Corona-Pandemie bei den befragten Personen insgesamt gestiegen**. Der Großteil bevorzugte Angebote ohne Registrierung und nutzte bestimmte Anbieter über deren Webseite oder über YouTube. Als Geräte zum Abspielen der Workouts wurden je nach Userin **Laptop, Smartphone oder der Fernseher** verwendet.
+* Die **Nutzung von digitalen Fitness-Angeboten** ist seit dem **Beginn der Corona-Pandemie bei den befragten Personen insgesamt gestiegen**. Der Großteil bevorzugte Angebote ohne Registrierung und nutzte bestimmte Anbieter über deren Webseite oder über YouTube. Als Geräte zum Abspielen der Workouts wurden **Laptop, Smartphone oder der Fernseher** verwendet.
 * Ein **eigenes, individuelles Sport-Programm haben die UserInnen nicht für sich konzipiert**, sondern auf die Pläne der jeweiligen Sport-Anbieter zurückgegriffen. 
 * Häufig haben sie von einem Anbieter ähnliche Angebote genutzt und **wenig ausprobiert**. Dadurch waren die Übungen zwar **bekannt**, die Workouts wurden so aber auch mit der Zeit **langweilig.**
 * **Abwechslung** war daher für sie ein motivierender Faktor, um mehr Sport zu betreiben. **Paradox war jedoch, dass das Interesse nach dieser Form von Abwechslung selbst zu suchen kaum vorhanden war.**
